@@ -16,6 +16,7 @@ please <u>share them with us (for internal info: hyperlinked to FormSG)</u>
 </div>
 <p><em>&lt;Note to Dionne: removed handy guide cos i vaguely recall you mentioned it should be treated the same way as the Primary Schools etc.&gt;</em>
 </p>
+<p></p>
 <h2><strong>Primary Schools</strong></h2>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
