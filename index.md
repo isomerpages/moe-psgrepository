@@ -7,25 +7,36 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Parent Support Group Repository
+      subtitle: A warm welcome to the PSG community, where we learn with, learn from
+        and learn for one another.
       background: /images/hero-banner.png
-      button: Contact Us
+      button: DO We ReALLY WAnt THEM TO CONTACT US?
       url: /contact-us/
       key_highlights:
         - title: Highlight A
-          description: Important highlight A is important
+          description: Positive Stories
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Events
+          description: Upcoming & Past Events
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Resources
+          description: Everything you need and more
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - textcards:
+      title: Getting Started
+      id: textcards
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
