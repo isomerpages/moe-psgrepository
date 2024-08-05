@@ -8,6 +8,7 @@ description: ""
 like to share your PSG efforts or come across any inspiring PSG stories,
 please <u>share them with us (for internal info: hyperlinked to FormSG)</u>
 </p>
+<hr>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
