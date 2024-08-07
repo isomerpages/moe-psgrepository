@@ -14,7 +14,7 @@ sections:
       button: DO We ReALLY WAnt THEM TO CONTACT US?
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: Positive Stories
           description: Positive Stories
           url: https://google.com
         - title: Events
