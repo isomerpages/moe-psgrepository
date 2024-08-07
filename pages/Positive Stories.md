@@ -83,4 +83,5 @@ info: hyperlinked to resource)&nbsp;</p>
 <p>...</p>
 </li>
 </ul>
-<p></p>
+<p><a href="/files/sample_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Sample sample</a>
+</p>
