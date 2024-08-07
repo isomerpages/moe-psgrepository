@@ -39,4 +39,13 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Olympics
+      subtitle: Add an image and text
+      id: infopic
+      description: run run run trumpet whoohoo
+      button: duck
+      url: https://sites.google.com/moe.edu.sg/psg-online-repository/psg-guides#h.62345dq6v70t
+      image: /images/dummy_image_1.png
+      alt: Image alt text
 ---
