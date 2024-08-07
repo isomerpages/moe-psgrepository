@@ -48,4 +48,14 @@ sections:
       url: https://sites.google.com/moe.edu.sg/psg-online-repository/psg-guides#h.62345dq6v70t
       image: /images/dummy_image_1.png
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Event 111
+          date: 07 August 2024
+          announcement: Event
+          link_text: ""
+          link_url: ""
 ---
