@@ -24,13 +24,13 @@ sections:
           description: Everything you need and more
           url: /privacy/
   - textcards:
-      title: Getting Started
+      title: Getting Started!
       id: textcards
       cards:
-        - title: Card
+        - title: Card 1
           description: Card description
-          linktext: Learn more
-          url: ""
+          linktext: PSG calendar
+          url: https://sites.google.com/moe.edu.sg/psg-online-repository/psg-guides#h.62345dq6v70t
         - title: Card
           description: Card description
           linktext: Learn more
