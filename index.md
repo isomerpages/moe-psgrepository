@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Positive Stories
           description: Positive Stories
-          url: https://google.com
+          url: /positive-stories
         - title: Events
           description: Upcoming & Past Events
           url: https://gmail.com
