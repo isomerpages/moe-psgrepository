@@ -15,7 +15,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Positive Stories
-          description: Positive Stories
+          description: All the good stuff
           url: /positive-stories
         - title: Events
           description: Upcoming & Past Events
