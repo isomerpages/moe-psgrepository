@@ -8,6 +8,36 @@ description: ""
 like to share your PSG efforts or come across any inspiring PSG stories,
 please <u>share them with us (for internal info: hyperlinked to FormSG)</u>
 </p>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Supporting Parents From Day 1" src="/images/Supporting_Parents_from_Day_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Supporting Parents From Day 1</div><div class="isomer-card-description">Explore how PSGs initiate connections with parents from the first day of school.</div><div class="isomer-card-link">Click here to expand picture</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Organising_Parent_Child_Bonding_Activities.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Organsing Parent-Child Bonding Activities</div>
+<div class="isomer-card-description">Discover the initiatives PSGs undertake to nurture parent-child bonds
+within their school communities.</div>
+<div class="isomer-card-link">Click here to expand picture</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Building_a_Supportive_Community_for_Parents.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building a Supportive Community for Parents</div><div class="isomer-card-description">Learn how PSGs build parent-peer communitiesClick </div><div class="isomer-card-link">Click here to expand picture to expand picture</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bringing Out the Best in Our Students" src="/images/Bringing_Out_the_Best_in_Our_Students.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bring Out the Best in our Studentd</div>
+<div class="isomer-card-description">Read more to learn how PSGs support students to uncover their strengths
+and interests.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <p><a href="/files/sample_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF upload</a>
 </p>
 <hr>
