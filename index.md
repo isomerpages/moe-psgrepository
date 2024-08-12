@@ -27,35 +27,26 @@ sections:
       title: Getting Started!
       id: textcards
       cards:
-        - title: Card 1
-          description: Card description
-          linktext: PSG calendar
+        - title: '"How-To" Guide'
+          description: Written by PSGs, this guide provides tips and suggested guidelines
+            for PSGs.
+          linktext: Click here to access the "How-To" Guide
           url: https://sites.google.com/moe.edu.sg/psg-online-repository/psg-guides#h.62345dq6v70t
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Planning Calendar
+          description: This planner contains tips and resources for that can be shared
+            with parents.
+          linktext: Click here to access the "Planner Calendar"
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-  - infopic:
-      title: Olympics
-      subtitle: Add an image and text
-      id: infopic
-      description: run run run trumpet whoohoo
-      button: duck
-      url: https://sites.google.com/moe.edu.sg/psg-online-repository/psg-guides#h.62345dq6v70t
-      image: /images/dummy_image_1.png
-      alt: Image alt text
+      description: In this site, you can find resources that could come in useful in
+        your PSG journey and when you connect with fellow parents.   We look
+        forward to partnering you in your PSG journey!
   - announcements:
-      title: Announcements
+      title: Upcoming Events
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: Event 111
-          date: 07 August 2024
-          announcement: Event
-          link_text: ""
-          link_url: ""
+        - title: PSGs Celebrate!
+          date: 31 December 2024
+          announcement: Description only. No picture.
+          link_text: Click here to register
+          link_url: www.google.com.sg
 ---
