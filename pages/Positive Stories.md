@@ -23,7 +23,7 @@ please <u>share them with us (for internal info: hyperlinked to FormSG)</u>
 within their school communities.</div>
 <div class="isomer-card-link">Click here to expand picture</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Building_a_Supportive_Community_for_Parents.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building a Supportive Community for Parents</div><div class="isomer-card-description">Learn how PSGs build parent-peer communitiesClick </div><div class="isomer-card-link">Click here to expand picture to expand picture</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Building_a_Supportive_Community_for_Parents.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building a Supportive Community for Parents</div><div class="isomer-card-description">Learn how PSGs build parent-peer communitiesClick</div><div class="isomer-card-link">Click here to expand picture to expand picture</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -50,33 +50,6 @@ and interests.</div>
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ld6t2HReB_A?si=QSanG4Q5AK9tRzyI"></iframe>
 </div>
 <p>CARD GRID</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="hello" src="/images/isomer-logo.svg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Isomerr</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
-</div>
 <h2></h2>
 <h2><strong>Primary Schools</strong></h2>
 <p></p>
