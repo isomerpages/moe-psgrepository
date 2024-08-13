@@ -2,12 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Positive Stories
     url: /positive-stories/
-  - title: Events
-    url: /permalink
-  - title: Resources
-    url: /resourcestest
-  - title: Contact Us
-    url: /contact-us/
   - title: Resources
     url: /resourcestest
     sublinks:
@@ -20,4 +14,13 @@ links:
       - title: SCEP-related
         url: /permalink
       - title: PSG-related Skillsets
+        url: /permalink
+  - title: Contact Us
+    url: /contact-us/
+  - title: Events
+    url: /permalink
+    sublinks:
+      - title: Upcoming Events
+        url: /permalink
+      - title: Past Events
         url: /permalink
