@@ -8,10 +8,16 @@ links:
     url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Resources
+  - title: "Resources "
     url: /permalink
     sublinks:
-      - title: New submenu
+      - title: Well-being
         url: /permalink
-      - title: New submenu
+      - title: Parent-Child Relationship
+        url: /permalink
+      - title: Cyberwellness
+        url: /permalink
+      - title: "SCEP-related "
+        url: /permalink
+      - title: PSG-related Skillsets
         url: /permalink
