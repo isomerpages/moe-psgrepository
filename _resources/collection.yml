@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - WellBeing.md
       - resourcestest.md
+      - WellBeing.md
