@@ -27,14 +27,14 @@ within their school communities.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bringing Out the Best in Our Students" src="/images/Bringing_Out_the_Best_in_Our_Students.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bringing Out the Best in Our Studentsgg" src="/images/Bringing_Out_the_Best_in_Our_Students.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bring Out the Best in our Studentd</div>
+<div class="isomer-card-title">Bringin Out the Best in our Students</div>
 <div class="isomer-card-description">Read more to learn how PSGs support students to uncover their strengths
 and interests.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Click here to expand picture.</div>
 </div>
 </a>
 </div>
