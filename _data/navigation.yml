@@ -6,15 +6,15 @@ links:
     url: /resourcestest
     sublinks:
       - title: Well-being
-        url: /permalink
+        url: /well-being
       - title: Parent-Child Relationship
-        url: /permalink
+        url: /parent-child-relationship
       - title: Cyberwellness
-        url: /permalink
+        url: /cyberwellness
       - title: SCEP-related TO BE RENAMED
-        url: /permalink
+        url: /scep
       - title: PSG-related Skillsets
-        url: /permalink
+        url: /psg-related-skillsets
   - title: Events
     url: /permalink
     sublinks:
