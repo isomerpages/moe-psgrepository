@@ -8,7 +8,7 @@ links:
     url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: "Resources "
+  - title: Resources
     url: /permalink
     sublinks:
       - title: New submenu
