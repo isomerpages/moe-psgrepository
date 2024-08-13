@@ -15,8 +15,6 @@ links:
         url: /permalink
       - title: PSG-related Skillsets
         url: /permalink
-  - title: Contact Us
-    url: /contact-us/
   - title: Events
     url: /permalink
     sublinks:
@@ -24,3 +22,5 @@ links:
         url: /permalink
       - title: Past Events
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
