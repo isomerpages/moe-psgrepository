@@ -5,10 +5,10 @@ links:
   - title: Events
     url: /permalink
   - title: Resources
-    url: /permalink
+    url: /resourcestest
   - title: Contact Us
     url: /contact-us/
-  - title: "Resources "
+  - title: Resources
     url: /permalink
     sublinks:
       - title: Well-being
@@ -17,7 +17,7 @@ links:
         url: /permalink
       - title: Cyberwellness
         url: /permalink
-      - title: "SCEP-related "
+      - title: SCEP-related
         url: /permalink
       - title: PSG-related Skillsets
         url: /permalink
