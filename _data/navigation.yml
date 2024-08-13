@@ -8,3 +8,10 @@ links:
     url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: "Resources "
+    url: /permalink
+    sublinks:
+      - title: New submenu
+        url: /permalink
+      - title: New submenu
+        url: /permalink
