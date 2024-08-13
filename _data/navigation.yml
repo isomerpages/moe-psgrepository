@@ -9,7 +9,7 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: Resources
-    url: /permalink
+    url: /resourcestest
     sublinks:
       - title: Well-being
         url: /permalink
