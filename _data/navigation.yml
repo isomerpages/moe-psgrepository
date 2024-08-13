@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Positive Stories
     url: /positive-stories/
-  - title: Resources
+  - title: Resources TEST
     url: /resourcestest
     sublinks:
       - title: Well-being
@@ -11,7 +11,7 @@ links:
         url: /permalink
       - title: Cyberwellness
         url: /permalink
-      - title: SCEP-related
+      - title: SCEP-related TO BE RENAMED
         url: /permalink
       - title: PSG-related Skillsets
         url: /permalink
