@@ -30,12 +30,12 @@ sections:
         - title: '"How-To" Guide'
           description: Written by PSGs, this guide provides tips and suggested guidelines
             for PSGs.
-          linktext: Click here to access the "How-To" Guide
+          linktext: Access the "How-To" Guide
           url: https://sites.google.com/moe.edu.sg/psg-online-repository/psg-guides#h.62345dq6v70t
         - title: Planning Calendar
           description: This planner contains tips and resources for that can be shared
             with parents.
-          linktext: Click here to access the "Planner Calendar"
+          linktext: Access the "Planning Calendar"
           url: ""
       description: In this site, you can find resources that could come in useful in
         your PSG journey and when you connect with fellow parents.   We look
