@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Positive Stories
     url: /positive-stories/
-  - title: Resources TEST
+  - title: Resources
     url: /resources
     sublinks:
       - title: Well-being
