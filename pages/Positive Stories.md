@@ -38,18 +38,12 @@ and interests.</div>
 </div>
 </a>
 </div>
-<p><a href="/files/sample_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF upload</a>
-</p>
-<hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dummy_image_2.png">
-</div>
-<p><em>&lt;Note to Dionne: removed handy guide cos i vaguely recall you mentioned it should be treated the same way as the Primary Schools etc.&gt;</em>
-</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ld6t2HReB_A?si=QSanG4Q5AK9tRzyI"></iframe>
-</div>
-<p>CARD GRID</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h2></h2>
 <h2><strong>Primary Schools</strong></h2>
 <p></p>
@@ -89,5 +83,19 @@ info: hyperlinked to resource)&nbsp;</p>
 <p>...</p>
 </li>
 </ul>
-<p><a href="/files/sample_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Sample sample</a>
+<p><a href="/files/sample_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Sample samplePDF upload</a>
 </p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dummy_image_2.png">
+</div>
+<p><em>&lt;Note to Dionne:  hand handyremoved handy guide cos i vaguely recall you mentioned it should be treated the same way as the Primary Schools etc.&gt;</em>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ld6t2HReB_A?si=QSanG4Q5AK9tRzyI"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p>CARD GRID</p>
+<p></p>
