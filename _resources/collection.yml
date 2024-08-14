@@ -2,8 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - PSG related skillsets.md
-      - SCEP related TO BE RENAMED.md
-      - Cyberwellness.md
-      - Parent Child Relationship.md
       - WellBeing.md
+      - Parent Child Relationship.md
+      - Cyberwellness.md
+      - SCEP related TO BE RENAMED.md
+      - PSG related skillsets.md
