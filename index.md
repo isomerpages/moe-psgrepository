@@ -18,7 +18,7 @@ sections:
           description: All the good stuff
           url: /positive-stories
         - title: Events
-          description: Past Events & Materials
+          description: Past events & materials
           url: https://gmail.com
         - title: Resources
           description: Everything you need and more
