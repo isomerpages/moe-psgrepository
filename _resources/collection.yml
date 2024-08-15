@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources/Cyberwellness.md
       - Resources/Parent Child Relationship.md
       - Resources/WellBeing.md
       - Resources/.keep
