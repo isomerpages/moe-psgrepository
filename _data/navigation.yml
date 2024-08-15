@@ -3,18 +3,7 @@ links:
   - title: Positive Stories
     url: /positive-stories/
   - title: Resources
-    url: /resources
-    sublinks:
-      - title: Well-being
-        url: /well-being
-      - title: Parent-Child Relationship
-        url: /parent-child-relationship
-      - title: Cyberwellness
-        url: /cyberwellness
-      - title: SCEP-related TO BE RENAMED
-        url: /scep
-      - title: PSG-related Skillsets
-        url: /psg-related-skillsets
+    collection: resources
   - title: Events
     url: /events
   - title: Contact Us
