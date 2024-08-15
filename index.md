@@ -20,7 +20,7 @@ sections:
           url: /events
         - title: Resources
           description: Everything you need and more
-          url: /resources
+          url: /resources/
   - textcards:
       title: Getting Started!
       id: textcards
