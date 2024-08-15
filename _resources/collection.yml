@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PSG related skillsets.md
-      - Resource categories/SCEP related TO BE RENAMED.md
       - Resource categories/Cyberwellness.md
       - Resource categories/.keep
       - Resources.md
