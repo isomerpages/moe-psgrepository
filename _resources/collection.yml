@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Cyberwellness.md
       - SCEP related TO BE RENAMED.md
       - PSG related skillsets.md
       - Resource categories/.keep
