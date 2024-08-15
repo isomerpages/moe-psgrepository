@@ -16,7 +16,7 @@ links:
       - title: PSG-related Skillsets
         url: /psg-related-skillsets
   - title: Events
-    url: /permalink
+    url: /events
     sublinks:
       - title: Upcoming Events
         url: /permalink
