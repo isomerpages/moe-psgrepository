@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resource categories/Cyberwellness.md
       - Resource categories/.keep
       - Resources.md
       - WellBeing.md
