@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Resources.md
-      - Resources/PSG related skillsets.md
-      - Resources/SCEP related TO BE RENAMED.md
-      - Resources/Cyberwellness.md
-      - Resources/Parent Child Relationship.md
-      - Resources/WellBeing.md
-      - Resources/.keep
+      - By theme/PSG related skillsets.md
+      - By theme/SCEP related TO BE RENAMED.md
+      - By theme/Cyberwellness.md
+      - By theme/Parent Child Relationship.md
+      - By theme/WellBeing.md
+      - By theme/.keep
