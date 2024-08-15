@@ -34,7 +34,7 @@ sections:
           description: This planner contains tips and resources for that can be shared
             with parents.
           linktext: Access the "Planning Calendar"
-          url: ""
+          url: https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view
       description: In this site, you can find resources that could come in useful in
         your PSG journey and when you connect with fellow parents.   We look
         forward to partnering you in your PSG journey!
