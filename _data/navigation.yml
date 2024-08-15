@@ -17,10 +17,6 @@ links:
         url: /psg-related-skillsets
   - title: Events
     url: /events
-    sublinks:
-      - title: Upcoming Events
-        url: /permalink
-      - title: Past Events
-        url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
