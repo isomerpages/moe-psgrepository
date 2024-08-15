@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resource categories/.keep
       - Resources.md
       - WellBeing.md
       - Parent Child Relationship.md
