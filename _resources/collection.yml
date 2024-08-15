@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources/PSG related skillsets.md
       - Resources/SCEP related TO BE RENAMED.md
       - Resources/Cyberwellness.md
       - Resources/Parent Child Relationship.md
