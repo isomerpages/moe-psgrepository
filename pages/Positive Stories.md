@@ -45,59 +45,64 @@ and interests.</div>
 <p></p>
 <p></p>
 <h2></h2>
-<h2><strong>Primary Schools</strong></h2>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>&lt;test accordion&gt; Primary Schools</strong>
+<summary><strong>Primary Schools</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ai Tong School: <u>Organising workshops for parents</u> (Internal info:
-hyperlinked to resource)</p>
+<p>Ai Tong School: <a href="https://docs.google.com/presentation/d/1LrmoqdSd33sKR-a4x_SnXYYjE0B_EJyAgXY14WzUYko/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Organising workshop for parents</a>
+</p>
+</li>
+<li>
+<p>...</p>
 </li>
 </ul>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Ai Tong School: <u>Organising workshops for parents</u> (Internal info:
-hyperlinked to resource)</p>
-</li>
-<li>
-<p>...</p>
-</li>
-</ul>
-<h2><strong>Secondary Schools</strong></h2>
-<ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Secondary Schools</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
 <li>
 <p>Admiralty Secondary School: <u>Creating a safe space for meaningful learning</u> (Internal
 info: hyperlinked to resource)&nbsp;</p>
 </li>
 </ul>
-<h2><strong>Junior Colleges/ Millenia Institute</strong></h2>
-<ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Junior Colleges/ Millenia Institute</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
 <li>
-<p>...</p>
+<p>Victoria Junior College: <a href="https://docs.google.com/presentation/d/1PKvakjeIbI7cD1KQ4oBzUQqDM-GdBAytNurExFvfTF0/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Tackling needs and challenges</a>
+</p>
 </li>
 </ul>
-<p><a href="/files/sample_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Sample samplePDF uplo</a>
-</p>
-<p><a href="/files/sample_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">d</a>
-</p>
-<hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dummy_image_2.png">
 </div>
-<p><em>&lt;Note to Dionne: hand handyremoved handy guide cos i vaguely recall you mentioned it should be treated the same way as the Primary Schools etc.&gt;</em>
+</details>
+</div>
+<h2></h2>
+<hr>
+<h4><strong><em>Example of how the different elements look like on Isomer</em></strong></h4>
+<p><u>Image</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_10_at_11_44_36_PM__2_.png">
+</div>
+<p><u>Embedding a Youtube video</u>
 </p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ld6t2HReB_A?si=QSanG4Q5AK9tRzyI"></iframe>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p>CARD GRID</p>
 <p></p>
