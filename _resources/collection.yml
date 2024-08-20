@@ -1,5 +1,5 @@
 collections:
-  by-theme:
+  resources:
     output: true
     order:
       - Resources.md
