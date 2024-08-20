@@ -104,5 +104,8 @@ info: hyperlinked to resource)&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ld6t2HReB_A?si=QSanG4Q5AK9tRzyI"></iframe>
 </div>
-<p></p>
+<p><u>Link to Google Drive's video resource</u>
+</p>
+<p><a href="https://drive.google.com/file/d/1CULBjgyfMhHHOqCnPrCI9ZtT36xEB4fR/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Video</a>
+</p>
 <p></p>
