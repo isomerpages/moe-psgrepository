@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Resources.md
+      - MOE Platforms.md
       - WellBeing.md
       - Parent Child Relationship.md
       - Cyberwellness.md
