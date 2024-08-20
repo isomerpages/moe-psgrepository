@@ -27,8 +27,8 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p>13 May: Enhancing peer support for parents of children with SEN (<u>video recording, information deck, list of resources) (for internal info: to be hyperlinked to 3 separate resources)</u>
-</p>
+<p>13 May: Enhancing peer support for parents of children with SEN (<a href="https://drive.google.com/file/d/1CULBjgyfMhHHOqCnPrCI9ZtT36xEB4fR/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">video recording</a>,
+<a href="https://drive.google.com/file/d/1G80t5eWSskUrNtssRTbsrYLrBHtXBDO8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">information deck</a>, <a href="https://drive.google.com/file/d/13GZcOYrVXopSkkSulDQI67tWOM4S2Rh4/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">list of resources</a>)</p>
 </li>
 </ul>
 </div>
@@ -38,7 +38,11 @@ description: ""
 <details class="isomer-details">
 <summary>2022</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>2022</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2022 events</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
