@@ -2,6 +2,7 @@ collections:
   by-theme:
     output: true
     order:
+      - Cyberwellness.md
       - SCEP related TO BE RENAMED.md
       - PSG related skillsets.md
       - By theme/Parent Child Relationship.md
