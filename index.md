@@ -12,12 +12,12 @@ sections:
         and learn for one another.
       background: /images/hero-banner.png
       key_highlights:
-        - title: Positive Stories
-          description: All the good stuff
-          url: /positive-stories
         - title: Events
           description: Past events & materials
           url: /events
+        - title: Positive Stories
+          description: All the good stuff
+          url: /positive-stories
         - title: Resources
           description: Everything you need and more
           url: /resources/
