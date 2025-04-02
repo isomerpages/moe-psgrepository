@@ -2,7 +2,7 @@ collections:
   welcome-to-the-exco:
     output: true
     order:
-      - Support for your PSG.md
+      - Onboard the PSG LeaderSHIP.md
       - Planning for Your PSG's Future.md
       - Grow Your PSG Community.md
-      - Onboard the PSG LeaderSHIP.md
+      - Support for your PSG.md
