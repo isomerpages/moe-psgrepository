@@ -7,27 +7,7 @@ description: ""
 <h3><strong>Meet Your Zonal Leaders</strong></h3>
 <p></p>
 <p></p>
-<p>&lt;&lt;image:</p>
-<p>“If I have a superpower, I would like to have the ability to help heal
-people's emotional wounds. I experienced the damage what one did physically
-and emotionally, when they are hurt - and they can take very long to recover
-from the emotional wound…It would be cool if I had a power to help them!”</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yus</p>
-<p></p>
-<p>“I have always been interested in supporting and encouraging with people
-with emotional issues, to build their confidence to a point where they
-feel ready to take up a role that can benefit other people.</p>
-<p>I want to be there empathetically for them, addressing and acknowledging
-their emotions while they stay resilient.”</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hani</p>
-<p></p>
-<p>“I have a strong passion to support parents with special needs children
-in mainstream schools. These parents are often struggling alone, unsure
-how to improve things for their child and themselves. With my experience
-in PSGs and a charity serving ADHD parents, I'm really thankful to be able
-to propagate initiatives within Schools to provide parent peer support
-to such parents.”</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tina&gt;&gt;</p>
+<p>&lt;&lt;image of zonals and quotes&gt;&gt;</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>(East) Hani</summary>
@@ -122,7 +102,8 @@ goals and progress on Padlet <u>[To link?]</u>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Guiding Principles</summary>
+<summary><strong>Guiding Principles</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><u>#1 Composition of Support Circles</u>
