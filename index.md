@@ -37,7 +37,7 @@ sections:
           linktext: Congrats! What's next?
           url: /onboard-the-psg-leadership/
         - title: Support for Your PSG
-          description: Card description
+          description: ""
           linktext: Where helping hands are
           url: /support-for-your-psg/
         - title: Planning Calendar
