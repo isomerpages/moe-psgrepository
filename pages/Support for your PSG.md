@@ -93,5 +93,5 @@ Confident, and part of a Kinder Generation.</p>
 </div>
 <p>If you would like to share ideas or feedback with the Zonal Leaders, drop
 them a <a href="fourzonalpsgchatgroups@gmail.com" rel="noopener nofollow" target="_blank">message</a>.
-For enquiries regarding the Zonal or Support Circles Whatsapp chat, share
-your nformation on : bit.ly/PSGcontactinfo</p>
+For enquiries regarding the Zonal or Support Circles Whatsapp chat, you
+may send in a <a href="bit.ly/PSGcontactinfo" rel="noopener nofollow" target="_blank">request</a>.</p>
