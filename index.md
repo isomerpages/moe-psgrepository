@@ -11,19 +11,9 @@ sections:
       subtitle: A warm welcome to the PSG community, where we learn with, learn from
         and learn for one another.
       background: /images/hero-banner.png
-      key_highlights:
-        - title: Events
-          description: Past events & materials
-          url: /events
-        - title: Toolkit+
-          description: More and more
-          url: ""
-        - title: Positive Stories
-          description: All the good stuff
-          url: /positive-stories
-        - title: Resources
-          description: Everything you need and more
-          url: /resources/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - textcards:
       title: Getting Started!
       id: textcards
