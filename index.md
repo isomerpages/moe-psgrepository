@@ -24,20 +24,34 @@ sections:
         - title: Resources
           description: Everything you need and more
           url: /resources/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: Getting Started!
       id: textcards
       cards:
-        - title: '"How-To" Guide'
-          description: Written by PSGs, this guide provides tips and suggested guidelines
-            for PSGs.
-          linktext: Access the "How-To" Guide
-          url: https://drive.google.com/file/d/1aOvLwrSrPCDOq2BLvwBHkUuEW4Q4bb1Q/view
+        - title: Your PSG Journey Begins
+          description: ""
+          linktext: The essentials
+          url: /your-psg-journey-begins/
         - title: Planning Calendar
           description: This planner contains tips and resources for that can be shared
             with parents.
           linktext: Access the "Planning Calendar"
           url: https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
       description: In this site, you can find resources that could come in useful in
         your PSG journey and when you connect with fellow parents.   We look
         forward to partnering you in your PSG journey!
