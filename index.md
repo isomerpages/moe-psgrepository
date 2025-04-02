@@ -39,15 +39,15 @@ sections:
           description: ""
           linktext: The essentials
           url: /your-psg-journey-begins/
+        - title: Onboard the PSG LeaderSHIP
+          description: ""
+          linktext: Congrats! What's next?
+          url: /onboard-the-psg-leadership/
         - title: Planning Calendar
           description: This planner contains tips and resources for that can be shared
             with parents.
           linktext: Access the "Planning Calendar"
           url: https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
         - title: Card
           description: Card description
           linktext: Learn more
