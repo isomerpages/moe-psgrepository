@@ -1,4 +1,5 @@
 collections:
   welcome-to-the-exco:
     output: true
-    order: []
+    order:
+      - Onboard the PSG LeaderSHIP.md
