@@ -4,7 +4,605 @@ permalink: /onboard-the-psg-leadership/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ</a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Alt text" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Planning calendar for what is on parents' minds</div><div class="isomer-card-description">Plan your events based on your parent community's needs and interests.</div><div class="isomer-card-link">Click here</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">h</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">t</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">t</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">p</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">s</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;t" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">:</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;t" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">/</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;t" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">/</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;t" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">w</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;t" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">w</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;t" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">w</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">.</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A;" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">c</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">a</a>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">nva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ</a>
 </p>
 <p>Congratulations on your new/ continued appointment as a PSG Leader. As
 an EXCO member, you are in a unique position to drive and steer your PSG
@@ -18,10 +616,52 @@ team and the parent community. Find out key things to note as an EXCO member.</p
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>It is good to draw up an annual work plan to ensure a good spread of activities
-throughout the year. An effective PSG work plan is aligned with the school’s
-strategic thrusts and calendar. The PSG EXCO should also discuss the work
-plan with the PSG Partnership teacher in-charge and school leaders.</p>
+<p>It is good to d</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for the year</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p>raw up an annual work plan to ensure a good spread of activities throughout
+the year.</p>
+<p></p>
+<p>An effective PSG work plan is aligned with the school’s strategic thrusts
+and calendar, and what parents would be paying attention to at a specific
+time. The PSG EXCO should also discuss the work plan with the PSG Partnership
+teacher in-charge and school leaders.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -60,7 +700,6 @@ to apply for leave.</div>
 </div>
 </div>
 </div>
-<p></p>
 <p></p>
 </div>
 </details>
