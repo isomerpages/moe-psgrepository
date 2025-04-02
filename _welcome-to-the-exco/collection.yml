@@ -1,0 +1,4 @@
+collections:
+  welcome-to-the-exco:
+    output: true
+    order: []
