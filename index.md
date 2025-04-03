@@ -11,9 +11,9 @@ sections:
       subtitle: A warm welcome to the PSG community, where we learn with, learn from
         and learn for one another.
       background: /images/hero-banner.png
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      variant: side
+      backgroundColor: gray
+      size: md
   - textcards:
       title: Getting Started!
       id: textcards
@@ -30,11 +30,6 @@ sections:
           description: ""
           linktext: Where helping hands are
           url: /support-for-your-psg/
-        - title: Planning Calendar
-          description: This planner contains tips and resources for that can be shared
-            with parents.
-          linktext: Access the "Planning Calendar"
-          url: https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view
       description: In this site, you can find resources that could come in useful in
         your PSG journey and when you connect with fellow parents.   We look
         forward to partnering you in your PSG journey!
