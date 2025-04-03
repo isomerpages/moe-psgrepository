@@ -59,7 +59,7 @@ goals and progress on Padlet <u>[To link?]</u>
 </div>
 <p></p>
 <hr>
-<h3><strong>Frequently Asked Questions </strong></h3>
+<h3><strong>Frequently Asked Questions</strong></h3>
 <h4><strong>A) Composition of Support Circles</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -102,7 +102,7 @@ your WhatsApp channel) so that they can offer their support and encouragement.</
 <p>Besides staying connected via the group chat, we encourage the Support
 Circle to try and meet at least once or twice a year to connect with each
 other. Afterall, what better way to bond than over kopi, a meal or activities.</p>
-<p><strong>5. How do we get funded for Support Circles' activities?</strong> 
+<p><strong>5. How do we get funded for Support Circles' activities?</strong>
 </p>
 <p>Since 2017, the PSG Fund has been provided for under the School Operating
 Fund (SOF) Block Grant. PSGs are encouraged to discuss their plans for
