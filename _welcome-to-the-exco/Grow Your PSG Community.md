@@ -240,16 +240,39 @@ workplans or activity budget.</p>
 <li>
 <p>Fosters sense of community&nbsp;</p>
 </li>
+</ul>
+<p>Supports overall student growth</p>
+<ol start="3" data-tight="true" class="tight">
 <li>
-<p>Supports overall student growth&nbsp;</p>
+<p>Budget management:&nbsp;</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Realistic and transparent budgeting&nbsp;</p>
+</li>
+<li>
+<p>Clear justification for all expenses&nbsp;</p>
+</li>
+<li>
+<p>Avoids undue financial burden on parents&nbsp;</p>
+</li>
+</ul>
+<p>4. Compliance:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adheres to school policies&nbsp;</p>
+</li>
+<li>
+<p>Follows MOE guidelines&nbsp;</p>
 </li>
 </ul>
 </div>
 </details>
 </div>
 </blockquote>
-<p></p>
-<p>Rulang Primary's considerations:&nbsp;</p>
+<p>o&nbsp;&nbsp; Designate a PSG member to track budget and expenditure for
+the year, and decide on the frequency of budget updates within PSG.</p>
 <p></p>
 <p></p>
 <p></p>
