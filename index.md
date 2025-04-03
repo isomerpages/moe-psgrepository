@@ -34,10 +34,10 @@ sections:
           description: ""
           linktext: Congrats! What's next?
           url: /welcome-to-the-exco/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Be Inspired
+          description: ""
+          linktext: Positive Stories from PSGs
+          url: /positive-stories/
       description: In this site, you can find resources that could come in useful in
         your PSG journey and when you connect with fellow parents.   We look
         forward to partnering you in your PSG journey!
@@ -67,9 +67,11 @@ sections:
       button: Button Text
       alt: Image alt text
   - infobar:
-      title: Infobar
+      title: Resource Library
       subtitle: Add informational text
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: Parenting resources for your reading pleasure. Feel free to share
+        these resources with your parent community.
+      button: Sharing is caring
+      url: /resources/
 ---
