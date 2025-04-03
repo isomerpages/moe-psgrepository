@@ -4,6 +4,16 @@ permalink: /planning-for-activities/
 variant: tiptap
 description: ""
 ---
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Assign at least 2 volunteers to organise each activity to share the workload.</strong>
+</p>
+</li>
+<li>
+<p><strong>Ensure every event has a teacher-in-charge and a key parent coordinator to ensure communication between the school and the PSG.</strong>
+</p>
+</li>
+</ul>
 <p>We have a big part to play in enriching our children’s school life, whether
 we collaborate with the school for key school programmes, or organise parent-centric
 activities. The activities and programmes that we plan should aim to:</p>
