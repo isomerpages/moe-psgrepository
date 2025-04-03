@@ -170,6 +170,39 @@ and less effective parts of a programme.</p>
 <p>Start – What initiatives can we start to enhance school-home partnership?</p>
 <p>Stop – Which parts are ineffective and do not benefit anyone?</p>
 <p></p>
+<h3><strong>Managing PSG Finances</strong></h3>
+<p>Recognising that PSGs are supporting schools in their efforts, every school
+has set aside funds for their PSGs, called the PSG Fund, based on projected
+needs and priorities for the year. As such, <strong>all PSG expenditure should come from the PSG Fund.</strong>
+</p>
+<p><u>&lt;&lt;meme&gt;&gt;</u>
+</p>
+<p></p>
+<p>PSG Fund Facts:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Since 2017, the PSG Fund has been provided for under the School Operating
+Fund (SOF) Block Grant to provide schools with greater flexibility in planning
+parent engagement activities/programmes with their PSGs.</p>
+</li>
+<li>
+<p>The allocation and use of PSG Funds are guided by the School Financial
+Instruction Manual.</p>
+</li>
+<li>
+<p>As PSGs’ operations and events are in support of and on behalf of schools,
+if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
+</li>
+</ul>
+<p>To unlock the PSG Funds, PSGs should:</p>
+<p>a) At the start of the year</p>
+<p>o&nbsp;&nbsp; Draw up workplan with estimated budget/ resources required
+for each programme.</p>
+<p>o&nbsp;&nbsp; Discuss with schools on plans and budget/ resources required
+so that it can be factored in the upcoming year’s budget</p>
+<p></p>
+<p></p>
+<h3></h3>
 <p></p>
 <p></p>
 <p></p>
