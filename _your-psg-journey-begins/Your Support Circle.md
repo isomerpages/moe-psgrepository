@@ -32,31 +32,11 @@ we share our knowledge, we grow and learn together</p>
 <p>From being each other’s cheerleader to collaborating with one another,
 the possibilities are endless and that is the community we hope to build
 alongside with you! &nbsp;Check out your Support Circle’s strengths, wishes,
-goals and progress on Padlet <u>[To link?]</u>
+goals and progress on Padlet</p>
+<p><u>[To link?]</u>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Guiding Principles</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Collaboration within Support Circles</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Here are some examples of how some PSGs have collaborated:</p>
-<p></p>
-<p><em><u>Share examples with photographs: Jasper (Jurong Pioneer Junior College) and Cheryl (Catholic High School (Primary))</u></em>
-</p>
-<p><em><u>Keep a lookout for other examples after the 20/27 July sessions</u></em>
-</p>
-</div>
-</details>
-</div>
+<p>Check out what support circles can do on <a href="/be-inspired/" rel="noopener nofollow" target="_blank">'Be Inspired'</a>.</p>
 <p></p>
 <hr>
 <h3><strong>Frequently Asked Questions</strong></h3>
