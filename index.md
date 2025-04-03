@@ -22,14 +22,14 @@ sections:
           description: ""
           linktext: The essentials
           url: /your-psg-journey-begins/
-        - title: Onboard the PSG LeaderSHIP
-          description: ""
-          linktext: Congrats! What's next?
-          url: /onboard-the-psg-leadership/
         - title: Support for Your PSG
           description: ""
           linktext: Where helping hands are
           url: /support-for-your-psg/
+        - title: Onboard the PSG LeaderSHIP
+          description: ""
+          linktext: Congrats! What's next?
+          url: /onboard-the-psg-leadership/
       description: In this site, you can find resources that could come in useful in
         your PSG journey and when you connect with fellow parents.   We look
         forward to partnering you in your PSG journey!
