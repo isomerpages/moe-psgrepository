@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Parent Support Groups (PSGs) are parent volunteers who work closely with
 schools to promote strong school-home partnership and support their parent
-communities. The role of PSGs include.</p>
+communities. The roles of PSGs include:</p>
 <p></p>
 <p><strong><u>******&lt;&lt;rework these cards below into a diagram&gt;&gt;****</u></strong>
 </p>
