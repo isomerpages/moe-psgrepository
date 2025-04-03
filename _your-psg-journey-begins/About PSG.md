@@ -71,26 +71,29 @@ parents can share their experience and advice with younger parents too.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Why join the Parent Support Group?</strong></h3>
+<h3><strong><s>Why join the Parent Support Group?</s></strong></h3>
 <p></p>
-<p>The Parent Support Group (PSG) is a great opportunity for us to be closer
-to our children, understand them better, and help them in their education
-journey. Our children also benefit when we are more active in their school
-environment.</p>
+<p><s>The Parent Support Group (PSG) is a great opportunity for us to be closer to our children, understand them better, and help them in their education journey. Our children also benefit when we are more active in their school environment.</s>
+</p>
 <p></p>
-<p>They tend to:</p>
+<p><s>They tend to:</s>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>show more positive attitudes</p>
+<p><s>show more positive attitudes</s>
+</p>
 </li>
 <li>
-<p>have better school attendance and complete homework more consistently</p>
+<p><s>have better school attendance and complete homework more consistently</s>
+</p>
 </li>
 <li>
-<p>be able to bridge the cultural gap between school and home</p>
+<p><s>be able to bridge the cultural gap between school and home</s>
+</p>
 </li>
 <li>
-<p>be less anti-social and less prone to behavioural issues</p>
+<p><s>be less anti-social and less prone to behavioural issues</s>
+</p>
 <p></p>
 </li>
 </ul>
