@@ -4,48 +4,36 @@ permalink: /grow-your-psg-community/
 variant: tiptap
 description: ""
 ---
-<p>Once the PSG is formed, we can focus on sustaining it by increasing membership
-and building relationships within the PSG.</p>
-<p><u>&lt;&lt;consider card of "Building Rapport with Stakeholders" and "Planning for Events"?&gt;&gt;</u>
-</p>
-<h3><strong>Recruitment and Outreach</strong></h3>
 <p>Growing your PSG is important for long-term success and impact. New parents
 who join the school each year can be part of the PSG community and offer
 fresh perspectives to enrich the PSG. Consider these ‘RITE’ steps when
 reaching out and recruiting new members:</p>
 <p><u>&lt;&lt;image of RITE&gt;&gt;</u>
 </p>
-<h3><strong>Cultivate Relationships among Parents</strong></h3>
-<p>The PSG, like any volunteer group, is built on relationships. Parents
-are likely to stay engaged when they feel valued and connected within the
-community. To build a strong PSG community, we need to foster and sustain
-the relationships through bonding activities and open communication within
-the PSG, and between the PSG and the school.</p>
-<p><u>&lt;&lt;image of ideas&gt;&gt;</u>
+<h3><strong><s>Cultivate Relationships among Parents</s></strong></h3>
+<p><s>The PSG, like any volunteer group, is built on relationships. Parents are likely to stay engaged when they feel valued and connected within the community. To build a strong PSG community, we need to foster and sustain the relationships through bonding activities and open communication within the PSG, and between the PSG and the school.</s>
 </p>
-<h3><strong>Maintain Communication with School</strong></h3>
-<p>Regular communication with the school fosters a collaborative mindset
-that the PSG is part of the school and strengthens the PSG’s ability to
-contribute meaningfully and maximising their impact.</p>
-<p><u>&lt;&lt;image&gt; &gt;</u>
+<p><s><u>&lt;&lt;image of ideas&gt;&gt;</u></s>
+</p>
+<h3><strong><s>Maintain Communication with School</s></strong></h3>
+<p><s>Regular communication with the school fosters a collaborative mindset that the PSG is part of the school and strengthens the PSG’s ability to contribute meaningfully and maximising their impact.</s>
+</p>
+<p><s><u>&lt;&lt;image&gt; &gt;</u></s>
 </p>
 <p></p>
 <p></p>
-<h3><strong>Managing Differences</strong></h3>
-<p>In a PSG, we have to work closely with the school and other parents. At
-times, we may have to manage difficult situations. Below are some examples
-PSGs may face, and how we can understand and manage the situations better.
-Ultimately, it is important to bear in mind and remind each other that
-regardless of our differences, we all need to work in the best interests
-of children in the school and role model what we wish to see in our children.</p>
+<h3><strong><s>Managing Differences</s></strong></h3>
+<p><s>In a PSG, we have to work closely with the school and other parents. At times, we may have to manage difficult situations. Below are some examples PSGs may face, and how we can understand and manage the situations better. Ultimately, it is important to bear in mind and remind each other that regardless of our differences, we all need to work in the best interests of children in the school and role model what we wish to see in our children.</s>
+</p>
 <blockquote>
-<p>Ultimately, we set aside our personal indifferences, we overcome the challenges
-and run the show for the benefits of our students, teachers and parents.</p>
-<p><em>- Mdm Titiek Rohani, Zonal Leader (East)</em>
+<p><s>Ultimately, we set aside our personal indifferences, we overcome the challenges and run the show for the benefits of our students, teachers and parents.</s>
+</p>
+<p><em><s>- Mdm Titiek Rohani, Zonal Leader (East)</s></em>
 </p>
 </blockquote>
 <p></p>
-<p>&lt;&lt;Image of scenarios&gt;&gt;</p>
+<p><s>&lt;&lt;Image of scenarios&gt;&gt;</s>
+</p>
 <p></p>
 <h3><strong><s>Event &amp; Activity Planning</s></strong></h3>
 <p><s>We have a big part to play in enriching our children’s school life, whether we collaborate with the school for key school programmes, or organise parent-centric activities. The activities and programmes that we plan should aim to:</s>
@@ -173,130 +161,136 @@ and run the show for the benefits of our students, teachers and parents.</p>
 <p><s>Stop – Which parts are ineffective and do not benefit anyone?</s>
 </p>
 <p></p>
-<h3><strong>Managing PSG Finances</strong></h3>
-<p>Recognising that PSGs are supporting schools in their efforts, every school
-has set aside funds for their PSGs, called the PSG Fund, based on projected
-needs and priorities for the year. As such, <strong>all PSG expenditure should come from the PSG Fund.</strong>
+<h3><strong><s>Managing PSG Finances</s></strong></h3>
+<p><s>Recognising that PSGs are supporting schools in their efforts, every school has set aside funds for their PSGs, called the PSG Fund, based on projected needs and priorities for the year. As such, </s><strong><s>all PSG expenditure should come from the PSG Fund.</s></strong>
 </p>
-<p><u>&lt;&lt;meme&gt;&gt;</u>
+<p><s><u>&lt;&lt;meme&gt;&gt;</u></s>
 </p>
 <p></p>
-<p>PSG Fund Facts:</p>
+<p><s>PSG Fund Facts:</s>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Since 2017, the PSG Fund has been provided for under the School Operating
-Fund (SOF) Block Grant to provide schools with greater flexibility in planning
-parent engagement activities/programmes with their PSGs.</p>
+<p><s>Since 2017, the PSG Fund has been provided for under the School Operating Fund (SOF) Block Grant to provide schools with greater flexibility in planning parent engagement activities/programmes with their PSGs.</s>
+</p>
 </li>
 <li>
-<p>The allocation and use of PSG Funds are guided by the School Financial
-Instruction Manual.</p>
+<p><s>The allocation and use of PSG Funds are guided by the School Financial Instruction Manual.</s>
+</p>
 </li>
 <li>
-<p>As PSGs’ operations and events are in support of and on behalf of schools,
-if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
+<p><s>As PSGs’ operations and events are in support of and on behalf of schools, if PSGs wish to fundraise, the school needs to seek MOE’s approval.</s>
+</p>
 </li>
 </ul>
-<p>To unlock the PSG Funds, PSGs should:</p>
-<p>a) At the start of the year</p>
-<p>o&nbsp;&nbsp; Draw up workplan with estimated budget/ resources required
-for each programme.</p>
-<p>o&nbsp;&nbsp; Discuss with schools on plans and budget/ resources required
-so that it can be factored in the upcoming year’s budget</p>
+<p><s>To unlock the PSG Funds, PSGs should:</s>
+</p>
+<p><s>a) At the start of the year</s>
+</p>
+<p><s>o&nbsp;&nbsp; Draw up workplan with estimated budget/ resources required for each programme.</s>
+</p>
+<p><s>o&nbsp;&nbsp; Discuss with schools on plans and budget/ resources required so that it can be factored in the upcoming year’s budget</s>
+</p>
 <blockquote>
-<p><strong>Tip: </strong>Ask if the school could provide PSG with updates
-on financial guidelines at a frequency both the school and PSG are comfortable
-with, ensuring transparency and that everyone is kept up to date with developments.</p>
+<p><strong><s>Tip: </s></strong><s>Ask if the school could provide PSG with updates on financial guidelines at a frequency both the school and PSG are comfortable with, ensuring transparency and that everyone is kept up to date with developments.</s>
+</p>
 </blockquote>
-<p>o&nbsp;&nbsp; Seek school’s approval of overall budget</p>
+<p><s>o&nbsp;&nbsp; Seek school’s approval of overall budget</s>
+</p>
 <blockquote>
-<p>Tip: Understand your school’s key considerations when approving PSG’s
-workplans or activity budget.</p>
+<p><s>Tip: Understand your school’s key considerations when approving PSG’s workplans or activity budget.</s>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Rulang Primary's considerations</strong>
+<summary><strong><s>Rulang Primary's considerations</s></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Alignment with school priorities:&nbsp;</p>
+<p><s>Alignment with school priorities:&nbsp;</s>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Supports school values&nbsp;</p>
+<p><s>Supports school values&nbsp;</s>
+</p>
 </li>
 <li>
-<p>Contributes to educational goals&nbsp;</p>
+<p><s>Contributes to educational goals&nbsp;</s>
+</p>
 </li>
 <li>
-<p>Benefits students directly&nbsp;</p>
+<p><s>Benefits students directly&nbsp;</s>
+</p>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Community and student development:&nbsp;</p>
+<p><s>Community and student development:&nbsp;</s>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Fosters sense of community&nbsp;</p>
+<p><s>Fosters sense of community&nbsp;</s>
+</p>
 </li>
 </ul>
-<p>Supports overall student growth</p>
+<p><s>Supports overall student growth</s>
+</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>Budget management:&nbsp;</p>
+<p><s>Budget management:&nbsp;</s>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Realistic and transparent budgeting&nbsp;</p>
+<p><s>Realistic and transparent budgeting&nbsp;</s>
+</p>
 </li>
 <li>
-<p>Clear justification for all expenses&nbsp;</p>
+<p><s>Clear justification for all expenses&nbsp;</s>
+</p>
 </li>
 <li>
-<p>Avoids undue financial burden on parents&nbsp;</p>
+<p><s>Avoids undue financial burden on parents&nbsp;</s>
+</p>
 </li>
 </ul>
-<p>4. Compliance:&nbsp;</p>
+<p><s>4. Compliance:&nbsp;</s>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Adheres to school policies&nbsp;</p>
+<p><s>Adheres to school policies&nbsp;</s>
+</p>
 </li>
 <li>
-<p>Follows MOE guidelines&nbsp;</p>
+<p><s>Follows MOE guidelines&nbsp;</s>
+</p>
 </li>
 </ul>
 </div>
 </details>
 </div>
 </blockquote>
-<p>o&nbsp;&nbsp; Designate a PSG member to track budget and expenditure for
-the year, and decide on the frequency of budget updates within PSG.</p>
+<p><s>o&nbsp;&nbsp; Designate a PSG member to track budget and expenditure for the year, and decide on the frequency of budget updates within PSG.</s>
+</p>
 <blockquote>
-<p>Tip: Alfred Tay, Chairperson (2024) from Kong Hwa School shares that their
-finance management is governed by the PSG’s Constitution. Generally, event
-budgets must be approved by the executive committee (subject to monthly
-limits), and payment or claim certifications must be verified by the chairman
-and treasurer. For substantial budgets, they require approval from the
-annual general meeting (AGM) or extraordinary general meeting (EGM).</p>
+<p><s>Tip: Alfred Tay, Chairperson (2024) from Kong Hwa School shares that their finance management is governed by the PSG’s Constitution. Generally, event budgets must be approved by the executive committee (subject to monthly limits), and payment or claim certifications must be verified by the chairman and treasurer. For substantial budgets, they require approval from the annual general meeting (AGM) or extraordinary general meeting (EGM).</s>
+</p>
 </blockquote>
 <p></p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When preparing
-for an upcoming parent engagement activity, PSGs should work within the
-allocated budget to plan the event:</p>
-<p>o&nbsp;&nbsp; Meet the Partnership teacher in-charge of the event and
-come to a common consensus on the objective, theme and the overall budget.</p>
-<p>o&nbsp;&nbsp; Discuss with the school the financial processes and requirements
-such as which party is handling the procurement procedures, who is keeping
-tabs on the expenditure and receipts for the activity.</p>
-<p>o&nbsp;&nbsp; Provide the school with a detailed breakdown of estimated
-expenditure and necessary documentations, ensuring that projected and actual
-expenditure stays within the allocated budget. An example of breakdown
-is below (exact details dependent on school):</p>
+<p><s>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When preparing for an upcoming parent engagement activity, PSGs should work within the allocated budget to plan the event:</s>
+</p>
+<p><s>o&nbsp;&nbsp; Meet the Partnership teacher in-charge of the event and come to a common consensus on the objective, theme and the overall budget.</s>
+</p>
+<p><s>o&nbsp;&nbsp; Discuss with the school the financial processes and requirements such as which party is handling the procurement procedures, who is keeping tabs on the expenditure and receipts for the activity.</s>
+</p>
+<p><s>o&nbsp;&nbsp; Provide the school with a detailed breakdown of estimated expenditure and necessary documentations, ensuring that projected and actual expenditure stays within the allocated budget. An example of breakdown is below (exact details dependent on school):</s>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -306,58 +300,54 @@ is below (exact details dependent on school):</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Item/ Services</strong>
+<p><strong><s>Item/ Services</s></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Estimated Value</strong>
+<p><strong><s>Estimated Value</s></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>How to procure this?</strong>
+<p><strong><s>How to procure this?</s></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>e.g. Printing posters in colour</p>
+<p><s>e.g. Printing posters in colour</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$50</p>
+<p><s>$50</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Buy from XX company. See quotation in attachment.</p>
+<p><s>Buy from XX company. See quotation in attachment.</s>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <blockquote>
-<p>Tip: PSG member from Sembawang Primary School Siti Dhamirah suggests recycling
-items from previous events, or even DIY some items together. We think a
-DIY session could make for a great PSG bonding activity.</p>
+<p><s>Tip: PSG member from Sembawang Primary School Siti Dhamirah suggests recycling items from previous events, or even DIY some items together. We think a DIY session could make for a great PSG bonding activity.</s>
+</p>
 </blockquote>
 <p></p>
-<p>When buying items or collecting fees it is important to ensure proper
-accountability and guard against disputes or fraud:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All PSG expenses
-should be billed to the school and paid directly by the school to the vendors.
-If it is necessary for PSGs to pay for the expense first, check with the
-Partnership teacher in-charge before payment to ensure that reimbursement
-is permitted.</p>
+<p><s>When buying items or collecting fees it is important to ensure proper accountability and guard against disputes or fraud:</s>
+</p>
+<p><s>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All PSG expenses should be billed to the school and paid directly by the school to the vendors. If it is necessary for PSGs to pay for the expense first, check with the Partnership teacher in-charge before payment to ensure that reimbursement is permitted.</s>
+</p>
 <blockquote>
-<p>Tip: Check if your school has a school corporate card for PSG expenses
-to be charged to.</p>
+<p><s>Tip: Check if your school has a school corporate card for PSG expenses to be charged to.</s>
+</p>
 </blockquote>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ask for and retain
-receipts. It is a good practice to scan or photocopy receipts as the ink
-on receipts may fade.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of public
-fund accountability, parents should not transfer money relating to PSG
-operations and events to any personal accounts.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When collecting
-fees for programmes (e.g. workshops/classes), the money must immediately
-be handed to the school personnel to ensure that there is clear accountability.</p>
+<p><s>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ask for and retain receipts. It is a good practice to scan or photocopy receipts as the ink on receipts may fade.</s>
+</p>
+<p><s>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of public fund accountability, parents should not transfer money relating to PSG operations and events to any personal accounts.</s>
+</p>
+<p><s>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When collecting fees for programmes (e.g. workshops/classes), the money must immediately be handed to the school personnel to ensure that there is clear accountability.</s>
+</p>
 <p></p>
 <p></p>
 <p></p>
