@@ -2,5 +2,5 @@ collections:
   your-psg-journey:
     output: true
     order:
-      - Your Support Circle.md
       - Your PSG Journey Begins.md
+      - Your Support Circle.md
