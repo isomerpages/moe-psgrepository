@@ -30,9 +30,31 @@ sections:
           description: ""
           linktext: Congrats! What's next?
           url: /welcome-to-the-exco/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
       description: In this site, you can find resources that could come in useful in
         your PSG journey and when you connect with fellow parents.   We look
         forward to partnering you in your PSG journey!
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - infopic:
       title: Infopic
       subtitle: Add an image and text
