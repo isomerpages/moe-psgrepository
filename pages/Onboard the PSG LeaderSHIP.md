@@ -4,19 +4,43 @@ permalink: /onboard-the-psg-leadership/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Brief description of events and programmes for the year</div>
+<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outline of what is on parents' minds by month</div><div class="isomer-card-description">Plan your activities with your parent community's needs and interests in mind.</div><div class="isomer-card-link">Click here</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Number of parents required for the event</div>
+<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
+Ensure every event has a teacher-in-charge and a key parent coordinator
+to ensure communication between the school and the PSG.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outline of what is on parents' minds by month</div><div class="isomer-card-description">Plan your activities with your parent community's needs and interests in mind.</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="alt" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Timeline to brief parents on the various events planned for</div>
+<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
+to apply for leave.</div>
+</div>
+</div>
 </div>
 <p></p>
 <p>Congratulations on your new/ continued appointment as a PSG Leader. As
