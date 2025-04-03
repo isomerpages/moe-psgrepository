@@ -16,7 +16,7 @@ sections:
       size: md
       key_highlights:
         - title: Events and Highlights
-          description: Key Highlight description
+          description: Newsletters, Slides and more
           url: /events/
   - textcards:
       title: Getting Started!
