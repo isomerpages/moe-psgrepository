@@ -4,6 +4,13 @@ permalink: /onboard-the-psg-leadership/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p>Congratulations on your new/ continued appointment as a PSG Leader. As
+an EXCO member, you are in a unique position to drive and steer your PSG
+team and the parent community. Find out key things to note as an EXCO member.</p>
+<p></p>
+<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ</a>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -42,13 +49,6 @@ to apply for leave.</div>
 </div>
 </div>
 </div>
-<p></p>
-<p>Congratulations on your new/ continued appointment as a PSG Leader. As
-an EXCO member, you are in a unique position to drive and steer your PSG
-team and the parent community. Find out key things to note as an EXCO member.</p>
-<p></p>
-<p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ</a>
-</p>
 <p></p>
 <p></p>
 <p>Outline of what is on parents' mind by month</p>
