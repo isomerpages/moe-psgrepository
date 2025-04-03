@@ -35,6 +35,24 @@ serving alongside the PSG is an important aspect in their lives.</p>
 acknowledge, appreciate and accept viewpoints that may be different from
 their own.</p>
 <p></p>
+<h4><strong>Handover Process</strong></h4>
+<p>Handover can be an opportunity for bonding.</p>
+<blockquote>
+<p>We will have a farewell BBQ party for outgoing EXCO and incoming EXCO
+to meet-and-greet and handover. After all we are all volunteers and we
+must enjoy what we do together so we choose to do it leisurely like a friends
+gathering.</p>
+<p><em>- David Ng, Chairperson (2024) of Xin Min Secondary School</em>
+</p>
+</blockquote>
+<p></p>
+<p><u>&lt;&lt;insert handover checklist here or put link to templates page&gt;&gt;</u>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
