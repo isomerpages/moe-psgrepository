@@ -38,8 +38,10 @@ suit the needs of the activity and the participants.</p>
 </li>
 </ul>
 <p></p>
-<p>As we plan for the event/activity, here are some areas that we can consider:</p>
-<p>&lt;checklist/ image of areas&gt;</p>
+<p>Some areas to consider:</p>
+<p><strong><u>***&lt;checklist/ image of areas&gt;***</u></strong>
+</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Assign at least 2 volunteers to organise each activity to share the workload.</strong>
