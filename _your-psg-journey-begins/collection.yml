@@ -2,6 +2,6 @@ collections:
   your-psg-journey-begins:
     output: true
     order:
-      - Why join PSG?.md
       - About PSG.md
+      - Why join PSG?.md
       - Your Support Circle.md
