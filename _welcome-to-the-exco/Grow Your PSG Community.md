@@ -200,6 +200,61 @@ if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
 for each programme.</p>
 <p>o&nbsp;&nbsp; Discuss with schools on plans and budget/ resources required
 so that it can be factored in the upcoming year’s budget</p>
+<blockquote>
+<p><strong>Tip: </strong>Ask if the school could provide PSG with updates
+on financial guidelines at a frequency both the school and PSG are comfortable
+with, ensuring transparency and that everyone is kept up to date with developments.</p>
+</blockquote>
+<p>o&nbsp;&nbsp; Seek school’s approval of overall budget</p>
+<blockquote>
+<p>Tip: Understand your school’s key considerations when approving PSG’s
+workplans or activity budget.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Rulang Primary's considerations</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Alignment with school priorities:&nbsp;</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Supports school values&nbsp;</p>
+</li>
+<li>
+<p>Contributes to educational goals&nbsp;</p>
+</li>
+<li>
+<p>Benefits students directly&nbsp;</p>
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Community and student development:&nbsp;</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fosters sense of community&nbsp;</p>
+</li>
+<li>
+<p>Supports overall student growth&nbsp;</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+</blockquote>
+<p></p>
+<p>Rulang Primary's considerations:&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <h3></h3>
