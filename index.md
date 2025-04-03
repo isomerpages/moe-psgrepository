@@ -15,8 +15,8 @@ sections:
       backgroundColor: gray
       size: md
       key_highlights:
-        - title: Events and Highlights
-          description: Newsletters, Slides and more
+        - title: PSG Highlights
+          description: Newsletters and past events
           url: /events/
   - textcards:
       title: Getting Started!
