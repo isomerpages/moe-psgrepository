@@ -95,6 +95,35 @@ parents can share their experience and advice with younger parents too.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<h3><strong>Good Practices</strong></h3>
+<p><u>Respect Everyone</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Follow the school’s rules and respect the authority of the school.</p>
+</li>
+<li>
+<p>Respect the views and comments of fellow members.</p>
+</li>
+<li>
+<p>Dress modestly when volunteering at school events.</p>
+</li>
+<li>
+<p>Unless authorised by the school leaders, do not represent the school at
+any external platform (e.g. speaking to the media).</p>
+</li>
+</ul>
+<p><u>Participate actively</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Promote and participate actively in the school’s programmes for the benefit
+of all children.</p>
+</li>
+<li>
+<p>Provide constructive feedback to the school through official channels
+(e.g. dialogue sessions, PSG meetings).</p>
+</li>
+</ul>
 <p></p>
 <p></p>
