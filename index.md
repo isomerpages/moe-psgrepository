@@ -29,7 +29,7 @@ sections:
         - title: Welcome to the PSG EXCO
           description: ""
           linktext: Congrats! What's next?
-          url: /onboard-the-psg-leadership/
+          url: /welcome-to-the-exco/
       description: In this site, you can find resources that could come in useful in
         your PSG journey and when you connect with fellow parents.   We look
         forward to partnering you in your PSG journey!
