@@ -11,17 +11,15 @@ an EXCO member, you are in a unique position to drive and steer your PSG
 team and the parent community. Find out key things to note as an EXCO member.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Preparing for the Year Ahead</strong>
+<summary><strong><s>Preparing for the Year Ahead</s></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>It is good to draw up an annual work plan to ensure a good spread of activities
-throughout the year.</p>
+<p><s>It is good to draw up an annual work plan to ensure a good spread of activities throughout the year.</s>
+</p>
 <p></p>
-<p>An effective PSG work plan is aligned with the school’s strategic thrusts
-and calendar, and what parents would be paying attention to at a specific
-time. The PSG EXCO should also discuss the work plan with the PSG Partnership
-teacher in-charge and school leaders.</p>
+<p><s>An effective PSG work plan is aligned with the school’s strategic thrusts and calendar, and what parents would be paying attention to at a specific time. The PSG EXCO should also discuss the work plan with the PSG Partnership teacher in-charge and school leaders.</s>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -64,26 +62,26 @@ to apply for leave.</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Managing Communication Channels</strong>
+<summary><strong><s>Managing Communication Channels</s></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Seek members’ permission before adding members to any chat or social media
-group and keep their personal contact details confidential.</p>
+<p><s>Seek members’ permission before adding members to any chat or social media group and keep their personal contact details confidential.</s>
+</p>
 </li>
 <li>
-<p>Be respectful in your conversations with each other. Try not to send messages
-too late in the night.</p>
+<p><s>Be respectful in your conversations with each other. Try not to send messages too late in the night.</s>
+</p>
 </li>
 <li>
-<p>Keep discussions to what is relevant to the PSG’s work.</p>
+<p><s>Keep discussions to what is relevant to the PSG’s work.</s>
+</p>
 </li>
 <li>
-<p>Do not use the PSG WhatsApp group chat to seek support for specific problems
-that your child is facing in school. Such feedback should be given to the
-school.</p>
+<p><s>Do not use the PSG WhatsApp group chat to seek support for specific problems that your child is facing in school. Such feedback should be given to the school.</s>
+</p>
 </li>
 </ul>
 </div>
