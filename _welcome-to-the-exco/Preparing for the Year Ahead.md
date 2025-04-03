@@ -6,13 +6,33 @@ description: ""
 ---
 <p><strong>Preparing the Year Ahead</strong>
 </p>
-<p>It is good to draw up an annual work plan to ensure a good spread of activities
-throughout the year.</p>
+<p>It is good to draw up an annual work pla<u>n ***</u><strong><u>(template #x)***</u></strong> to
+ensure a good spread of activities throughout the year.</p>
+<p>The PSG EXCO should discuss the work plan with the PSG Partnership teacher
+in-charge and school leaders. An effective PSG work plan is aligned with:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>the school’s strategic thrusts</p>
+</li>
+<li>
+<p>school's calendar of events</p>
+</li>
+<li>
+<p>what parents will be paying attention to at a specific time, such as those
+reflected in the <a href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view" rel="noopener nofollow" target="_blank">PSG planning calendar</a> 
+</p>
+</li>
+<li>
+<p>resource considerations (e.g. parent volunteers required to help out)</p>
+</li>
+<li>
+<p>time required for preparation, including recruiting and briefing the parent
+volunteers</p>
 <p></p>
-<p>An effective PSG work plan is aligned with the school’s strategic thrusts
-and calendar, and what parents would be paying attention to at a specific
-time. The PSG EXCO should also discuss the work plan with the PSG Partnership
-teacher in-charge and school leaders.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -77,16 +97,25 @@ if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
 </ul>
 <p>To unlock the PSG Funds, PSGs should:</p>
 <p>a) At the start of the year</p>
-<p>o&nbsp;&nbsp; Draw up workplan with estimated budget/ resources required
-for each programme.</p>
-<p>o&nbsp;&nbsp; Discuss with schools on plans and budget/ resources required
-so that it can be factored in the upcoming year’s budget</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Draw up workplan with estimated budget/ resources required for each programme.</p>
+</li>
+<li>
+<p>Discuss with schools on plans and budget/ resources required so that it
+can be factored in the upcoming year’s budget</p>
+</li>
+</ul>
 <blockquote>
 <p><strong>Tip: </strong>Ask if the school could provide PSG with updates
 on financial guidelines at a frequency both the school and PSG are comfortable
 with, ensuring transparency and that everyone is kept up to date with developments.</p>
 </blockquote>
-<p>o&nbsp;&nbsp; Seek school’s approval of overall budget</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Seek school’s approval of overall budget</p>
+</li>
+</ul>
 <blockquote>
 <p>Tip: Understand your school’s key considerations when approving PSG’s
 workplans or activity budget.</p>
@@ -152,15 +181,20 @@ workplans or activity budget.</p>
 </details>
 </div>
 </blockquote>
-<p>o&nbsp;&nbsp; Designate a PSG member to track budget and expenditure for
-the year, and decide on the frequency of budget updates within PSG.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Designate a PSG member to track budget and expenditure for the year, and
+decide on the frequency of budget updates within PSG.</p>
+</li>
+</ul>
 <blockquote>
-<p>Tip: Alfred Tay, Chairperson (2024) from Kong Hwa School shares that their
-finance management is governed by the PSG’s Constitution. Generally, event
-budgets must be approved by the executive committee (subject to monthly
-limits), and payment or claim certifications must be verified by the chairman
-and treasurer. For substantial budgets, they require approval from the
-annual general meeting (AGM) or extraordinary general meeting (EGM).</p>
+<p><strong>Tip: </strong>Alfred Tay, Chairperson (2024) from Kong Hwa School
+shares that their finance management is governed by the PSG’s Constitution.
+Generally, event budgets must be approved by the executive committee (subject
+to monthly limits), and payment or claim certifications must be verified
+by the chairman and treasurer. For substantial budgets, they require approval
+from the annual general meeting (AGM) or extraordinary general meeting
+(EGM).</p>
 </blockquote>
 <p></p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When preparing
