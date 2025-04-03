@@ -19,7 +19,7 @@ to download the materials for sharing as attachments.&nbsp;</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">MOE Parenting IG</div>
+<div class="isomer-card-title">ParentingwithMOE Instagram Page</div>
 <div class="isomer-card-description">Connecting, sharing, celebrating and growing together in your parenting
 journey</div>
 <div class="isomer-card-link">Follow us</div>
