@@ -44,27 +44,7 @@ may be different from their own.</p>
 Customise this <strong><u>handover checklist (Template #)</u></strong> for
 your PSG!</p>
 <p></p>
-<p>Did you know that handover can be an opportunity for bonding?</p>
-<blockquote>
-<p>We will have a farewell BBQ party for outgoing EXCO and incoming EXCO
-to meet-and-greet and handover. After all we are all volunteers and we
-must enjoy what we do together so we choose to do it leisurely like a friends
-gathering.</p>
-<p><em>- David Ng, Chairperson (2024) of Xin Min Secondary School</em>
-</p>
-</blockquote>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>Did you know that handover can be an opportunity for bonding? David Ng,
+Chairperson (2024) of Xin Min Secondary School, shared that his PSG organised
+a farewell BBQ party for outgoing EXCO and incoming EXCO to meet-and-greet
+and handover.</p>
