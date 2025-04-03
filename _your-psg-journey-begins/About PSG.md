@@ -4,7 +4,12 @@ permalink: /your-psg-journey-begins/
 variant: tiptap
 description: ""
 ---
+<p>Parent Support Groups (PSGs) are parent volunteers who work closely with
+schools to promote strong school-home partnership and support their parent
+communities. The role of PSGs include.</p>
 <p></p>
+<p><strong><u>******&lt;&lt;rework these cards below into a diagram&gt;&gt;****</u></strong>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
