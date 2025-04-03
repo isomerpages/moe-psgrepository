@@ -282,6 +282,55 @@ and treasurer. For substantial budgets, they require approval from the
 annual general meeting (AGM) or extraordinary general meeting (EGM).</p>
 </blockquote>
 <p></p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When preparing
+for an upcoming parent engagement activity, PSGs should work within the
+allocated budget to plan the event:</p>
+<p>o&nbsp;&nbsp; Meet the Partnership teacher in-charge of the event and
+come to a common consensus on the objective, theme and the overall budget.</p>
+<p>o&nbsp;&nbsp; Discuss with the school the financial processes and requirements
+such as which party is handling the procurement procedures, who is keeping
+tabs on the expenditure and receipts for the activity.</p>
+<p>o&nbsp;&nbsp; Provide the school with a detailed breakdown of estimated
+expenditure and necessary documentations, ensuring that projected and actual
+expenditure stays within the allocated budget. An example of breakdown
+is below (exact details dependent on school):</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Item/ Services</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Estimated Value</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>How to procure this?</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>e.g. Printing posters in colour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buy from XX company. See quotation in attachment.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
