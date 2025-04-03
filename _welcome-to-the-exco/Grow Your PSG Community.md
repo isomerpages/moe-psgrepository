@@ -146,8 +146,8 @@ or needs</p>
 The feedback we gather from such reviews will be very helpful for the PSG
 and the school when we plan our next event.</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who leads the review?</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Typically, a review is best led
-by the parent(s) who is/are in charge of the event.</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;Typically, a review is best led by the parent(s)
+who is/are in charge of the event.</p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who should be involved?</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who have helped out or
 participated can give valuable feedback.</p>
@@ -163,27 +163,12 @@ every two months or termly) to discuss initiative and review programmes. <em>(Am
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A framework to guide the review
 discussion can be very helpful.</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A simple framework to use is Keep,
-Improve, Start, Stop (<a rel="noopener noreferrer nofollow" target="_blank">KISS</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SH1]</a>&nbsp;<a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[CEG2]</a>&nbsp;), which prompts us to think about both
-the effective and less effective parts of a programme.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keep – Which parts are working well and
-should continue?</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improve – Which parts can be done better?</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start – What initiatives can we start
-to enhance school-home partnership?</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stop – Which parts are ineffective and
-do not benefit anyone?</p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SH1]</a>Thinking if we should publicise this or provide
-links to various framework/ template for them to pick and choose?</p>
-<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[CEG2]</a>Would changing the phrasing to ‘A simple
-framework to use is…’ help? Like we are not publicising publicising per
-se, but suggesting a simple to use framework? (We can discuss again at
-next huddle.)</p>
+Improve, Start, Stop (KISS), which prompts us to think about both the effective
+and less effective parts of a programme.</p>
+<p>Keep – Which parts are working well and should continue?</p>
+<p>Improve – Which parts can be done better?</p>
+<p>Start – What initiatives can we start to enhance school-home partnership?</p>
+<p>Stop – Which parts are ineffective and do not benefit anyone?</p>
 <p></p>
 <p></p>
 <p></p>
