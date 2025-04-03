@@ -56,9 +56,6 @@ to make the school environment more conducive for learning.</div>
 <p>You are a<strong> peer </strong>and <strong>resource</strong> supporter
 to your parent community. As a member of the PSG, you partner and support
 the school by contributing 3 Ts (Time, Talent, Thought):</p>
-<p></p>
-<p><strong><u>******&lt;&lt;rework 3Ts below into a diagram&gt;&gt;****</u></strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Time - </strong>Volunteer your time to design and conduct the
