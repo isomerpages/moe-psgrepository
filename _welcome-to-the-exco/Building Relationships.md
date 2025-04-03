@@ -4,7 +4,7 @@ permalink: /building-relationships/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Maintaining Ties with School </strong></h3>
+<h3><strong>Maintaining Ties with School</strong></h3>
 <p>Regular communication with the school fosters a collaborative mindset
 that the PSG is part of the school and strengthens the PSG’s ability to
 contribute meaningfully and maximising their impact.</p>
@@ -25,6 +25,11 @@ PSGs may face, and how we can understand and manage the situations better.
 Ultimately, it is important to bear in mind and remind each other that
 regardless of our differences, we all need to work in the best interests
 of children in the school and role model what we wish to see in our children.</p>
+<p></p>
+<p><strong><u>***&lt;&lt;Image of scenarios&gt;&gt;***</u></strong>
+</p>
+<p></p>
+<p></p>
 <blockquote>
 <p>Ultimately, we set aside our personal indifferences, we overcome the challenges
 and run the show for the benefits of our students, teachers and parents.</p>
@@ -32,10 +37,6 @@ and run the show for the benefits of our students, teachers and parents.</p>
 </p>
 </blockquote>
 <p></p>
-<p><strong><u>***&lt;&lt;Image of scenarios&gt;&gt;***</u></strong>
-</p>
 <p></p>
-<h2></h2>
 <p></p>
-<p><u>&lt;&lt;image of ideas&gt;&gt;</u>
-</p>
+<p></p>
