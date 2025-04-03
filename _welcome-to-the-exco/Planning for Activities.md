@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>PSGs have a big part to play in enriching our children’s school life.
-The activities and programmes that we plan should aim to:</p>
+The activities and programmes should aim to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>support the<strong> child</strong> to enrich his/her learning in school;</p>
@@ -23,9 +23,7 @@ and</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Things to Note</strong></h3>
-<p>Effective PSGs bridge the needs of the parent community with the school's
-objectives. Before planning events or activities, remember to:</p>
+<h3><strong>Things to Note Before the Activity</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>consult your school partnership staff and school leaders to ensure alignment
@@ -35,64 +33,37 @@ and maximise the impact of your efforts; and</p>
 <p>consider the modality of the event (physical, virtual, or hybrid) to best
 suit the needs of the activity and the participants.</p>
 </li>
+<li>
+<p>consider assigning at least 2 volunteers to organise each activity to
+share the workload; and</p>
+</li>
+<li>
+<p>ensuring there is a teacher-in-charge and a key parent coordinator for
+smooth communication between the school and the PSG.</p>
+</li>
 </ul>
-<p></p>
 <p>Some areas to consider:</p>
-<p><strong><u>***&lt;checklist/ image of areas&gt;***</u></strong>
+<p><strong><u>***&lt; image of areas&gt;***</u></strong>
 </p>
-<p></p>
+<h3><strong>Physical Activities</strong></h3>
+<p>Here are some examples of physical events and/or activities which PSGs
+have conducted:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Assign at least 2 volunteers to organise each activity to share the workload.</strong>
-</p>
+<p><u>Major School Events</u> (e.g. festival celebrations, career talks, sports
+day)</p>
 </li>
 <li>
-<p><strong>Ensure every event has a teacher-in-charge and a key parent coordinator to ensure communication between the school and the PSG.</strong>
-</p>
+<p><u>Parent-Child Bonding</u> (e.g. community outreach activities, Dads for
+Life Camps, cook-outs)</p>
+</li>
+<li>
+<p><u>PSG Bonding Activities</u> (e.g. parenting talks, inter-school PSG networking
+session, learning journeys for parents)</p>
 </li>
 </ul>
-<p></p>
-<h4><strong>Physical Events and Activities</strong></h4>
-<p></p>
-<p>Here are some examples of physical events and/or activities which PSGs
-have conducted. We hope you find some ideas here.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Major school events</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Parent-Child Bonding</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>PSG Bonding Activities</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p><u>&lt;&lt;put examples as cards?&gt;&gt;</u>
-</p>
-<p></p>
-<h4><strong>Virtual Events and Activities</strong></h4>
-<p>Since the Covid-19 pandemic, many PSGs have discovered the power of virtual
-platforms to conduct events and activities, and have tapped on them to
-keep communities connected, bridging distances and overcoming physical
-limitations.</p>
-<p>From online workshops to virtual family-bonding activities, the possibilities
-are endless. However, organising a successful virtual event requires careful
-planning to maximise the impact of each event. Tapping on technology may
-help you reach out to more parents but you may be unable to capture their
-full attention. Here are some additional considerations for organising
-virtual events:</p>
+<h3><strong>Virtual Activities</strong></h3>
+<p>Here are some considerations for organising virtual events:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Choose the right platform: Ensure it is user-friendly and suits your event's
@@ -112,10 +83,13 @@ or needs</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Review Your Events and Activities</strong></h3>
-<p>After each event, it is important to hold a review with all parents involved.
-The feedback we gather from such reviews will be very helpful for the PSG
-and the school when we plan our next event.</p>
+<h3><strong>Post-Activities Review</strong></h3>
+<p>After each event, it is important to hold a review with all stakeholders
+involved. The feedback we gather from such reviews will be very helpful
+for the PSG and the school when we plan our next activity.</p>
+<p>Some areas to consider:</p>
+<p><strong><u>***&lt; image of areas&gt;***</u></strong>
+</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who leads the review?</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;Typically, a review is best led by the parent(s)
 who is/are in charge of the event.</p>
