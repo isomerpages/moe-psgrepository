@@ -112,6 +112,37 @@ have conducted. We hope you find some ideas here.</p>
 </p>
 <p></p>
 <h4><strong>Virtual Events and Activities</strong></h4>
+<p>Since the Covid-19 pandemic, many PSGs have discovered the power of virtual
+platforms to conduct events and activities, and have tapped on them to
+keep communities connected, bridging distances and overcoming physical
+limitations.</p>
+<p>From online workshops to virtual family-bonding activities, the possibilities
+are endless. However, organising a successful virtual event requires careful
+planning to maximise the impact of each event. Tapping on technology may
+help you reach out to more parents but you may be unable to capture their
+full attention. Here are some additional considerations for organising
+virtual events:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choose the right platform: Ensure it is user-friendly and suits your event's
+needs</p>
+</li>
+<li>
+<p>Test your tech: Run a rehearsal to iron out potential glitches</p>
+</li>
+<li>
+<p>Engage your audience: Incorporate interactive elements to maintain interest,
+such as asking parents to participate by asking/replying to questions or
+polls in the chat feature.</p>
+</li>
+<li>
+<p>Plan for accessibility: Consider participants with different tech skills
+or needs</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
