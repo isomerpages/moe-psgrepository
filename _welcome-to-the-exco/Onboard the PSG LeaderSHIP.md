@@ -64,46 +64,6 @@ to apply for leave.</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Good Practices</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><u>Respect Everyone</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Follow the school’s rules and respect the authority of the school.</p>
-</li>
-<li>
-<p>Respect the views and comments of fellow members.</p>
-</li>
-<li>
-<p>Dress modestly when volunteering at school events.</p>
-</li>
-<li>
-<p>Unless authorised by the school leaders, do not represent the school at
-any external platform (e.g. speaking to the media).</p>
-</li>
-</ul>
-<p></p>
-<p><u>Participate actively</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Promote and participate actively in the school’s programmes for the benefit
-of <strong>all</strong> children.</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Provide constructive feedback to the school through official channels
-(e.g. dialogue sessions, PSG meetings).</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>Managing Communication Channels</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
