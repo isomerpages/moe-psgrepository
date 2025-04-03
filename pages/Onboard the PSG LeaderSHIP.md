@@ -11,6 +11,13 @@ team and the parent community. Find out key things to note as an EXCO member.</p
 <p></p>
 <p><a href="https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ" rel="noopener noreferrer nofollow" target="_blank">https://www.canva.com/design/DAGPG39x8U4/sp6eXrZzufw-Q7XRETM0Bg/edit?ui=eyJEIjp7IkYiOjF9fQ</a>
 </p>
+<p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Preparing for the Year Ahead</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -49,18 +56,6 @@ to apply for leave.</div>
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
-<p>Outline of what is on parents' mind by month</p>
-<p>Plan your activities based on your parent community's needs and interests</p>
-<p><a href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view</a>
-</p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Preparing for the Year Ahead</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>It is good to draw up an annual work plan to ensure a good spread of activities
 throughout the year.</p>
