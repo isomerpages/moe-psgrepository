@@ -39,7 +39,7 @@ strive to understand, acknowledge, appreciate and accept viewpoints that
 may be different from their own.</p>
 </li>
 </ul>
-<h4><strong>Handover Process</strong></h4>
+<h3><strong>Handover Process</strong></h3>
 <p>Ensure that for every leadership succession, there is proper handover.
 Customise this <strong><u>handover checklist (Template #)</u></strong> for
 your PSG!</p>
