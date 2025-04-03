@@ -14,8 +14,6 @@ sections:
       variant: side
       backgroundColor: gray
       size: md
-      button: asf
-      url: asf
       key_highlights:
         - title: Events and Highlights
           description: Key Highlight description
