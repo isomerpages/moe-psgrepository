@@ -24,7 +24,7 @@ and</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>What to note when planning an event or activity?</strong></h3>
+<h3><strong>Things to Note</strong></h3>
 <p>Effective PSGs bridge the needs of the parent community with the school's
 objectives. Before planning events or activities, remember to:</p>
 <ul data-tight="true" class="tight">
