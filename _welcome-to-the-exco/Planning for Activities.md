@@ -4,16 +4,6 @@ permalink: /planning-for-activities/
 variant: tiptap
 description: ""
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Assign at least 2 volunteers to organise each activity to share the workload.</strong>
-</p>
-</li>
-<li>
-<p><strong>Ensure every event has a teacher-in-charge and a key parent coordinator to ensure communication between the school and the PSG.</strong>
-</p>
-</li>
-</ul>
 <p>We have a big part to play in enriching our children’s school life, whether
 we collaborate with the school for key school programmes, or organise parent-centric
 activities. The activities and programmes that we plan should aim to:</p>
@@ -33,6 +23,8 @@ and</p>
 <p>support other <strong>parents </strong>in their parenting journey.</p>
 </li>
 </ul>
+<p></p>
+<h3><strong>What to note when planning an event or activity?</strong></h3>
 <p>Effective PSGs bridge the needs of the parent community with the school's
 objectives. Before planning events or activities, remember to:</p>
 <ul data-tight="true" class="tight">
@@ -45,8 +37,19 @@ and maximise the impact of your efforts; and</p>
 suit the needs of the activity and the participants.</p>
 </li>
 </ul>
+<p></p>
 <p>As we plan for the event/activity, here are some areas that we can consider:</p>
 <p>&lt;checklist/ image of areas&gt;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Assign at least 2 volunteers to organise each activity to share the workload.</strong>
+</p>
+</li>
+<li>
+<p><strong>Ensure every event has a teacher-in-charge and a key parent coordinator to ensure communication between the school and the PSG.</strong>
+</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Physical Events and Activities</strong></h4>
 <p></p>
