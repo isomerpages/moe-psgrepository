@@ -82,6 +82,8 @@ suit the needs of the activity and the participants.</p>
 <p>As we plan for the event/activity, here are some areas that we can consider:</p>
 <p>&lt;checklist/ image of areas&gt;</p>
 <p></p>
+<h4><strong>Physical Events and Activities</strong></h4>
+<p></p>
 <p>Here are some examples of physical events and/or activities which PSGs
 have conducted. We hope you find some ideas here.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -108,6 +110,10 @@ have conducted. We hope you find some ideas here.</p>
 </div>
 <p><u>&lt;&lt;put examples as cards?&gt;&gt;</u>
 </p>
+<p></p>
+<h4><strong>Virtual Events and Activities</strong></h4>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
