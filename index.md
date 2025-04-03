@@ -26,7 +26,7 @@ sections:
           description: ""
           linktext: Where helping hands are
           url: /support-for-your-psg/
-        - title: Onboard the PSG LeaderSHIP
+        - title: Welcome to the PSG EXCO
           description: ""
           linktext: Congrats! What's next?
           url: /onboard-the-psg-leadership/
