@@ -329,8 +329,32 @@ is below (exact details dependent on school):</p>
 </tbody>
 </table>
 <p></p>
+<blockquote>
+<p>Tip: PSG member from Sembawang Primary School Siti Dhamirah suggests recycling
+items from previous events, or even DIY some items together. We think a
+DIY session could make for a great PSG bonding activity.</p>
+</blockquote>
 <p></p>
-<p></p>
+<p>When buying items or collecting fees it is important to ensure proper
+accountability and guard against disputes or fraud:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All PSG expenses
+should be billed to the school and paid directly by the school to the vendors.
+If it is necessary for PSGs to pay for the expense first, check with the
+Partnership teacher in-charge before payment to ensure that reimbursement
+is permitted.</p>
+<blockquote>
+<p>Tip: Check if your school has a school corporate card for PSG expenses
+to be charged to.</p>
+</blockquote>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ask for and retain
+receipts. It is a good practice to scan or photocopy receipts as the ink
+on receipts may fade.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of public
+fund accountability, parents should not transfer money relating to PSG
+operations and events to any personal accounts.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When collecting
+fees for programmes (e.g. workshops/classes), the money must immediately
+be handed to the school personnel to ensure that there is clear accountability.</p>
 <p></p>
 <p></p>
 <p></p>
