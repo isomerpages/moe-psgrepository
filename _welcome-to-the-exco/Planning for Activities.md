@@ -4,9 +4,8 @@ permalink: /planning-for-activities/
 variant: tiptap
 description: ""
 ---
-<p>We have a big part to play in enriching our children’s school life, whether
-we collaborate with the school for key school programmes, or organise parent-centric
-activities. The activities and programmes that we plan should aim to:</p>
+<p>PSGs have a big part to play in enriching our children’s school life.
+The activities and programmes that we plan should aim to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>support the<strong> child</strong> to enrich his/her learning in school;</p>
