@@ -94,7 +94,7 @@ environment.</p>
 <p></p>
 </li>
 </ul>
-<h3><strong>Things to Keep In Mind</strong></h3>
+<h3><strong>As a PSG member... </strong></h3>
 <p><u>Respect Everyone</u>
 </p>
 <ul data-tight="true" class="tight">
