@@ -141,7 +141,49 @@ or needs</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<h3><strong>Review Your Events and Activities</strong></h3>
+<p>After each event, it is important to hold a review with all parents involved.
+The feedback we gather from such reviews will be very helpful for the PSG
+and the school when we plan our next event.</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who leads the review?</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Typically, a review is best led
+by the parent(s) who is/are in charge of the event.</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who should be involved?</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who have helped out or
+participated can give valuable feedback.</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School staff can also provide comments
+from a different perspective.</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When do you do a review?</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do a quick review immediately after
+the event, as the experience will be fresh in everyone’s mind.</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some PSGs meet regularly (e.g.
+every two months or termly) to discuss initiative and review programmes. <em>(Amizah, Admiralty Sec Sch staff &amp; Jacqueline, Riverside Pri Sch staff)</em>
+</p>
+<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What do you need to do a review?</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A framework to guide the review
+discussion can be very helpful.</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A simple framework to use is Keep,
+Improve, Start, Stop (<a rel="noopener noreferrer nofollow" target="_blank">KISS</a>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SH1]</a>&nbsp;<a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[CEG2]</a>&nbsp;), which prompts us to think about both
+the effective and less effective parts of a programme.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keep – Which parts are working well and
+should continue?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improve – Which parts can be done better?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start – What initiatives can we start
+to enhance school-home partnership?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stop – Which parts are ineffective and
+do not benefit anyone?</p>
+<hr>
+<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SH1]</a>Thinking if we should publicise this or provide
+links to various framework/ template for them to pick and choose?</p>
+<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[CEG2]</a>Would changing the phrasing to ‘A simple
+framework to use is…’ help? Like we are not publicising publicising per
+se, but suggesting a simple to use framework? (We can discuss again at
+next huddle.)</p>
 <p></p>
 <p></p>
 <p></p>
