@@ -8,10 +8,10 @@ description: ""
 <p></p>
 <p>The Parent Support Group (PSG) is a great opportunity for us to be closer
 to our children, understand them better, and help them in their education
-journey. Our children also benefit when we are more active in their school
-environment.</p>
+journey.</p>
 <p></p>
-<p>They tend to:</p>
+<p>Our children also benefit when we are more active in their school environment.
+They tend to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>show more positive attitudes</p>
