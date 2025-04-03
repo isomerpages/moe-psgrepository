@@ -14,6 +14,12 @@ sections:
       variant: side
       backgroundColor: gray
       size: md
+      button: af
+      url: asf
+      key_highlights:
+        - title: Events and Highlights
+          description: Key Highlight description
+          url: /events/
   - textcards:
       title: Getting Started!
       id: textcards
