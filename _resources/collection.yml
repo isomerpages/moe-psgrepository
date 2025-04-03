@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - MOE Platforms.md
       - By Theme/.keep
       - By Theme/WellBeing.md
       - By Theme/Parent Child Relationship.md
