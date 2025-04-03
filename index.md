@@ -60,12 +60,13 @@ sections:
           linktext: Learn more
           url: ""
   - infopic:
-      title: Infopic
+      title: Meet Our Zonal Leaders
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Hani, Yus, Tina, Joey
+      button: read more
       alt: Image alt text
+      url: /zonal-leaders
   - infobar:
       title: Resource Library
       subtitle: Add informational text
