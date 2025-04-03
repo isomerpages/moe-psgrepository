@@ -47,128 +47,131 @@ and run the show for the benefits of our students, teachers and parents.</p>
 <p></p>
 <p>&lt;&lt;Image of scenarios&gt;&gt;</p>
 <p></p>
-<h3><strong>Event &amp; Activity Planning</strong></h3>
-<p>We have a big part to play in enriching our children’s school life, whether
-we collaborate with the school for key school programmes, or organise parent-centric
-activities. The activities and programmes that we plan should aim to:</p>
+<h3><strong><s>Event &amp; Activity Planning</s></strong></h3>
+<p><s>We have a big part to play in enriching our children’s school life, whether we collaborate with the school for key school programmes, or organise parent-centric activities. The activities and programmes that we plan should aim to:</s>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>support the<strong> child</strong> to enrich his/her learning in school;</p>
+<p><s>support the</s><strong><s> child</s></strong><s> to enrich his/her learning in school;</s>
+</p>
 </li>
 <li>
-<p>support the <strong>school</strong> to strengthen school-based activities
-and initiatives;</p>
+<p><s>support the </s><strong><s>school</s></strong><s> to strengthen school-based activities and initiatives;</s>
+</p>
 </li>
 <li>
-<p>support the <strong>teachers </strong>to bring out the best in our children;
-and</p>
+<p><s>support the </s><strong><s>teachers </s></strong><s>to bring out the best in our children; and</s>
+</p>
 </li>
 <li>
-<p>support other <strong>parents </strong>in their parenting journey.</p>
+<p><s>support other </s><strong><s>parents </s></strong><s>in their parenting journey.</s>
+</p>
 </li>
 </ul>
-<p>Effective PSGs bridge the needs of the parent community with the school's
-objectives. Before planning events or activities, remember to:</p>
+<p><s>Effective PSGs bridge the needs of the parent community with the school's objectives. Before planning events or activities, remember to:</s>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>consult your school partnership staff and school leaders to ensure alignment
-and maximise the impact of your efforts; and</p>
+<p><s>consult your school partnership staff and school leaders to ensure alignment and maximise the impact of your efforts; and</s>
+</p>
 </li>
 <li>
-<p>consider the modality of the event (physical, virtual, or hybrid) to best
-suit the needs of the activity and the participants.</p>
+<p><s>consider the modality of the event (physical, virtual, or hybrid) to best suit the needs of the activity and the participants.</s>
+</p>
 </li>
 </ul>
-<p>As we plan for the event/activity, here are some areas that we can consider:</p>
-<p>&lt;checklist/ image of areas&gt;</p>
+<p><s>As we plan for the event/activity, here are some areas that we can consider:</s>
+</p>
+<p><s>&lt;checklist/ image of areas&gt;</s>
+</p>
 <p></p>
-<h4><strong>Physical Events and Activities</strong></h4>
+<h4><strong><s>Physical Events and Activities</s></strong></h4>
 <p></p>
-<p>Here are some examples of physical events and/or activities which PSGs
-have conducted. We hope you find some ideas here.</p>
+<p><s>Here are some examples of physical events and/or activities which PSGs have conducted. We hope you find some ideas here.</s>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Major school events</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Parent-Child Bonding</strong>
+<summary><s>Major school events</s>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>PSG Bonding Activities</strong>
+<summary><strong><s>Parent-Child Bonding</s></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><s>PSG Bonding Activities</s></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
-<p><u>&lt;&lt;put examples as cards?&gt;&gt;</u>
+<p><s><u>&lt;&lt;put examples as cards?&gt;&gt;</u></s>
 </p>
 <p></p>
-<h4><strong>Virtual Events and Activities</strong></h4>
-<p>Since the Covid-19 pandemic, many PSGs have discovered the power of virtual
-platforms to conduct events and activities, and have tapped on them to
-keep communities connected, bridging distances and overcoming physical
-limitations.</p>
-<p>From online workshops to virtual family-bonding activities, the possibilities
-are endless. However, organising a successful virtual event requires careful
-planning to maximise the impact of each event. Tapping on technology may
-help you reach out to more parents but you may be unable to capture their
-full attention. Here are some additional considerations for organising
-virtual events:</p>
+<h4><strong><s>Virtual Events and Activities</s></strong></h4>
+<p><s>Since the Covid-19 pandemic, many PSGs have discovered the power of virtual platforms to conduct events and activities, and have tapped on them to keep communities connected, bridging distances and overcoming physical limitations.</s>
+</p>
+<p><s>From online workshops to virtual family-bonding activities, the possibilities are endless. However, organising a successful virtual event requires careful planning to maximise the impact of each event. Tapping on technology may help you reach out to more parents but you may be unable to capture their full attention. Here are some additional considerations for organising virtual events:</s>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Choose the right platform: Ensure it is user-friendly and suits your event's
-needs</p>
+<p><s>Choose the right platform: Ensure it is user-friendly and suits your event's needs</s>
+</p>
 </li>
 <li>
-<p>Test your tech: Run a rehearsal to iron out potential glitches</p>
+<p><s>Test your tech: Run a rehearsal to iron out potential glitches</s>
+</p>
 </li>
 <li>
-<p>Engage your audience: Incorporate interactive elements to maintain interest,
-such as asking parents to participate by asking/replying to questions or
-polls in the chat feature.</p>
+<p><s>Engage your audience: Incorporate interactive elements to maintain interest, such as asking parents to participate by asking/replying to questions or polls in the chat feature.</s>
+</p>
 </li>
 <li>
-<p>Plan for accessibility: Consider participants with different tech skills
-or needs</p>
+<p><s>Plan for accessibility: Consider participants with different tech skills or needs</s>
+</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Review Your Events and Activities</strong></h3>
-<p>After each event, it is important to hold a review with all parents involved.
-The feedback we gather from such reviews will be very helpful for the PSG
-and the school when we plan our next event.</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who leads the review?</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;Typically, a review is best led by the parent(s)
-who is/are in charge of the event.</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who should be involved?</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who have helped out or
-participated can give valuable feedback.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School staff can also provide comments
-from a different perspective.</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When do you do a review?</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do a quick review immediately after
-the event, as the experience will be fresh in everyone’s mind.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some PSGs meet regularly (e.g.
-every two months or termly) to discuss initiative and review programmes. <em>(Amizah, Admiralty Sec Sch staff &amp; Jacqueline, Riverside Pri Sch staff)</em>
+<h3><strong><s>Review Your Events and Activities</s></strong></h3>
+<p><s>After each event, it is important to hold a review with all parents involved. The feedback we gather from such reviews will be very helpful for the PSG and the school when we plan our next event.</s>
 </p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What do you need to do a review?</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A framework to guide the review
-discussion can be very helpful.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A simple framework to use is Keep,
-Improve, Start, Stop (KISS), which prompts us to think about both the effective
-and less effective parts of a programme.</p>
-<p>Keep – Which parts are working well and should continue?</p>
-<p>Improve – Which parts can be done better?</p>
-<p>Start – What initiatives can we start to enhance school-home partnership?</p>
-<p>Stop – Which parts are ineffective and do not benefit anyone?</p>
+<p><s>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who leads the review?</s>
+</p>
+<p><s>a.&nbsp;&nbsp;&nbsp;&nbsp;Typically, a review is best led by the parent(s) who is/are in charge of the event.</s>
+</p>
+<p><s>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who should be involved?</s>
+</p>
+<p><s>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who have helped out or participated can give valuable feedback.</s>
+</p>
+<p><s>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School staff can also provide comments from a different perspective.</s>
+</p>
+<p><s>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When do you do a review?</s>
+</p>
+<p><s>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do a quick review immediately after the event, as the experience will be fresh in everyone’s mind.</s>
+</p>
+<p><s>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some PSGs meet regularly (e.g. every two months or termly) to discuss initiative and review programmes. </s><em><s>(Amizah, Admiralty Sec Sch staff &amp; Jacqueline, Riverside Pri Sch staff)</s></em>
+</p>
+<p><s>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What do you need to do a review?</s>
+</p>
+<p><s>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A framework to guide the review discussion can be very helpful.</s>
+</p>
+<p><s>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A simple framework to use is Keep, Improve, Start, Stop (KISS), which prompts us to think about both the effective and less effective parts of a programme.</s>
+</p>
+<p><s>Keep – Which parts are working well and should continue?</s>
+</p>
+<p><s>Improve – Which parts can be done better?</s>
+</p>
+<p><s>Start – What initiatives can we start to enhance school-home partnership?</s>
+</p>
+<p><s>Stop – Which parts are ineffective and do not benefit anyone?</s>
+</p>
 <p></p>
 <h3><strong>Managing PSG Finances</strong></h3>
 <p>Recognising that PSGs are supporting schools in their efforts, every school
