@@ -33,7 +33,7 @@ and run the show for the benefits of our students, teachers and parents.</p>
 <p></p>
 <p>&lt;&lt;Image of scenarios&gt;&gt;</p>
 <p></p>
-<p>Managing Communication Channels</p>
+<h2><strong>Managing Communication Channels</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Seek members’ permission before adding members to any chat or social media
