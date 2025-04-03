@@ -43,8 +43,9 @@ may be different from their own.</p>
 <p>Ensure that for every leadership succession, there is proper handover.
 Customise this <strong><u>handover checklist (Template #)</u></strong> for
 your PSG!</p>
-<p></p>
 <p>Did you know that handover can be an opportunity for bonding? David Ng,
 Chairperson (2024) of Xin Min Secondary School, shared that his PSG organised
 a farewell BBQ party for outgoing EXCO and incoming EXCO to meet-and-greet
 and handover.</p>
+<p></p>
+<p></p>
