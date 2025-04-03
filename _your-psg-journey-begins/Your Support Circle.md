@@ -5,9 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Seek out your Support Circles</strong></h3>
+<p></p>
 <p>Every PSG belongs to a Support Circle usually with fellow PSGs near them,
 so you have a community that you can always turn to.​ Your Support Circle
 follows the zone your school is in.</p>
+<p>Support Circles offer a great opportunity to learn and share ideas with
+other PSGs. More experienced parents can share their experience and advice
+with younger parents too.</p>
 <p>What are Support Circles for? They are:</p>
 <ul data-tight="true" class="tight">
 <li>
