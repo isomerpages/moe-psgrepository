@@ -54,25 +54,24 @@ to make the school environment more conducive for learning.</div>
 <p></p>
 <h3><strong>How can the PSG Contribute to the School?</strong></h3>
 <p>You are a<strong> peer </strong>and <strong>resource</strong> supporter
-to your parent community. We partner and support the school by volunteering
-our <strong>3 Ts</strong>:</p>
+to your parent community. As a member of the PSG, you partner and support
+the school by contributing 3 Ts (Time, Talent, Thought):</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Time - </strong>We can volunteer our time to design and conduct
-the school’s programmes and events. Supportive PSG members can help to
-make the school a safe place for our children to learn in, making school
-life more vibrant and caring.</p>
+<p><strong>Time - </strong>Volunteer your time to design and conduct the
+school’s programmes and events. Supportive PSG members can help to make
+the school a safe place for our children to learn in, making school life
+more vibrant and caring.</p>
 </li>
 <li>
-<p><strong>Talent - </strong>We can volunteer our expertise, talents, individual
+<p><strong>Talent - </strong>Contribute your expertise, talents, individual
 interests or personal networks. In this way, parents can significantly
 expand the pool of help available to the school and the PSG.</p>
 </li>
 <li>
-<p><strong>Thought - </strong>We can brainstorm and contribute constructive
-feedback and ideas to improve the school and PSG. Support Circles offer
-a great opportunity to learn and share ideas with other PSGs. More experienced
-parents can share their experience and advice with younger parents too.</p>
+<p><strong>Thought - </strong>Brainstorm and provide constructive feedback
+and ideas to improve the school and PSG. <s>Support Circles offer a great opportunity to learn and share ideas with other PSGs. More experienced parents can share their experience and advice with younger parents too.</s>
+</p>
 </li>
 </ul>
 <p></p>
