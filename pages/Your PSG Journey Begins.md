@@ -95,7 +95,7 @@ parents can share their experience and advice with younger parents too.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Good Practices</strong></h3>
+<h3><strong>Things to Keep In Mind</strong></h3>
 <p><u>Respect Everyone</u>
 </p>
 <ul data-tight="true" class="tight">
