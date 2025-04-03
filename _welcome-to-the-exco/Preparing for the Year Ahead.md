@@ -4,8 +4,7 @@ permalink: /preparing-for-the-year-ahead/
 variant: tiptap
 description: ""
 ---
-<p><strong>Preparing the Year Ahead</strong>
-</p>
+<h3><strong>Developing Annual Work Plan</strong></h3>
 <p>It is good to draw up an annual work pla<u>n ***</u><strong><u>(template #x)***</u></strong> to
 ensure a good spread of activities throughout the year.</p>
 <p>The PSG EXCO should discuss the work plan with the PSG Partnership teacher
@@ -19,7 +18,7 @@ in-charge and school leaders. An effective PSG work plan is aligned with:</p>
 </li>
 <li>
 <p>what parents will be paying attention to at a specific time, such as those
-reflected in the <a href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view" rel="noopener nofollow" target="_blank">PSG planning calendar</a> 
+reflected in the <a href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view" rel="noopener nofollow" target="_blank">PSG planning calendar</a>
 </p>
 </li>
 <li>
@@ -27,59 +26,16 @@ reflected in the <a href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtow
 </li>
 <li>
 <p>time required for preparation, including recruiting and briefing the parent
-volunteers</p>
-<p></p>
+volunteers.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Brief description of events and programmes for the year</div>
-<div class="isomer-card-description">Check against the school calendar to avoid a clash with school events.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Number of parents required for the event</div>
-<div class="isomer-card-description">Assign at least 2 volunteers to organise each activity to share the workload.
-Ensure every event has a teacher-in-charge and a key parent coordinator
-to ensure communication between the school and the PSG.</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtowBhWR7h9AWfd/view" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outline of what is on parents' minds by month</div><div class="isomer-card-description">Plan your activities with your parent community's needs and interests in mind.</div><div class="isomer-card-link">Click here</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Timeline to brief parents on the various events planned for</div>
-<div class="isomer-card-description">Allow parents to sign up early for events - this allows them ample time
-to apply for leave.</div>
-</div>
-</div>
-</div>
 <h3><strong>Managing PSG Finances</strong></h3>
 <p>Recognising that PSGs are supporting schools in their efforts, every school
 has set aside funds for their PSGs, called the PSG Fund, based on projected
 needs and priorities for the year. As such, <strong>all PSG expenditure should come from the PSG Fund.</strong>
 </p>
-<p><u>&lt;&lt;meme&gt;&gt;</u>
-</p>
-<p></p>
-<p>PSG Fund Facts:</p>
+<p><strong><u>***&lt;&lt;meme + include Fund Facts below&gt;&gt;** </u></strong>PSG
+Fund Facts:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Since 2017, the PSG Fund has been provided for under the School Operating
@@ -95,33 +51,11 @@ Instruction Manual.</p>
 if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
 </li>
 </ul>
-<p>To unlock the PSG Funds, PSGs should:</p>
-<p>a) At the start of the year</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Draw up workplan with estimated budget/ resources required for each programme.</p>
-</li>
-<li>
-<p>Discuss with schools on plans and budget/ resources required so that it
-can be factored in the upcoming year’s budget</p>
-</li>
-</ul>
-<blockquote>
-<p><strong>Tip: </strong>Ask if the school could provide PSG with updates
-on financial guidelines at a frequency both the school and PSG are comfortable
-with, ensuring transparency and that everyone is kept up to date with developments.</p>
-</blockquote>
-<ul data-tight="true" class="tight">
-<li>
-<p>Seek school’s approval of overall budget</p>
-</li>
-</ul>
-<blockquote>
-<p>Tip: Understand your school’s key considerations when approving PSG’s
-workplans or activity budget.</p>
+<p>PSGs may wish to refer to the managing finances checklist <strong><u>(template #x)</u> </strong>which
+outlines key steps when tapping on PSG Funds.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Rulang Primary's considerations</strong>
+<summary><strong>Rulang Primary's considerations <u>**&lt;&lt;change to image&gt;&gt;</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -180,23 +114,56 @@ workplans or activity budget.</p>
 </div>
 </details>
 </div>
+<p>Tips:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ask if the school could provide PSG with updates on financial guidelines
+at a frequency both the school and PSG are comfortable with, ensuring transparency
+and that everyone is kept up to date with developments.</p>
+</li>
+<li>
+<p>Event budgets must be approved by the executive committee (subject to
+monthly limits), and payment or claim certifications must be verified by
+the chairman and treasurer. <em>- Alfred Tay, Chairperson (2024) from Kong Hwa School)</em>
+</p>
+</li>
+<li>
+<p>Recycle items from previous events, or even DIY some items together. <em>- Siti Dhamirah, PSG member from Sembawang Primary School</em>
+</p>
+</li>
+<li>
+<p>Check if your school has a school corporate card for PSG expenses to be
+charged to which could simplify some processes.</p>
+</li>
+</ul>
+<p>--.--.-</p>
+<p><strong><u>**&lt;change to checklist&gt;**</u></strong>
+</p>
+<p>To use the PSG Funds, PSGs should:</p>
+<p>a) At the start of the year</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Draw up workplan with estimated budget/ resources required for each programme.</p>
+</li>
+<li>
+<p>Discuss with schools on plans and budget/ resources required so that it
+can be factored in the upcoming year’s budget</p>
+</li>
+<li>
+<p>Seek school’s approval of overall budget</p>
+</li>
+</ul>
+<blockquote>
+<p>Tip: Understand your school’s key considerations when approving PSG’s
+workplans or activity budget.</p>
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Designate a PSG member to track budget and expenditure for the year, and
 decide on the frequency of budget updates within PSG.</p>
+<p></p>
 </li>
 </ul>
-<blockquote>
-<p><strong>Tip: </strong>Alfred Tay, Chairperson (2024) from Kong Hwa School
-shares that their finance management is governed by the PSG’s Constitution.
-Generally, event budgets must be approved by the executive committee (subject
-to monthly limits), and payment or claim certifications must be verified
-by the chairman and treasurer. For substantial budgets, they require approval
-from the annual general meeting (AGM) or extraordinary general meeting
-(EGM).</p>
-</blockquote>
-<p></p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When preparing
 for an upcoming parent engagement activity, PSGs should work within the
 allocated budget to plan the event:</p>
@@ -244,12 +211,6 @@ is below (exact details dependent on school):</p>
 </tbody>
 </table>
 <p></p>
-<blockquote>
-<p>Tip: PSG member from Sembawang Primary School Siti Dhamirah suggests recycling
-items from previous events, or even DIY some items together. We think a
-DIY session could make for a great PSG bonding activity.</p>
-</blockquote>
-<p></p>
 <p>When buying items or collecting fees it is important to ensure proper
 accountability and guard against disputes or fraud:</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All PSG expenses
@@ -257,10 +218,6 @@ should be billed to the school and paid directly by the school to the vendors.
 If it is necessary for PSGs to pay for the expense first, check with the
 Partnership teacher in-charge before payment to ensure that reimbursement
 is permitted.</p>
-<blockquote>
-<p>Tip: Check if your school has a school corporate card for PSG expenses
-to be charged to.</p>
-</blockquote>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ask for and retain
 receipts. It is a good practice to scan or photocopy receipts as the ink
 on receipts may fade.</p>
