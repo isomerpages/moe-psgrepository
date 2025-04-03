@@ -273,14 +273,14 @@ workplans or activity budget.</p>
 </blockquote>
 <p>o&nbsp;&nbsp; Designate a PSG member to track budget and expenditure for
 the year, and decide on the frequency of budget updates within PSG.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3></h3>
+<blockquote>
+<p>Tip: Alfred Tay, Chairperson (2024) from Kong Hwa School shares that their
+finance management is governed by the PSG’s Constitution. Generally, event
+budgets must be approved by the executive committee (subject to monthly
+limits), and payment or claim certifications must be verified by the chairman
+and treasurer. For substantial budgets, they require approval from the
+annual general meeting (AGM) or extraordinary general meeting (EGM).</p>
+</blockquote>
 <p></p>
 <p></p>
 <p></p>
