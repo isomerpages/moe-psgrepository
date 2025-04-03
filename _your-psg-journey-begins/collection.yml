@@ -1,5 +1,5 @@
 collections:
-  your-psg-journey:
+  your-psg-journey-begins:
     output: true
     order:
       - Your PSG Journey Begins.md
