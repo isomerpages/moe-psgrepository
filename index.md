@@ -66,4 +66,10 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
