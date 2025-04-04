@@ -83,35 +83,11 @@ polls in the chat feature.</p>
 or needs</p>
 </li>
 </ul>
-<p></p>
 <h3><strong>Post-Activities Review</strong></h3>
 <p>After each event, it is important to hold a review with all stakeholders
 involved. The feedback we gather from such reviews will be very helpful
 for the PSG and the school when we plan our next activity.</p>
-<p>Some areas to consider:</p>
-<p><strong><u>***&lt; image of areas&gt;***</u></strong>
-</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who leads the review?</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;Typically, a review is best led by the parent(s)
-who is/are in charge of the event.</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who should be involved?</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who have helped out or
-participated can give valuable feedback.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School staff can also provide comments
-from a different perspective.</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When do you do a review?</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do a quick review immediately after
-the event, as the experience will be fresh in everyone’s mind.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some PSGs meet regularly (e.g.
-every two months or termly) to discuss initiative and review programmes. <em>(Amizah, Admiralty Sec Sch staff &amp; Jacqueline, Riverside Pri Sch staff)</em>
-</p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What do you need to do a review?</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A framework to guide the review
-discussion can be very helpful.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A simple framework to use is Keep,
-Improve, Start, Stop (KISS), which prompts us to think about both the effective
-and less effective parts of a programme.</p>
-<p>Keep – Which parts are working well and should continue?</p>
-<p>Improve – Which parts can be done better?</p>
-<p>Start – What initiatives can we start to enhance school-home partnership?</p>
-<p>Stop – Which parts are ineffective and do not benefit anyone?</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Post-Activities Review" src="/images/PSG Guide/Review_Post_event.png">
+</div>
+<p></p>
