@@ -9,53 +9,8 @@ schools to promote strong school-home partnership and support their parent
 communities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Roles of PSG" src="/images/PSG Guide/Roles_of_PSG__1080_x_1500_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Roles of PSG" src="/images/PSG Guide/Roles_of_PSG_Final.png">
 </div>
-<p></p>
-<p><strong><u>******&lt;&lt;rework these cards below into a diagram&gt;&gt;****</u></strong>
-</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Supportive Partner in Education</div>
-<div class="isomer-card-description">The PSG complements the school by aligning with the school’s objectives,
-supporting and strengthening the school’s programmes to improve our children’s
-well-being and learning.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Bridge between Parents and School</div>
-<div class="isomer-card-description">The PSG listens to parents’ feedback on school operations, practices and
-programmes, and provides feedback to the school. The PSG also facilitates
-the school’s communication to parents.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Lighthouse for Other Parents</div>
-<div class="isomer-card-description">Parents who are actively involved in the PSG are better able to reach
-out to other parents and involve them. Over time, more parents can contribute
-to make the school environment more conducive for learning.</div>
-</div>
-</div>
-</div>
-<p></p>
 <h3><strong>How can the PSG Contribute to the School?</strong></h3>
 <p>You are a<strong> peer </strong>and <strong>resource</strong> supporter
 to your parent community. As a member of the PSG, you partner and support
