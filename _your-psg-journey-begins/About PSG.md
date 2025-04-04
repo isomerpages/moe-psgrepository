@@ -55,7 +55,7 @@ and ideas to improve the school and PSG.</p>
 <p></p>
 </li>
 </ul>
-<h3><strong>As a PSG member,</strong></h3>
+<h3><strong>What to note as a PSG member?</strong></h3>
 <p><u>Respect Everyone</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -73,7 +73,7 @@ and ideas to improve the school and PSG.</p>
 any external platform (e.g. speaking to the media).</p>
 </li>
 </ul>
-<p><u>Participate actively</u>
+<p><u>Participate Actively</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
