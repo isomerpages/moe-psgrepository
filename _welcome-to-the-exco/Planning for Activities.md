@@ -42,9 +42,10 @@ share the workload; and</p>
 smooth communication between the school and the PSG.</p>
 </li>
 </ul>
-<p>Some areas to consider:</p>
-<p><strong><u>***&lt; image of areas&gt;***</u></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Planning for Activities" src="/images/PSG Guide/Planning_for_Activities.png">
+</div>
 <h3><strong>Physical Activities</strong></h3>
 <p>Here are some examples of physical events and/or activities which PSGs
 have conducted:</p>
