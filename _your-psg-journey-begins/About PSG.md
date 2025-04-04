@@ -9,7 +9,14 @@ schools to promote strong school-home partnership and support their parent
 communities. The roles of PSGs include:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Roles of PSG" src="/images/PSG Guide/Roles_of_PSG.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Roles_of_PSG_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Roles_of_PSG_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Roles_of_PSG_3.png">
 </div>
 <p><strong><u>******&lt;&lt;rework these cards below into a diagram&gt;&gt;****</u></strong>
 </p>
