@@ -11,28 +11,12 @@ are based on <a href="https://www.moe.gov.sg/about-us/organisation-structure/sd/
 <p>Support Circles offer a great opportunity to learn and share ideas with
 other PSGs. More experienced parents can share their experience and advice
 with younger parents too.</p>
-<p>What are Support Circles for? They are:</p>
 <p></p>
-<p><strong><u>***&lt;change points below to graphics&gt;***</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Your <strong>supporter</strong> and <strong>cheerleader </strong>when you
-start something positive in your PSG</p>
-</li>
-<li>
-<p>Your <strong>bouncing board for brainstorming</strong> and <strong>collaboration </strong>for
-new ideas/initiatives</p>
-</li>
-<li>
-<p>Your <strong>treasure vault of resources and ‘lobangs’ </strong>– when
-we share our knowledge, we grow and learn together</p>
-</li>
-</ul>
-<p>From being each other’s cheerleader to collaborating with one another,
-the possibilities are endless and that is the community we hope to build
-alongside with you! &nbsp;Check out your Support Circle’s strengths, wishes,
-goals and progress on Padlet</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Support Circle" src="/images/PSG Guide/Support_Circles.png">
+</div>
+<p>Check out your Support Circle’s strengths, wishes, goals and progress
+on Padlet</p>
 <p><u>[To link?]</u>
 </p>
 <p></p>
