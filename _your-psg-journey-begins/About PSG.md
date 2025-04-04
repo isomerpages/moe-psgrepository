@@ -12,6 +12,28 @@ communities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Roles of PSG" src="/images/PSG Guide/Roles_of_PSG_Final.png">
 </div>
 <h3><strong>How can the PSG Contribute to the School?</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peer Supporter" src="/images/PSG Guide/Peer_Supporter_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Resource Supporter" src="/images/PSG Guide/Resource_Supporter_.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>You are a<strong> peer </strong>and <strong>resource</strong> supporter
 to your parent community. As a member of the PSG, you partner and support
 the school by contributing 3 Ts (Time, Talent, Thought):</p>
