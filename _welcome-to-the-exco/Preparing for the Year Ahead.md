@@ -33,15 +33,15 @@ volunteers.</p>
 <h3><strong>Managing PSG Finances</strong></h3>
 <p>Recognising that PSGs are supporting schools in their efforts, every school
 has set aside funds for their PSGs, called the PSG Fund, based on projected
-needs and priorities for the year. As such, <strong>all PSG expenditure should come from the PSG Fund.</strong>
+needs and priorities for the year. As such, <strong>all PSG expenditure should come from the PSG Fund</strong>
 </p>
-<p></p>
 <p>PSGs may wish to refer to the managing finances checklist <strong><u>(template # </u></strong>
 <a href="/files/Managing_PSG_Finances_Checklist.pdf" rel="noopener nofollow" target="_blank">file</a><strong><u>)</u> </strong>which outlines key steps when tapping
 on PSG Funds.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="You will need to ask your school for funding in all cases" src="/images/PSG_finances___conso_v.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <h2><strong>--CONTENTS TO DELETE</strong></h2>
