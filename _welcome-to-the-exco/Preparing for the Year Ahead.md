@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Developing Annual Work Plan</strong></h3>
-<p>It is good to draw up an annual work pla<u>n ***</u><strong><u>(template #x)***</u></strong> to
-ensure a good spread of activities throughout the year.</p>
+<p>It is good to draw up an annual work pla<u>n ***</u><strong><u>(template #x- </u></strong>
+<a href="https://docs.google.com/document/d/1Ma13WpS6zcqhkM6ZosAS1aHVRyYlLbT3/edit?usp=sharing&amp;ouid=110347960894457553960&amp;rtpof=true&amp;sd=truelink" rel="noopener nofollow" target="_blank">Gdrive link</a><strong><u>)***</u></strong> to ensure a good spread of
+activities throughout the year.</p>
 <p>The PSG EXCO should discuss the work plan with the PSG Partnership teacher
 in-charge and school leaders. An effective PSG work plan is aligned with:</p>
 <ul data-tight="true" class="tight">
