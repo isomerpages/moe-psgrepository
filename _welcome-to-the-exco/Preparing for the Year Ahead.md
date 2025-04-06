@@ -42,8 +42,11 @@ on PSG Funds.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="You will need to ask your school for funding in all cases" src="/images/PSG_finances___conso_v.png">
 </div>
-<p><strong>--CONTENTS TO DELETE</strong>
-</p>
+<p></p>
+<p></p>
+<h2><strong>--CONTENTS TO DELETE</strong></h2>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="fund 1" src="/images/8.png">
