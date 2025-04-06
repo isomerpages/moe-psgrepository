@@ -34,6 +34,26 @@ volunteers.</p>
 has set aside funds for their PSGs, called the PSG Fund, based on projected
 needs and priorities for the year. As such, <strong>all PSG expenditure should come from the PSG Fund.</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fund meme" src="/images/7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fund 1" src="/images/8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fund 2" src="/images/9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fund 3" src="/images/10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fund conso" src="/images/PSG_site_test_1.png">
+</div>
 <p><strong><u>***&lt;&lt;meme + include Fund Facts below&gt;&gt;** </u></strong>PSG
 Fund Facts:</p>
 <ul data-tight="true" class="tight">
