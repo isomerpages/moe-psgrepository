@@ -46,19 +46,6 @@ on PSG Funds.</p>
 <p></p>
 <h2><strong>--CONTENTS TO DELETE</strong></h2>
 <p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fund 1" src="/images/8.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fund conso" src="/images/PSG_site_test_1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Rulang Primary" src="/images/PSG_site_test_1__1_.png">
-</div>
 <details class="isomer-details">
 <summary><strong>Rulang Primary's considerations <u>**&lt;&lt;change to image&gt;&gt;</u></strong>
 </summary>
@@ -84,63 +71,8 @@ Instruction Manual.</p>
 <p>As PSGs’ operations and events are in support of and on behalf of schools,
 if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
 </li>
-</ul>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<li>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Alignment with school priorities:&nbsp;</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Supports school values&nbsp;</p>
-</li>
-<li>
-<p>Contributes to educational goals&nbsp;</p>
-</li>
-<li>
-<p>Benefits students directly&nbsp;</p>
 </li>
 </ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Community and student development:&nbsp;</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Fosters sense of community&nbsp;</p>
-</li>
-</ul>
-<p>Supports overall student growth</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Budget management:&nbsp;</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Realistic and transparent budgeting&nbsp;</p>
-</li>
-<li>
-<p>Clear justification for all expenses&nbsp;</p>
-</li>
-<li>
-<p>Avoids undue financial burden on parents&nbsp;</p>
-</li>
-</ul>
-<p>4. Compliance:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Adheres to school policies&nbsp;</p>
-</li>
-<li>
-<p>Follows MOE guidelines&nbsp;</p>
-</li>
-</ul>
-</div>
-</details>
 <p></p>
