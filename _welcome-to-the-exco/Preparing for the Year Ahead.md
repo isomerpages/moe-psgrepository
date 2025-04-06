@@ -36,29 +36,9 @@ has set aside funds for their PSGs, called the PSG Fund, based on projected
 needs and priorities for the year. As such, <strong>all PSG expenditure should come from the PSG Fund.</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="fund meme" src="/images/7.png">
-</div>
-<p>PSG Fund Facts:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Since 2017, the PSG Fund has been provided for under the School Operating
-Fund (SOF) Block Grant to provide schools with greater flexibility in planning
-parent engagement activities/programmes with their PSGs.</p>
-</li>
-<li>
-<p>The allocation and use of PSG Funds are guided by the School Financial
-Instruction Manual.</p>
-</li>
-<li>
-<p>As PSGs’ operations and events are in support of and on behalf of schools,
-if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
-</li>
-</ul>
 <p>PSGs may wish to refer to the managing finances checklist <strong><u>(template # </u></strong>
 <a href="/files/Managing_PSG_Finances_Checklist.pdf" rel="noopener nofollow" target="_blank">file</a><strong><u>)</u> </strong>which outlines key steps when tapping
 on PSG Funds.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="You will need to ask your school for funding in all cases" src="/images/PSG_finances___conso_v.png">
 </div>
@@ -79,6 +59,31 @@ on PSG Funds.</p>
 <details class="isomer-details">
 <summary><strong>Rulang Primary's considerations <u>**&lt;&lt;change to image&gt;&gt;</u></strong>
 </summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="fund meme" src="/images/7.png">
+</div>
+<p>PSG Fund Facts:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Since 2017, the PSG Fund has been provided for under the School Operating
+Fund (SOF) Block Grant to provide schools with greater flexibility in planning
+parent engagement activities/programmes with their PSGs.</p>
+</li>
+<li>
+<p>The allocation and use of PSG Funds are guided by the School Financial
+Instruction Manual.</p>
+</li>
+<li>
+<p>As PSGs’ operations and events are in support of and on behalf of schools,
+if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
+</li>
+</ul>
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <ol data-tight="true" class="tight">
