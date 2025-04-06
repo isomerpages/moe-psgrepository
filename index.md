@@ -44,7 +44,7 @@ sections:
       description: Hani, Yus, Tina, Joey
       button: read more
       alt: Image alt text
-      url: /zonal-leaders
+      url: /zonal-leaders/
   - infobar:
       title: Resource Library
       subtitle: Add informational text
