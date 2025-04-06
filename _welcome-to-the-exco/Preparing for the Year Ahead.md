@@ -36,7 +36,7 @@ needs and priorities for the year. As such, <strong>all PSG expenditure should c
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="fund meme" src="/images/7.png">
+<img style="width: 50%;" height="auto" width="100%" alt="fund meme" src="/images/7.png">
 </div>
 <p>PSG Fund Facts:</p>
 <ul data-tight="true" class="tight">
@@ -56,67 +56,6 @@ if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
 </ul>
 <p>PSGs may wish to refer to the managing finances checklist <strong><u>(template #x)</u> </strong>which
 outlines key steps when tapping on PSG Funds.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Rulang Primary's considerations <u>**&lt;&lt;change to image&gt;&gt;</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Alignment with school priorities:&nbsp;</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Supports school values&nbsp;</p>
-</li>
-<li>
-<p>Contributes to educational goals&nbsp;</p>
-</li>
-<li>
-<p>Benefits students directly&nbsp;</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Community and student development:&nbsp;</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Fosters sense of community&nbsp;</p>
-</li>
-</ul>
-<p>Supports overall student growth</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Budget management:&nbsp;</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Realistic and transparent budgeting&nbsp;</p>
-</li>
-<li>
-<p>Clear justification for all expenses&nbsp;</p>
-</li>
-<li>
-<p>Avoids undue financial burden on parents&nbsp;</p>
-</li>
-</ul>
-<p>4. Compliance:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Adheres to school policies&nbsp;</p>
-</li>
-<li>
-<p>Follows MOE guidelines&nbsp;</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
 <p>Tips:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -137,9 +76,9 @@ the chairman and treasurer. <em>- Alfred Tay, Chairperson (2024) from Kong Hwa S
 <li>
 <p>Check if your school has a school corporate card for PSG expenses to be
 charged to which could simplify some processes.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Rulang Primary" src="/images/PSG_site_test_1__1_.png">
@@ -237,7 +176,8 @@ fees for programmes (e.g. workshops/classes), the money must immediately
 be handed to the school personnel to ensure that there is clear accountability.</p>
 <p></p>
 <p></p>
-<p>--CONTENTS TO DELETE</p>
+<p><strong>--CONTENTS TO DELETE</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="fund 1" src="/images/8.png">
@@ -246,4 +186,63 @@ be handed to the school personnel to ensure that there is clear accountability.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="fund conso" src="/images/PSG_site_test_1.png">
 </div>
+<details class="isomer-details">
+<summary><strong>Rulang Primary's considerations <u>**&lt;&lt;change to image&gt;&gt;</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Alignment with school priorities:&nbsp;</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Supports school values&nbsp;</p>
+</li>
+<li>
+<p>Contributes to educational goals&nbsp;</p>
+</li>
+<li>
+<p>Benefits students directly&nbsp;</p>
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Community and student development:&nbsp;</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fosters sense of community&nbsp;</p>
+</li>
+</ul>
+<p>Supports overall student growth</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Budget management:&nbsp;</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Realistic and transparent budgeting&nbsp;</p>
+</li>
+<li>
+<p>Clear justification for all expenses&nbsp;</p>
+</li>
+<li>
+<p>Avoids undue financial burden on parents&nbsp;</p>
+</li>
+</ul>
+<p>4. Compliance:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adheres to school policies&nbsp;</p>
+</li>
+<li>
+<p>Follows MOE guidelines&nbsp;</p>
+</li>
+</ul>
+</div>
+</details>
 <p></p>
