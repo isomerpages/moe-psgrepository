@@ -36,26 +36,9 @@ needs and priorities for the year. As such, <strong>all PSG expenditure should c
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fund meme" src="/images/7.png">
+<img style="width: 75%;" height="auto" width="100%" alt="fund meme" src="/images/7.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fund 1" src="/images/8.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fund 2" src="/images/9.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fund 3" src="/images/10.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fund conso" src="/images/PSG_site_test_1.png">
-</div>
-<p><strong><u>***&lt;&lt;meme + include Fund Facts below&gt;&gt;** </u></strong>PSG
-Fund Facts:</p>
+<p>PSG Fund Facts:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Since 2017, the PSG Fund has been provided for under the School Operating
@@ -156,6 +139,11 @@ the chairman and treasurer. <em>- Alfred Tay, Chairperson (2024) from Kong Hwa S
 charged to which could simplify some processes.</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Rulang Primary" src="/images/PSG_site_test_1__1_.png">
+</div>
 <p>--.--.-</p>
 <p><strong><u>**&lt;change to checklist&gt;**</u></strong>
 </p>
@@ -247,3 +235,15 @@ operations and events to any personal accounts.</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When collecting
 fees for programmes (e.g. workshops/classes), the money must immediately
 be handed to the school personnel to ensure that there is clear accountability.</p>
+<p></p>
+<p></p>
+<p>--CONTENTS TO DELETE</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fund 1" src="/images/8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fund conso" src="/images/PSG_site_test_1.png">
+</div>
+<p></p>
