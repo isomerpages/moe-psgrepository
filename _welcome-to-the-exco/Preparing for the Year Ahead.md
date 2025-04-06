@@ -54,127 +54,9 @@ Instruction Manual.</p>
 if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
 </li>
 </ul>
-<p>PSGs may wish to refer to the managing finances checklist <strong><u>(template #x)</u> </strong>which
-outlines key steps when tapping on PSG Funds.</p>
-<p>Tips:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ask if the school could provide PSG with updates on financial guidelines
-at a frequency both the school and PSG are comfortable with, ensuring transparency
-and that everyone is kept up to date with developments.</p>
-</li>
-<li>
-<p>Event budgets must be approved by the executive committee (subject to
-monthly limits), and payment or claim certifications must be verified by
-the chairman and treasurer. <em>- Alfred Tay, Chairperson (2024) from Kong Hwa School)</em>
-</p>
-</li>
-<li>
-<p>Recycle items from previous events, or even DIY some items together. <em>- Siti Dhamirah, PSG member from Sembawang Primary School</em>
-</p>
-</li>
-<li>
-<p>Check if your school has a school corporate card for PSG expenses to be
-charged to which could simplify some processes.</p>
-<p></p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Rulang Primary" src="/images/PSG_site_test_1__1_.png">
-</div>
-<p>--.--.-</p>
-<p><strong><u>**&lt;change to checklist&gt;**</u></strong>
-</p>
-<p>To use the PSG Funds, PSGs should:</p>
-<p>a) At the start of the year</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Draw up workplan with estimated budget/ resources required for each programme.</p>
-</li>
-<li>
-<p>Discuss with schools on plans and budget/ resources required so that it
-can be factored in the upcoming year’s budget</p>
-</li>
-<li>
-<p>Seek school’s approval of overall budget</p>
-</li>
-</ul>
-<blockquote>
-<p>Tip: Understand your school’s key considerations when approving PSG’s
-workplans or activity budget.</p>
-</blockquote>
-<ul data-tight="true" class="tight">
-<li>
-<p>Designate a PSG member to track budget and expenditure for the year, and
-decide on the frequency of budget updates within PSG.</p>
-<p></p>
-</li>
-</ul>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When preparing
-for an upcoming parent engagement activity, PSGs should work within the
-allocated budget to plan the event:</p>
-<p>o&nbsp;&nbsp; Meet the Partnership teacher in-charge of the event and
-come to a common consensus on the objective, theme and the overall budget.</p>
-<p>o&nbsp;&nbsp; Discuss with the school the financial processes and requirements
-such as which party is handling the procurement procedures, who is keeping
-tabs on the expenditure and receipts for the activity.</p>
-<p>o&nbsp;&nbsp; Provide the school with a detailed breakdown of estimated
-expenditure and necessary documentations, ensuring that projected and actual
-expenditure stays within the allocated budget. An example of breakdown
-is below (exact details dependent on school):</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Item/ Services</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Estimated Value</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>How to procure this?</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>e.g. Printing posters in colour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$50</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Buy from XX company. See quotation in attachment.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p>When buying items or collecting fees it is important to ensure proper
-accountability and guard against disputes or fraud:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All PSG expenses
-should be billed to the school and paid directly by the school to the vendors.
-If it is necessary for PSGs to pay for the expense first, check with the
-Partnership teacher in-charge before payment to ensure that reimbursement
-is permitted.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ask for and retain
-receipts. It is a good practice to scan or photocopy receipts as the ink
-on receipts may fade.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of public
-fund accountability, parents should not transfer money relating to PSG
-operations and events to any personal accounts.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When collecting
-fees for programmes (e.g. workshops/classes), the money must immediately
-be handed to the school personnel to ensure that there is clear accountability.</p>
-<p></p>
+<p>PSGs may wish to refer to the managing finances checklist <strong><u>(template # </u></strong>
+<a href="/files/Managing_PSG_Finances_Checklist.pdf" rel="noopener nofollow" target="_blank">file</a><strong><u>)</u> </strong>which outlines key steps when tapping
+on PSG Funds.</p>
 <p></p>
 <p><strong>--CONTENTS TO DELETE</strong>
 </p>
@@ -185,6 +67,10 @@ be handed to the school personnel to ensure that there is clear accountability.<
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="fund conso" src="/images/PSG_site_test_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Rulang Primary" src="/images/PSG_site_test_1__1_.png">
 </div>
 <details class="isomer-details">
 <summary><strong>Rulang Primary's considerations <u>**&lt;&lt;change to image&gt;&gt;</u></strong>
