@@ -3,7 +3,7 @@ links:
   - title: Highlights
     url: /events
   - title: Your PSG Journey Begins
-    url: /your-psg-journey-begins
+    collection: your-psg-journey-begins
   - title: Welcome to the PSG EXCO
     collection: welcome-to-the-exco
   - title: Be Inspired
