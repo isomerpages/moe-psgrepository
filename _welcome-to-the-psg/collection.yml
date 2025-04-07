@@ -1,5 +1,5 @@
 collections:
-  your-psg-journey-begins:
+  welcome-to-the-psg:
     output: true
     order:
       - About PSG.md
