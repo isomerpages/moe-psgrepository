@@ -22,14 +22,14 @@ sections:
       title: Getting Started!
       id: textcards
       cards:
-        - title: Your PSG Journey Begins
+        - title: Welcome to the PSG
           description: ""
           linktext: The essentials
-          url: /your-psg-journey-begins/
-        - title: Welcome to the PSG EXCO
+          url: /welcome-to-the-PSG/
+        - title: Your PSG EXCO journey begins
           description: ""
           linktext: Congrats! What's next?
-          url: /welcome-to-the-exco/
+          url: /your-psg-exco-journey-begins/
         - title: Be Inspired
           description: ""
           linktext: Positive Stories from PSGs
