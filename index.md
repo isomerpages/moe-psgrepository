@@ -52,5 +52,5 @@ sections:
       description: Parenting resources for your reading pleasure. Feel free to share
         these resources with your parent community.
       button: Sharing is caring
-      url: /be-inspired/
+      url: /resources/
 ---
