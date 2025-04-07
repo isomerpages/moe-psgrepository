@@ -33,7 +33,7 @@ sections:
         - title: Be Inspired
           description: ""
           linktext: Positive Stories from PSGs
-          url: /positive-stories/
+          url: /be-inspired/
       description: In this site, you can find resources that could come in useful in
         your PSG journey and when you connect with fellow parents.   We look
         forward to partnering you in your PSG journey!
