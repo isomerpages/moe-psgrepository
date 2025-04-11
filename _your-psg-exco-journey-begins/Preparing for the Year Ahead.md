@@ -39,40 +39,4 @@ needs and priorities for the year. As such, <strong>all PSG expenditure should c
 <a href="/files/Managing_PSG_Finances_Checklist.pdf" rel="noopener nofollow" target="_blank">file</a><strong><u>)</u> </strong>which outlines key steps when tapping
 on PSG Funds.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Approach your school for funds in all cases" src="/images/Finances/Finances_design_2.png">
-</div>
-<p></p>
-<p></p>
-<h2><strong>--CONTENTS TO DELETE</strong></h2>
-<p></p>
-<details class="isomer-details">
-<summary><strong>Rulang Primary's considerations <u>**&lt;&lt;change to image&gt;&gt;</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="fund meme" src="/images/7.png">
-</div>
-<p>PSG Fund Facts:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Since 2017, the PSG Fund has been provided for under the School Operating
-Fund (SOF) Block Grant to provide schools with greater flexibility in planning
-parent engagement activities/programmes with their PSGs.</p>
-</li>
-<li>
-<p>The allocation and use of PSG Funds are guided by the School Financial
-Instruction Manual.</p>
-</li>
-<li>
-<p>As PSGs’ operations and events are in support of and on behalf of schools,
-if PSGs wish to fundraise, the school needs to seek MOE’s approval.</p>
-</li>
-<li>
-<p></p>
-</li>
-</ul>
 <p></p>
