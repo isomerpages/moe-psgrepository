@@ -30,6 +30,10 @@ reflected in the <a href="https://drive.google.com/file/d/1ymzhV-EsnxCTcWyUUFtow
 volunteers.</p>
 </li>
 </ul>
+<h3><strong>Managing Communications Channel within PSG</strong></h3>
+<p>As an EXCO member, you will need to coordinate communication and resources
+within the PSG. Here are some reminders on managing team chats.</p>
+<p></p>
 <h3><strong>Managing PSG Finances</strong></h3>
 <p>Recognising that PSGs are supporting schools in their efforts, every school
 has set aside funds for their PSGs, called the PSG Fund, based on projected
