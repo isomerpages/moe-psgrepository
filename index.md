@@ -25,7 +25,7 @@ sections:
         - title: Welcome to the PSG
           description: ""
           linktext: The essentials
-          url: /welcome-to-the-PSG/
+          url: /welcome-to-the-psg/
         - title: Your PSG EXCO journey begins
           description: ""
           linktext: Congrats! What's next?
