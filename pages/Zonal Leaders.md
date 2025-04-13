@@ -14,22 +14,8 @@ description: ""
 <h3><strong>More from our Zonal Leaders</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>(East) Hani</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>I believe parenting is a journey where we learn from each other, and ideally
-every parent should be in a group or a committee where we share our best
-practices or what we can do more on. I practised this even before I was
-a Zonal Leader, mentoring others wherever I can. Years later, I feel a
-sense of pride when I hear people say, "She is my mentor."&nbsp;</p>
-<p>&nbsp;</p>
-<p>Every one of us would love to leave behind a legacy. I hope my legacy
-would be bringing creative minds together. The feeling of togetherness,
-brainstorming and sharing ideas and executing them well will forge a strong
-PSG community that can effectively partner our schools.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>(North &amp; JC/MI) Tina</summary>
+<summary>(North &amp; JC/MI) <strong>Mrs <u>Tina</u> Tan</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>I had the opportunity to serve as Chairperson of my boys' Primary school
 PSG when my oldest son was in Primary 2. Helping the school via PSG activities
@@ -46,6 +32,23 @@ how I've grown through these experiences.</p>
 <p>Serving as a Zonal Leader now helps me multiply those learnings&nbsp;to
 support younger PSG leaders as they seek to serve their schools to the
 best of their abilities.</p>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>(East) Hani</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>I believe parenting is a journey where we learn from each other, and ideally
+every parent should be in a group or a committee where we share our best
+practices or what we can do more on. I practised this even before I was
+a Zonal Leader, mentoring others wherever I can. Years later, I feel a
+sense of pride when I hear people say, "She is my mentor."&nbsp;</p>
+<p>&nbsp;</p>
+<p>Every one of us would love to leave behind a legacy. I hope my legacy
+would be bringing creative minds together. The feeling of togetherness,
+brainstorming and sharing ideas and executing them well will forge a strong
+PSG community that can effectively partner our schools.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -72,6 +75,12 @@ lasting impact for our children's future. The PSG community can definitely
 be a POSITIVE Agent of CHANGE to shift parents’ mindsets for the better;
 if the Village is Stronger, the child will definitely be Happier, More
 Confident, and part of a Kinder Generation.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
