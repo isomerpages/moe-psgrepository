@@ -8,7 +8,7 @@ description: ""
 <p>PSGs are the bridge between the parent community and the school. Regular
 communication with the school enables strong school-home partnership, by
 strengthening the PSG’s ability to contribute meaningfully and maximising
-PSG's impact onthe parent and student community.</p>
+PSG's impact on parents and children.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ideas to Connect with School" src="/images/Building Relationship/8.png">
 </div>
@@ -23,11 +23,12 @@ the PSG.</p>
 </div>
 <h3><strong>Managing Differences</strong></h3>
 <p>PSGs have to work closely with the school and other parents. At times,
-we may have to manage difficult situations. Below are some examples PSGs
-may face, and how we can understand and manage the situations better. Ultimately,
+PSGs may have to manage difficult situations. Below are some examples PSGs
+may face, and ways to understand and manage the situations better. Ultimately,
 it is important to bear in mind and remind each other that regardless of
 our differences, we all need to work in the best interests of children
-in the school and role model what we wish to see in our children.</p>
+in the school and role model what we wish to see in our parent community
+and children.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ways to manage differences" src="/images/Building Relationship/9.png">
 </div>
