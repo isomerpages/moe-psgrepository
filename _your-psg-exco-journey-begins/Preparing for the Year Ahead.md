@@ -42,5 +42,7 @@ needs and priorities for the year. As such, <strong>all PSG expenditure should c
 <p>PSGs may wish to refer to the managing finances checklist <strong><u>(template # </u></strong>
 <a href="/files/Managing_PSG_Finances_Checklist.pdf" rel="noopener nofollow" target="_blank">file</a><strong><u>)</u> </strong>which outlines key steps when tapping
 on PSG Funds.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ask the school in all cases when funds are needed. More PSG Fund Facts." src="/images/Finances/6.png">
+</div>
 <p></p>
