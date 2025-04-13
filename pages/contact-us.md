@@ -9,6 +9,6 @@ contacts:
       - phone: ""
       - email: ""
       - other: ""
-    title: Generic PSG enquiries
+    title: If you would like to share useful PSG resources
 feedback: www.moe.gov.sg
 ---
