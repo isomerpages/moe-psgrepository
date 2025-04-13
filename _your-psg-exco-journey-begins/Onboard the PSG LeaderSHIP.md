@@ -14,17 +14,14 @@ PSG team and the parent community.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>your <strong>PSG structure</strong>, regardless of how big or small, young
-or mature your PSG is.</p>
+or mature your PSG is. This includes updating the PSG EXCO roles based
+on the latest needs of the PSG or school; and</p>
 </li>
 <li>
 <p>your PSG's <strong><u>Terms of Reference (template #x)</u></strong>, which
 are useful in defining how the PSG works and its purpose.</p>
 </li>
 </ul>
-<p></p>
-<p><strong><u>***&lt;&lt; structure of EXCO&gt;&gt;***</u></strong>
-</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
