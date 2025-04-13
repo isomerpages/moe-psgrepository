@@ -42,7 +42,7 @@ with the school. Beyond understanding the school’s priorities for the year
 to develop the PSG work plan, do check with the school on the financial
 processes as <strong>all PSG expenditure should come from the school’s PSG Fund.</strong>&nbsp;</p>
 <p>PSGs may wish to refer to the managing finances checklist <strong><u>(template # - </u></strong>
-<a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/For%20Zonals/(For%20Zonals%27%20comments)%20Managing%20PSG%20Finances.docx?d=wf3bed51af3fa4ae18dc0f759be9c467f&amp;csf=1&amp;web=1&amp;e=t7ZdJf" rel="noopener nofollow" target="_blank">live doc draft (controlled access)</a><strong><u>) </u> </strong>which
+<a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/For%20Zonals/(For%20Zonals%27%20comments)%20Managing%20PSG%20Finances.docx?d=wf3bed51af3fa4ae18dc0f759be9c467f&amp;csf=1&amp;web=1&amp;e=t7ZdJf" rel="noopener nofollow" target="_blank">live doc draft (controlled access)</a><strong><u>) </u></strong>which
 outlines key steps when tapping on PSG Funds.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ask the school in all cases when funds are needed. More PSG Fund Facts." src="/images/Finances/6.png">
