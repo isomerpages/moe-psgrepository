@@ -7,8 +7,8 @@ agency_name: MOE PSG for feedback on this website or if you would like to share
 contacts:
   - content:
       - phone: ""
-      - email: psg@moe.gov.sg
+      - email: ""
       - other: ""
-    title: For other enquiries on PSG
-feedback: ""
+    title: Generic PSG enquiries
+feedback: www.moe.gov.sg
 ---
