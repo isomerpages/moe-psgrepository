@@ -37,7 +37,8 @@ best of their abilities.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>(East) Hani</summary>
+<summary>(East) <strong>Mdm Titiek Ro<u>hani</u></strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>I believe parenting is a journey where we learn from each other, and ideally
 every parent should be in a group or a committee where we share our best
@@ -52,13 +53,15 @@ PSG community that can effectively partner our schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>(South) Joey</summary>
+<summary>(South) <strong>Ms <u>Joey</u> Ching</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>(West) Yus</summary>
+<summary>(West) <strong>Ms <u>Yus</u>nizan Bte Mohd Taib</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Initially, I joined PSG to support my first child’s education journey
@@ -75,12 +78,6 @@ lasting impact for our children's future. The PSG community can definitely
 be a POSITIVE Agent of CHANGE to shift parents’ mindsets for the better;
 if the Village is Stronger, the child will definitely be Happier, More
 Confident, and part of a Kinder Generation.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 </div>
