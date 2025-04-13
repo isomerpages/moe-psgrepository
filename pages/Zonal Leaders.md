@@ -4,10 +4,8 @@ permalink: /zonal-leaders/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Meet Your Zonal Leaders</strong></h3>
-<p></p>
-<p></p>
-<p>&lt;&lt;image of zonals and quotes&gt;&gt;</p>
+<h3></h3>
+<h3><strong>More from our Zonal Leaders</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>(East) Hani</summary>
