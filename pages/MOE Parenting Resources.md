@@ -50,7 +50,7 @@ journey</div>
 <p>Mental Well-being Resource Guide for PSGs - 2021 (<a href="https://drive.google.com/file/d/1VX45XsWGYA4nnwk0EsIRhQ1wEzanow-y/view" rel="noopener nofollow" target="_blank">link</a>)</p>
 </li>
 <li>
-<p>PSG Handy Guide - (<a href="https://go.gov.sg/ psghandyguide" rel="noopener nofollow" target="_blank">link</a>)</p>
+<p>PSG Handy Guide - 2022 (<a href="https://go.gov.sg/ psghandyguide" rel="noopener nofollow" target="_blank">link</a>)</p>
 </li>
 </ul>
 <p></p>
