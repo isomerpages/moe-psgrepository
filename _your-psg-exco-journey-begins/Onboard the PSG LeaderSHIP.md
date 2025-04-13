@@ -20,8 +20,6 @@ on the latest needs of the PSG or school; and</p>
 are useful in defining how the PSG works and its purpose.</p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="typical roles in psg exco" src="/images/PSG EXCO/PSG_EXCO.png">
 </div>
