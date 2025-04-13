@@ -15,22 +15,18 @@ PSG's impact on parents and children.</p>
 <h3><strong>Cultivating Relationships within PSG</strong></h3>
 <p>The PSG, like any volunteer group, is built on relationships. Parents
 are likely to stay engaged when they feel valued and connected within the
-community. To build a strong PSG community, we need to foster and sustain
-the relationships through respectful communication and bonding activities
-and open communication within the PSG. Check out good practices in managing
-team chats in the '<a href="/preparing-for-the-year-ahead/" rel="noopener nofollow" target="_blank">Preparing for the Year Ahead</a>'
+community.</p>
+<p>Check out good practices in managing team chats in the '<a href="/preparing-for-the-year-ahead/" rel="noopener nofollow" target="_blank">Preparing for the Year Ahead</a>'
 page, and get ideas for bonding activities below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ideas to Connect with PSG Members" src="/images/Building Relationship/10.png">
 </div>
 <h3><strong>Managing Differences</strong></h3>
 <p>PSGs have to work closely with the school and other parents. At times,
-PSGs may have to manage difficult situations. Below are some examples PSGs
-may face, and ways to understand and manage the situations better. Ultimately,
-it is important to bear in mind and remind each other that regardless of
-our differences, we all need to work in the best interests of children
-in the school and role model what we wish to see in our parent community
-and children.</p>
+PSGs may have to manage difficult situations. It is important to bear in
+mind and remind each other that regardless of our differences, we all need
+to work in the best interests of children in the school and role model
+what we wish to see in our parent community and children.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ways to manage differences" src="/images/Building Relationship/9.png">
 </div>
