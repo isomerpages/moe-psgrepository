@@ -8,8 +8,9 @@ description: ""
 <p>Regular communication with the school fosters a collaborative mindset
 that the PSG is part of the school and strengthens the PSG’s ability to
 contribute meaningfully and maximising their impact.</p>
-<p><strong><u>***&lt;&lt;image&gt; &gt;***</u></strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ideas to Connect with School" src="/images/Building Relationship/8.png">
+</div>
 <h3><strong>Cultivating Relationships within PSG</strong></h3>
 <p>The PSG, like any volunteer group, is built on relationships. Parents
 are likely to stay engaged when they feel valued and connected within the
