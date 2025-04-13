@@ -5,6 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zonal Leaders/11.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zonal Leaders/12.png">
+</div>
 <h3><strong>More from our Zonal Leaders</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
