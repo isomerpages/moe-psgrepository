@@ -44,13 +44,30 @@ journey</div>
 <p>
 <br>
 </p>
-<h3><strong>PSG Resources from MOE</strong></h3>
+<h3><strong>PSG Resources on Mental Well-being</strong></h3>
 <ul data-tight="true" class="tight">
+<li>
+<p>PSG Handy Guide on identifying parents' needs relating to children's well-being
+- 2022 (<a href="https://go.gov.sg/ psghandyguide" rel="noopener nofollow" target="_blank">link</a>)</p>
+</li>
 <li>
 <p>Mental Well-being Resource Guide for PSGs - 2021 (<a href="https://drive.google.com/file/d/1VX45XsWGYA4nnwk0EsIRhQ1wEzanow-y/view" rel="noopener nofollow" target="_blank">link</a>)</p>
 </li>
 <li>
-<p>PSG Handy Guide - 2022 (<a href="https://go.gov.sg/ psghandyguide" rel="noopener nofollow" target="_blank">link</a>)</p>
+<p>PSG Resource Guide on helping parents to identify signs of stress in children
+- 2021 (<a href="https://go.gov.sg/psg- mental-wellbeing-guide" rel="noopener nofollow" target="_blank">link</a>)</p>
+<p><a href="https://go.gov.sg/psg-" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psg-</a>
+</p>
+<p>mental-wellbeing-guide</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/psg-" rel="noopener noreferrer nofollow" target="_blank">PSG Resource Guide</a>
+</p>
+<p><a href="https://go.gov.sg/psg-" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psg-</a>
+</p>
+<p><a href="https://go.gov.sg/psg-" rel="noopener noreferrer nofollow" target="_blank">mental-wellbeing-guidehttps://go.gov.sg/psg-</a>
+</p>
+<p>mental-wellbeing-guide</p>
 </li>
 </ul>
 <p></p>
