@@ -25,10 +25,9 @@ PSGs may face, and how we can understand and manage the situations better.
 Ultimately, it is important to bear in mind and remind each other that
 regardless of our differences, we all need to work in the best interests
 of children in the school and role model what we wish to see in our children.</p>
-<p></p>
-<p><strong><u>***&lt;&lt;Image of scenarios&gt;&gt;***</u></strong>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ways to manage differences" src="/images/Building Relationship/9.png">
+</div>
 <p></p>
 <blockquote>
 <p>Ultimately, we set aside our personal indifferences, we overcome the challenges
