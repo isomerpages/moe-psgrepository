@@ -16,8 +16,10 @@ PSG's impact on parents and children.</p>
 <p>The PSG, like any volunteer group, is built on relationships. Parents
 are likely to stay engaged when they feel valued and connected within the
 community. To build a strong PSG community, we need to foster and sustain
-the relationships through bonding activities and open communication within
-the PSG.</p>
+the relationships through respectful communication and bonding activities
+and open communication within the PSG. Check out good practices in managing
+team chats in the '<a href="/preparing-for-the-year-ahead/" rel="noopener nofollow" target="_blank">Preparing for the Year Ahead</a>'
+page, and get ideas for bonding activities below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ideas to Connect with PSG Members" src="/images/Building Relationship/10.png">
 </div>
