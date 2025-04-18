@@ -5,14 +5,13 @@ variant: tiptap
 description: ""
 ---
 <p>Parent Support Groups (PSGs) play an important role in fostering strong
-<a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">school-home partnerships</a>. <u>As parent volunteers who work closely with schools, they set the tone for respectful communication between the parent community and school, and rally parents to raise a happy, kind and confident generation of children together.</u>
-</p>
-<p>[suggested refinements to image to align with GSHP canbe found in Canva.
-]</p>
-<p><s>Parent Support Groups (PSGs) are parent volunteers who work closely with schools to promote strong school-home partnership and support their parent communities.</s>
-</p>
+<a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">school-home partnerships</a>. As parent volunteers who work closely with
+schools, they set the tone for respectful communication between the parent
+community and school, and rally parents to raise a happy, kind and confident
+generation of children together.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Roles of the PSG" src="/images/PSG Guide/Roles_of_PSG__Final.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Roles_of_PSG_Final2.png">
 </div>
 <h3><strong>How can the PSG Contribute to the School?</strong></h3>
 <table style="minWidth: 50px">
