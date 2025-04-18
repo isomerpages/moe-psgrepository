@@ -27,8 +27,18 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p>13 May: Enhancing peer support for parents of children with SEN (<a href="https://drive.google.com/file/d/1CULBjgyfMhHHOqCnPrCI9ZtT36xEB4fR/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">video recording</a>,
-<a href="https://drive.google.com/file/d/1G80t5eWSskUrNtssRTbsrYLrBHtXBDO8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">information deck</a>, <a href="https://drive.google.com/file/d/13GZcOYrVXopSkkSulDQI67tWOM4S2Rh4/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">list of resources</a>)</p>
+<p>3 February: PSG Engagement Session (<a href="https://drive.google.com/file/d/1BM1IoZzDnBPzDESgL3tfs9rrq7ZvysNS/view" rel="noopener nofollow" target="_blank">Information Deck</a>,
+<a href="https://drive.google.com/file/d/1FeWib8U_8Yrlp9xZTFFpmlzyIkV_Pywe/view" rel="noopener nofollow" target="_blank">2024 Support Circles Grouping</a>)</p>
+</li>
+<li>
+<p>18 May: PSG Onboarding Workshop (<a href="https://drive.google.com/file/d/1ocpi66HbrafNf-y6X2HhiybAuPLgHvQJ/view" rel="noopener nofollow" target="_blank">Information Deck</a>,
+<a href="https://drive.google.com/file/d/1eTlQXlEUyubdnC421lhgzzh-AgKSc10x/view" rel="noopener nofollow" target="_blank">Workshop Booklet</a>)</p>
+</li>
+<li>
+<p>20 &amp; 27 July: PSG Support Circles Get-Together (<a href="https://sites.google.com/moe.edu.sg/psg-online-repository/psg-engagement-session-materials" rel="noopener nofollow" target="_blank">Information Deck</a>)</p>
+</li>
+<li>
+<p>9 November: PSGs Celebrate 2024 (<a href="https://drive.google.com/file/d/1s084efMvemxLeZsrOtHSsITh6p1IEwtl/view" rel="noopener nofollow" target="_blank">Information Deck</a>)</p>
 </li>
 </ul>
 </div>
