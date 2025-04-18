@@ -13,15 +13,20 @@ other PSGs. More experienced parents can share their experience and advice
 with younger parents too.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Support Circle" src="/images/PSG Guide/Support_Circles.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Support_Circles_Final.png">
 </div>
 <p>Check out your Support Circle’s strengths, wishes, goals and progress
-on Padlet</p>
-<p><u>[To link?]</u>
+on Padlet.</p>
+<p><strong>North &amp; JC/MI Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-north-jcmi</a>
+</p>
+<p><strong>South Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-south</a>
+</p>
+<p><strong>East Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-east</a>
+</p>
+<p><strong>West Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-west</a>
 </p>
 <p></p>
 <p>Check out what support circles can do on <a href="/be-inspired/" rel="noopener nofollow" target="_blank">'Be Inspired'</a>.</p>
-<p></p>
 <hr>
 <h3><strong>Frequently Asked Questions</strong></h3>
 <h4><strong>A) Composition of Support Circles</strong></h4>
