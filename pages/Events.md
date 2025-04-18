@@ -23,7 +23,7 @@ description: ""
 <h2><strong>Past Years' Events</strong></h2>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2023</summary>
+<summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
@@ -36,11 +36,22 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2022</summary>
+<summary>2023</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 events</p>
+<p>February: PSG Leaders Get-Together Session (<a href="https://drive.google.com/file/d/1JiXebKTHpFwdFwolpPtA4ElrHObcPM3-/view" rel="noopener nofollow" target="_blank">Information Deck</a>,
+<a href="https://drive.google.com/file/d/1lRyYsWG4JDxCmQnaglpFiQUffhPuc-9I/view" rel="noopener nofollow" target="_blank">Resources Booklet</a>)</p>
+</li>
+<li>
+<p>25 February: PSG Online Sharing Session - Inculcating Cyber Wellness for
+your Child (<a href="https://drive.google.com/file/d/1DZO6dhBbxWL1aXgFWHPZQa9v4Wchcwv8/view" rel="noopener nofollow" target="_blank">MOE Guidance Branch's Presentation Deck</a>,
+<a href="https://drive.google.com/file/d/1s8DjPCdIHrLwe2rYCDUW3Th9g_yQf8X1/view" rel="noopener nofollow" target="_blank">Cyber Security Agency of Singapore's Presentation Deck</a>, <a href="https://drive.google.com/file/d/1k533yaovrbJvWP78jUmUxZMCFr3hjZ9T/view" rel="noopener nofollow" target="_blank">Yew Tee Primary School's PSG's Presentation Deck</a>)</p>
+</li>
+<li>
+<p>13 May: Online Sharing Session - Enhancing Peer Support for Parents of
+Children with SEN (<a href="https://drive.google.com/file/d/1G80t5eWSskUrNtssRTbsrYLrBHtXBDO8/view" rel="noopener nofollow" target="_blank">Sharing by PSGs on enhancing peer support</a>,
+<a href="https://drive.google.com/file/d/13GZcOYrVXopSkkSulDQI67tWOM4S2Rh4/view" rel="noopener nofollow" target="_blank">Resources</a>, <a href="https://drive.google.com/file/d/1CULBjgyfMhHHOqCnPrCI9ZtT36xEB4fR/view" rel="noopener nofollow" target="_blank">Video Recording</a>)</p>
 </li>
 </ul>
 </div>
