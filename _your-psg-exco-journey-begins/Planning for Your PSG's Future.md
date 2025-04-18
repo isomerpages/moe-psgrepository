@@ -9,15 +9,10 @@ description: ""
 an experienced team graduates from the PSG.</p>
 <p>Brewing a strong PSG leadership is like making the perfect cup of tea.
 Just follow the <strong>SIP</strong> method!</p>
-<p><strong><u>**&lt;&lt;image for SIP - (put a tea cup)&gt;&gt;********</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Include in picture: Elina, Chairperson (2024) of Yu Neng Pri School shares
-that for her PSG, new members will be shortlisted by Term 3. In Term 4,
-they will confirm the final list of new members.</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="succession planning" src="/images/PSG EXCO/Succession_Planning__SIP_.png">
+</div>
 <h3><strong>Attributes of Potential Leaders</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
