@@ -8,8 +8,7 @@ description: ""
 like to share your PSG efforts or come across any inspiring PSG stories,
 please <u>share them with us! (for internal info: hyperlinked to FormSG)</u>
 </p>
-<p>Some of the PSGs' efforts fall under these broad categories (Click here
-to review the c):</p>
+<p>Some of the PSGs' efforts fall under these broad categories (<a href="https://drive.google.com/drive/folders/1sDBA2Jnc8QcDrpQ3vrNdS-95cYhGxt7I?usp=sharing" rel="noopener nofollow" target="_blank">Click here to expand the pictures</a>):</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -19,17 +18,29 @@ to review the c):</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Supporting_from_Day_1_F.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent_Child_F.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bringing_out_the_best_F.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Supportive_Community_F.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -37,7 +48,7 @@ to review the c):</p>
 <hr>
 <p>A compilation of Experiences and Tips from the 25 Frontrunner PSGs can
 be found in the <a href="https://drive.google.com/file/d/16XA47OJ77KPXLvDpA1xMfB3hX2e_YCq8/view" rel="noopener nofollow" target="_blank">PSG Handy Guide</a> (e-published
-in March 2022). Refer below for the respective school's efforts.</p>
+in March 2022). Refer below for the respective school's efforts and tips.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Primary Schools</summary>
