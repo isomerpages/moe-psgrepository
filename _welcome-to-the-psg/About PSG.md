@@ -41,7 +41,7 @@ to your parent community. As a member of the PSG, you partner and support
 the school by contributing 3 Ts (Time, Talent, Thought):</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Time - </strong>Volunteer your time to design and conduct activities <u>aligned with the school's priorities</u>  <s>the school’s programmes and events</s>.
+<p><strong>Time - </strong>Volunteer your time to design and conduct activities <u>aligned with the school's priorities</u>.
 Supportive PSG members can help to make the school a safe place for our
 children to learn in, making school life more vibrant and caring.</p>
 </li>
