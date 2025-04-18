@@ -99,6 +99,10 @@ in March 2022). Refer below for the respective school's efforts.</p>
 <p>Tao Nan School - <a href="https://docs.google.com/presentation/d/14Guq0jF987HjZpmRD_tSBc1a6gFKeJFx2Is2st-VKn0/present?slide=id.g11e997a432f_2_59" rel="noopener nofollow" target="_blank">Customising support to parents</a>
 </p>
 </li>
+<li>
+<p>Yew Tee Primary School - <a href="https://docs.google.com/presentation/d/17EQKC4Co2rFxvWHGCVefLcKXA0J2hF_w6P-K05l6qhU/present?slide=id.g11e997a432f_2_59" rel="noopener nofollow" target="_blank">Building parents' knowledge</a>
+</p>
+</li>
 </ul>
 </div>
 </details>
@@ -152,6 +156,24 @@ in March 2022). Refer below for the respective school's efforts.</p>
 </li>
 <li>
 <p>Temasek Secondary School - <a href="https://docs.google.com/presentation/d/1yABrWFsmKSuGpJI1l0n2KUjNElIWoMvkngemovc4NHM/present?slide=id.g11e997a432f_2_59" rel="noopener nofollow" target="_blank">Reducing stigma of mental well-being</a>
+</p>
+</li>
+<li>
+<p>Yuan Ching Secondary School - <a href="https://docs.google.com/presentation/d/1kUP7AGU9PzhDk4Rfl6CRNUP26NGPJjrbgTkdkFXUiHw/present?slide=id.g11e997a432f_2_59" rel="noopener nofollow" target="_blank">Establishing a buddy system for stakeholders</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Junior Colleges/ Millenia Institute</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Victoria Junior College - <a href="https://docs.google.com/presentation/d/1PKvakjeIbI7cD1KQ4oBzUQqDM-GdBAytNurExFvfTF0/present?slide=id.g11e997a432f_2_59" rel="noopener nofollow" target="_blank">Working with parents and alumni</a>
 </p>
 </li>
 </ul>
