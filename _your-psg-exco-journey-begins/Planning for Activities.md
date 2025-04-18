@@ -88,6 +88,6 @@ or needs</p>
 involved. The feedback we gather from such reviews will be very helpful
 for the PSG and the school when we plan our next activity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Post-Activities Review" src="/images/PSG Guide/Review_Post_event.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Review_Post_event_Final.png">
 </div>
 <p></p>
