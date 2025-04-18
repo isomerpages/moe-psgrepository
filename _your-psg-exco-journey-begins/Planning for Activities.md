@@ -44,7 +44,7 @@ smooth communication between the school and the PSG.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Planning for Activities" src="/images/PSG Guide/Planning_for_Activities.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Planning_for_Activities_Final.png">
 </div>
 <h3><strong>Physical Activities</strong></h3>
 <p>Here are some examples of physical events and/or activities which PSGs
