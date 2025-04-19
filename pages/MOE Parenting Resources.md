@@ -4,10 +4,13 @@ permalink: /resources/
 variant: tiptap
 description: ""
 ---
-<p>Other than Parents Gateway's 'Parenting Tab', here are some resources
-for your reference!</p>
-<p>As a resource supporter, feel free to direct parents to the specific links
+<p>These resources are to support you in your role as a Resource Supporter
+and Peer Supporter. Please feel free to plan your efforts according to
+your school's and parents' needs and direct parents to the specific links
 within this page.</p>
+<blockquote>
+<p>More resources can be found on Parents' Gateway's <strong>'Parenting Tab'</strong>.</p>
+</blockquote>
 <h3><strong>Parenting Resources from MOE</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/parentkit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parent Kit" src="/images/Parent_Kit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Parent Kit</div><div class="isomer-card-description">Bite-sized resources for parents</div><div class="isomer-card-link">Access the kits</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/parentingwith.moesg/" class="isomer-card">
@@ -25,8 +28,6 @@ journey</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.schoolbag.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOE Schoolbag" src="/images/Schoolbag.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Schoolbag</div><div class="isomer-card-description">Find out what's happening in schools</div><div class="isomer-card-link">Explore the page</div></div></a>
 </div>
 <p></p>
-<p></p>
-<h2></h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pfw" class="isomer-card">
 <div class="isomer-card-image">
@@ -41,13 +42,7 @@ journey</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="go.gov.sg/growwell-sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grow Well SG</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p>
-<br>
-</p>
-<h3><strong>Resources on Supporting Children</strong></h3>
-<h4>These resources are to su<em>pport you in your role as a Resource Supporter and Peer Supporter. Please feel free to plan your efforts according to your school's and parents' needs.</em></h4>
-<hr>
-<p></p>
+<h3><strong>Resources on Supporting Parents and Children</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -94,6 +89,7 @@ journey</div>
 <hr>
 <p></p>
 <h3><strong>Useful Templates for PSG EXCO</strong></h3>
+<p>Feel free to edit the templates based on your PSG’s needs.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://docs.google.com/document/d/1n5epZbb9MeJLp0hT9Bv83AO7gw5X2piz/edit?usp=sharing&amp;ouid=110347960894457553960&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Terms of Reference (Template #1)</a>
