@@ -44,17 +44,54 @@ journey</div>
 <p>
 <br>
 </p>
-<h3><strong>PSG Resources on Children's Mental Well-being</strong></h3>
+<h3><strong>Resources on Supporting Children</strong></h3>
+<h4>These resources are to su<em>pport you in your role as a Resource Supporter and Peer Supporter. Please feel free to plan your efforts according to your school's and parents' needs.</em></h4>
+<hr>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Supporting Students Mental Well-being</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>PSG Handy Guide on identifying parents' needs relating to children's well-being
-- 2022 (<a href="https://go.gov.sg/ psghandyguide" rel="noopener nofollow" target="_blank">link</a>)</p>
-</li>
+<p><a href="https://drive.google.com/file/d/16XA47OJ77KPXLvDpA1xMfB3hX2e_YCq8/view" rel="noopener nofollow" target="_blank">PSG Handy Guide on supporting student mental well-being</a> (2022)</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>PSG Resource Guide on helping parents to identify signs of stress in children
-- 2021 (<a href="https://go.gov.sg/psg- mental-wellbeing-guide" rel="noopener nofollow" target="_blank">link</a>)</p>
+<p>For individual schools' tips and experiences, refer to <a href="https://google.com/be-inspired/" rel="noopener nofollow" target="_blank">Be Inspired</a>.</p>
 </li>
 </ul>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1VX45XsWGYA4nnwk0EsIRhQ1wEzanow-y/view" rel="noopener nofollow" target="_blank">PSG Resource Guide on supporting parents in strengthening mental well-being of their children</a> (2021)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Exploring Multiple Pathways to Success</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.youtubeeducation.com/watch?v=-OyKvjfnOvk" rel="noopener nofollow" target="_blank">Video on how parents and youths can explore multiple pathways in a nurturing, supportive way together </a>(2024)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p></p>
 <h3><strong>Useful Templates for PSG EXCO</strong></h3>
 <ul data-tight="true" class="tight">
