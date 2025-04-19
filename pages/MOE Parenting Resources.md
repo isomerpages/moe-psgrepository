@@ -9,11 +9,11 @@ for your reference!</p>
 <p>As a resource supporter, feel free to direct parents to the specific links
 within this page.</p>
 <h3><strong>Parenting Resources from MOE</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/parentkit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Parent Kit</div><div class="isomer-card-description">Bite-sized resources for parents</div><div class="isomer-card-link">Access the kits</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/parentkit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parent Kit" src="/images/Parent_Kit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Parent Kit</div><div class="isomer-card-description">Bite-sized resources for parents</div><div class="isomer-card-link">Access the kits</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/parentingwith.moesg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Parentingwith.MOEsg Instagram Page" src="/images/Parenting_IG.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ within this page.</p>
 journey</div>
 <div class="isomer-card-link">Follow us</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.schoolbag.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Schoolbag</div><div class="isomer-card-description">Find out what's happening in schools</div><div class="isomer-card-link">Explore the page</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.schoolbag.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOE Schoolbag" src="/images/Schoolbag.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Schoolbag</div><div class="isomer-card-description">Find out what's happening in schools</div><div class="isomer-card-link">Explore the page</div></div></a>
 </div>
 <p></p>
 <p></p>
@@ -55,4 +55,27 @@ journey</div>
 - 2021 (<a href="https://go.gov.sg/psg- mental-wellbeing-guide" rel="noopener nofollow" target="_blank">link</a>)</p>
 </li>
 </ul>
+<p></p>
+<h3><strong>Useful Templates for PSG EXCO</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/document/d/1n5epZbb9MeJLp0hT9Bv83AO7gw5X2piz/edit?usp=sharing&amp;ouid=110347960894457553960&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Terms of Reference (Template #1)</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/document/d/1Ma13WpS6zcqhkM6ZosAS1aHVRyYlLbT3/edit?usp=sharing&amp;ouid=110347960894457553960&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Annual Work Plan (Template #2)</a>
+</p>
+</li>
+<li>
+<p>[to be updated] PSG Planning Calendar (Template #3)</p>
+</li>
+<li>
+<p>[to be updated] Managing Finances Checklist (Template #4)</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/document/d/1gcafyvc9wOrWMgocwbUO7u0o5H29I9f1/edit?usp=sharing&amp;ouid=110347960894457553960&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Handover Checklist (Template #5)</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
