@@ -9,7 +9,7 @@ and Peer Supporter. Please feel free to plan your efforts according to
 your school's and parents' needs and direct parents to the specific links
 within this page.</p>
 <blockquote>
-<p>More resources can be found on Parents' Gateway's <strong>'Parenting Tab'</strong>.</p>
+<p>More resources can be found on <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>'s <strong>'Parenting Tab'</strong>.</p>
 </blockquote>
 <h3><strong>Parenting Resources from MOE</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/parentkit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parent Kit" src="/images/Parent_Kit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Parent Kit</div><div class="isomer-card-description">Bite-sized resources for parents</div><div class="isomer-card-link">Access the kits</div></div></a>
