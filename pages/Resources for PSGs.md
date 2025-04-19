@@ -92,21 +92,23 @@ journey</div>
 <p>Feel free to edit the templates based on your PSG’s needs.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/document/d/1n5epZbb9MeJLp0hT9Bv83AO7gw5X2piz/edit?usp=sharing&amp;ouid=110347960894457553960&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Terms of Reference (Template #1)</a>
+<p><a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Terms of Reference (Template #1)</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1Ma13WpS6zcqhkM6ZosAS1aHVRyYlLbT3/edit?usp=sharing&amp;ouid=110347960894457553960&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Annual Work Plan (Template #2)</a>
+<p><a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Annual Work Plan (Template #2)</a>
 </p>
 </li>
 <li>
-<p>[to be updated] PSG Planning Calendar (Template #3)</p>
+<p>[to be updated] <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">PSG Planning Calendar (Template #3)</a>
+</p>
 </li>
 <li>
-<p>[to be updated] Managing Finances Checklist (Template #4)</p>
+<p>[to be updated] <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Managing Finances Checklist (Template #4)</a>
+</p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1gcafyvc9wOrWMgocwbUO7u0o5H29I9f1/edit?usp=sharing&amp;ouid=110347960894457553960&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Handover Checklist (Template #5)</a>
+<p><a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Handover Checklist (Template #5)</a>
 </p>
 </li>
 </ul>
