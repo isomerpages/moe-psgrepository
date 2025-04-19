@@ -36,7 +36,7 @@ may be different from their own.</p>
 </ul>
 <h3><strong>Handover Process</strong></h3>
 <p>Ensure that for every leadership succession, there is proper handover.
-Customise this <strong><u>handover checklist (Template #)</u></strong> for
+Customise this <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Handover Checklist (Template #5)</a> for
 your PSG!</p>
 <p>Did you know that handover can be an opportunity for bonding? David Ng,
 Chairperson (2024) of Xin Min Secondary School, shared that his PSG organised
