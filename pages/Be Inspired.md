@@ -6,8 +6,7 @@ description: ""
 ---
 <p>Find out how PSGs have supported their school community. If you would
 like to share your PSG efforts or come across any inspiring PSG stories,
-please <u>share them with us! (for internal info: hyperlinked to FormSG)</u>
-</p>
+please <a href="https://form.gov.sg/6662cee56d2eed42c1dec95d" rel="noopener nofollow" target="_blank">share them with us</a>!</p>
 <p>Some of the PSGs' efforts fall under these broad categories (<a href="https://drive.google.com/drive/folders/1sDBA2Jnc8QcDrpQ3vrNdS-95cYhGxt7I?usp=sharing" rel="noopener nofollow" target="_blank">Click here to expand the pictures</a>):</p>
 <table style="minWidth: 50px">
 <colgroup>
