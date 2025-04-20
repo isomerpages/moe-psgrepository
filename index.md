@@ -47,7 +47,6 @@ sections:
       url: /zonal-leaders/
   - infobar:
       title: Resource Library
-      subtitle: Add informational text
       id: infobar
       description: Parenting resources for your reading pleasure. Feel free to share
         these resources with your parent community.
