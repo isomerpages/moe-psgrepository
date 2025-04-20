@@ -39,7 +39,6 @@ sections:
         forward to partnering you in your PSG journey!
   - infopic:
       title: Meet Our Zonal Leaders
-      subtitle: Add an image and text
       id: infopic
       description: Hani, Yus, Tina, Joey
       button: read more
