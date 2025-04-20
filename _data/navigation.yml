@@ -1,14 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Highlights
-    url: https://google.com/highlights/
+    url: /highlights/
   - title: Welcome To The PSG
     collection: welcome-to-the-psg
   - title: Your PSG EXCO Journey Begins
     collection: your-psg-exco-journey-begins
   - title: Be Inspired
-    url: https://google.com/be-inspired/
+    url: /be-inspired/
   - title: Meet Our Zonal Leaders
-    url: https://google.com/zonal-leaders/
+    url: /zonal-leaders/
   - title: Resource Library
     url: https://google.com/resources/
