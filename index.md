@@ -18,6 +18,7 @@ sections:
         - title: PSG Highlights
           description: Newsletters and past events
           url: /events/
+      url: /highlights/
   - textcards:
       title: Getting Started!
       id: textcards
