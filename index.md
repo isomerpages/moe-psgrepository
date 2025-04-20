@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: MOE Parent Support Group Repository
-description: An Isomer site of the Singapore Government
+description: A PSG Repository for the PSG community, where we learn with, learn
+  from and learn for one another.
 image: /images/Logo_Ministry_of_Education_Singapore.png
 permalink: /
 notification: ""
