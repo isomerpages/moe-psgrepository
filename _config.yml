@@ -1,6 +1,6 @@
-title: Title
+title: MOE Parent Support Group Repository
 url: https://google.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/Logo_Ministry_of_Education_Singapore.png
 colors:
   primary-color: "#1985a1"
   secondary-color: "#4c5c68"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d2zkpo95cro5hk.amplifyapp.com
 prod: https://master.d3bnk4exs40zps.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logo_Ministry_of_Education_Singapore.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
