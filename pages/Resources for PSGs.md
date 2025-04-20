@@ -12,6 +12,8 @@ within this page.</p>
 <p>More resources can be found on <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>'s <strong>'Parenting Tab'</strong>.</p>
 </blockquote>
 <h3><strong>Parenting Resources from MOE</strong></h3>
+<p><strong>(Internal note: To update with more suitable thumbnails)</strong>
+</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/parentkit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parent Kit" src="/images/Parent_Kit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Parent Kit</div><div class="isomer-card-description">Bite-sized resources for parents</div><div class="isomer-card-link">Access the kits</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/parentingwith.moesg/" class="isomer-card">
 <div class="isomer-card-image">
@@ -28,20 +30,6 @@ journey</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.schoolbag.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOE Schoolbag" src="/images/Schoolbag.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Schoolbag</div><div class="isomer-card-description">Find out what's happening in schools</div><div class="isomer-card-link">Explore the page</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pfw" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Parenting for Wellness</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="go.gov.sg/growwell-sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grow Well SG</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
 <h3><strong>Resources on Supporting Parents and Children</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -87,7 +75,6 @@ journey</div>
 </tbody>
 </table>
 <hr>
-<p></p>
 <h3><strong>Useful Templates for PSG EXCO</strong></h3>
 <p>Feel free to edit the templates based on your PSG’s needs.</p>
 <ul data-tight="true" class="tight">
