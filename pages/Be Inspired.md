@@ -179,8 +179,7 @@ in March 2022). Refer below for the respective school's efforts and tips.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Junior Colleges/ Millenia Institute</strong>
-</summary>
+<summary>Junior Colleges/ Millenia Institute</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
