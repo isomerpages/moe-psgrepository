@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
+title: MOE Parent Support Group Repository
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Logo_Ministry_of_Education_Singapore.png
 permalink: /
 notification: ""
 sections:
