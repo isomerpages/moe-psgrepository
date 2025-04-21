@@ -45,9 +45,9 @@ please <a href="https://form.gov.sg/6662cee56d2eed42c1dec95d" rel="noopener nofo
 </tbody>
 </table>
 <hr>
-<p>A compilation of Experiences and Tips from the 25 Frontrunner PSGs can
+<p>A compilation of experiences and tips from the 25 Frontrunner PSGs can
 be found in the <a href="https://drive.google.com/file/d/16XA47OJ77KPXLvDpA1xMfB3hX2e_YCq8/view" rel="noopener nofollow" target="_blank">PSG Handy Guide</a> (e-published
-in March 2022). Refer below for the respective school's efforts and tips.</p>
+in March 2022). The respective school's efforts are also listed below.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Primary Schools</summary>
