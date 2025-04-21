@@ -89,7 +89,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_March_2025.jpg">
 </div>
-<p>19 March 2025 - <a href="https://drive.google.com/file/d/1oXaLCi6Y8YULp5V6AFHfr6P14baH4UqD/view?usp=sharing" rel="noopener nofollow" target="_blank">Providing Our Children a Good Start to Grow Well</a>
+<p>19 March 2025: <a href="https://drive.google.com/file/d/1oXaLCi6Y8YULp5V6AFHfr6P14baH4UqD/view?usp=sharing" rel="noopener nofollow" target="_blank">Providing Our Children a Good Start to Grow Well</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -98,7 +98,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Feb_2025.jpg">
 </div>
 <p></p>
-<p>19 February 2025 - <a href="https://drive.google.com/file/d/1Zs1BCU4fdLnx_8cDJbdhNMoYNkijPTNJ/view?usp=sharing" rel="noopener nofollow" target="_blank">From Foundations to Frontiers: Our Education Journey</a>
+<p>19 February 2025: <a href="https://drive.google.com/file/d/1Zs1BCU4fdLnx_8cDJbdhNMoYNkijPTNJ/view?usp=sharing" rel="noopener nofollow" target="_blank">From Foundations to Frontiers: Our Education Journey</a>
 </p>
 <p></p>
 </th>
@@ -109,7 +109,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Feb_2025.jpg">
 </div>
-<p><strong>7 February 2025 - <a href="https://drive.google.com/file/d/1ifWSz3uouoio_zbZhKi69Bb9PkirwDqZ/view?usp=sharing" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: MOE's stand on bullying</a></strong>
+<p><strong>7 February 2025: <a href="https://drive.google.com/file/d/1ifWSz3uouoio_zbZhKi69Bb9PkirwDqZ/view?usp=sharing" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: MOE's stand on bullying</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 - <a href="https://drive.google.com/file/d/1dWa_RektMscMc6SzaAotEAm1GWamzGu8/view?usp=drive_link" rel="noopener nofollow" target="_blank">Raising a Happy, Confident and Kind Generation</a>
+<p>2024: <a href="https://drive.google.com/file/d/1dWa_RektMscMc6SzaAotEAm1GWamzGu8/view?usp=drive_link" rel="noopener nofollow" target="_blank">Raising a Happy, Confident and Kind Generation</a>
 </p>
 </li>
 </ul>
