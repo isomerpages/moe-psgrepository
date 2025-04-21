@@ -54,20 +54,16 @@ and resilience, and parent effectively in the digital age.</div>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Supporting Students Mental Well-being</h4>
+<h4>Supporting Students' Mental Well-being</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/16XA47OJ77KPXLvDpA1xMfB3hX2e_YCq8/view" rel="noopener nofollow" target="_blank">PSG Handy Guide on supporting student mental well-being</a> (2022)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For individual schools' tips and experiences, refer to <a href="https://google.com/be-inspired/" rel="noopener nofollow" target="_blank">Be Inspired</a>.</p>
-</li>
-</ul>
 </li>
 <li>
 <p><a href="https://drive.google.com/file/d/1VX45XsWGYA4nnwk0EsIRhQ1wEzanow-y/view" rel="noopener nofollow" target="_blank">PSG Resource Guide on supporting parents in strengthening mental well-being of their children</a> (2021)</p>
 </li>
 </ul>
+<p>For tips and experiences from individual PSGs, please refer to <a href="/be-inspired/" rel="noopener nofollow" target="_blank">Be Inspired</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -83,7 +79,7 @@ and resilience, and parent effectively in the digital age.</div>
 <h4>Exploring Multiple Pathways to Success</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.youtubeeducation.com/watch?v=-OyKvjfnOvk" rel="noopener nofollow" target="_blank">Video on how parents and youths can explore multiple pathways in a nurturing, supportive way together </a>(2024)</p>
+<p><a href="https://www.youtube.com/watch?v=-OyKvjfnOvk" rel="noopener nofollow" target="_blank">Video on how parents and youths can explore multiple pathways in a nurturing, supportive way together</a> (2024)</p>
 </li>
 </ul>
 </td>
