@@ -13,7 +13,15 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>2024: <a href="https://drive.google.com/file/d/1dWa_RektMscMc6SzaAotEAm1GWamzGu8/view?usp=sharing" rel="noopener nofollow" target="_blank">Raising a Happy, Confident and Kind Generation</a>
+<p>18 May: PSG Onboarding Workshop (<a href="https://drive.google.com/file/d/1ocpi66HbrafNf-y6X2HhiybAuPLgHvQJ/view" rel="noopener nofollow" target="_blank">Information Deck</a>,
+<a href="https://drive.google.com/file/d/1eTlQXlEUyubdnC421lhgzzh-AgKSc10x/view" rel="noopener nofollow" target="_blank">Workshop Booklet</a>)</p>
+</li>
+<li>
+<p>20 &amp; 27 July: <a href="https://drive.google.com/file/d/1pK86f-szJfsywLe_1DVezwXquSyyuD9V/view" rel="noopener nofollow" target="_blank">PSG Support Circles Get-Together</a>
+</p>
+</li>
+<li>
+<p>9 Nov: <a href="https://drive.google.com/file/u/0/d/1s084efMvemxLeZsrOtHSsITh6p1IEwtl/view" rel="noopener nofollow" target="_blank">PSGs Celebrate 2024</a>
 </p>
 </li>
 </ul>
@@ -68,7 +76,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </ul>
 </div>
 </details>
-<h2><strong>Information for PSGs</strong></h2>
+<h2><strong>Letters to PSGs</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,7 +109,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Feb_2025.jpg">
 </div>
-<p><strong>7 February 2025 - </strong><a href="https://drive.google.com/file/d/1ifWSz3uouoio_zbZhKi69Bb9PkirwDqZ/view?usp=sharing" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: MOE's stand on bullying</a>
+<p><strong>7 February 2025 - <a href="https://drive.google.com/file/d/1ifWSz3uouoio_zbZhKi69Bb9PkirwDqZ/view?usp=sharing" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: MOE's stand on bullying</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
