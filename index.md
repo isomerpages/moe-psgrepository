@@ -41,7 +41,7 @@ sections:
   - infopic:
       title: Meet Our Zonal Leaders
       id: infopic
-      description: Hani, Yus, Tina, Joey
+      description: "From left to right: Tina, Yus, Hani and Joey"
       button: read more
       alt: Image alt text
       url: /zonal-leaders/
