@@ -67,8 +67,6 @@ to this Web Site, at any time, without ascribing any reasons whatsoever.</p>
 <p>The Contents of this Web Site are provided on an "as is" basis without
 warranties of any kind. To the fullest extent permitted by law, MOE does
 not warrant and hereby disclaims any warranty:</p>
-</li>
-</ol>
 <p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement,
 title, merchantability or fitness for any particular purpose of the Contents
 of this Web Site;</p>
@@ -76,7 +74,7 @@ of this Web Site;</p>
 associated therewith will be uninterrupted or error-free, or that defects
 will be corrected or that this Web Site and the server is and will be free
 of all viruses and/or other harmful elements.</p>
-<ol start="10" data-tight="true" class="tight">
+</li>
 <li>
 <p>MOE shall also not be liable for any damage or loss of any kind caused
 as a result (direct or indirect) of the use of the Web Site, including
