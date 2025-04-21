@@ -8,12 +8,12 @@ description: ""
 and Peer Supporter. Please feel free to plan your efforts according to
 your school's and parents' needs and direct parents to the specific links
 within this page.</p>
-<blockquote>
-<p>More resources can be found on <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>'s <strong>'Parenting Tab'</strong>.</p>
-</blockquote>
 <h3><strong>Parenting Resources from MOE</strong></h3>
 <p><strong>(Internal note: To update with more suitable thumbnails)</strong>
 </p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents Gateway logo" src="/images/PG_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway</div><div class="isomer-card-description">Click on the Parenting tab on Parents Gateway's for parenting resources.</div><div class="isomer-card-link">About the app</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/parentkit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parent Kit" src="/images/Parent_Kit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Parent Kit</div><div class="isomer-card-description">Bite-sized resources for parents</div><div class="isomer-card-link">Access the kits</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/parentingwith.moesg/" class="isomer-card">
 <div class="isomer-card-image">
@@ -44,7 +44,7 @@ strong parent-child relationships, strengthen their children's mental well-being
 and resilience, and parent effectively in the digital age.</div>
 <div class="isomer-card-link">Read more.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/growwellsg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grow Well SG</div><div class="isomer-card-description">Grow Well SG is designed to support families in cultivating healthy habits for children and adolescents. It focuses on 4 areas - Exercise Well, Eat Well, Learn Well, and Sleep Well. </div><div class="isomer-card-link">Read more.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/growwellsg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grow Well SG</div><div class="isomer-card-description">Grow Well SG is designed to support families in cultivating healthy habits for children and adolescents. It focuses on 4 areas - Exercise Well, Eat Well, Learn Well, and Sleep Well.</div><div class="isomer-card-link">Read more.</div></div></a>
 </div>
 <h3><strong>Resources on Supporting Parents and Children</strong></h3>
 <table style="minWidth: 25px">
