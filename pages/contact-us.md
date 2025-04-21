@@ -9,10 +9,5 @@ contacts:
       - email: psg@moe.gov.sg
       - other: ""
     title: Email
-  - content:
-      - phone: ""
-      - email: cantincludeformsg@moe.gov.sg
-      - other: Share with us your PSG's efforts and useful PSG resources here.
-    title: Sharing is Caring
-feedback: www.moe.gov.sg
+feedback: https://form.gov.sg/6662cee56d2eed42c1dec95d
 ---
