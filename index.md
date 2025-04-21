@@ -11,7 +11,7 @@ sections:
       title: Parent Support Group Repository
       subtitle: A warm welcome to the PSG community, where we learn with, learn from
         and learn for one another.
-      background: /images/hero-banner.png
+      background: /images/Logo_Ministry_of_Education_Singapore.png
       variant: side
       backgroundColor: gray
       size: md
