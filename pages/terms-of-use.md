@@ -30,7 +30,7 @@ are owned by, licensed to or controlled by MOE.</p>
 <h3><strong>Privacy Policy</strong></h3>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p>Click here to review this Web Site Privacy Statement.</p>
+<p>Click here to review this Web Site's <a href="/privacy/" rel="noopener nofollow" target="_blank">Privacy Statement</a>.</p>
 </li>
 </ol>
 <h3><strong>Restrictions on Use of Materials</strong></h3>
