@@ -45,6 +45,7 @@ sections:
       button: read more
       alt: Image alt text
       url: /zonal-leaders/
+      image: /images/Zonal_Leaders_Edited.jpg
   - infobar:
       title: Resource Library
       id: infobar
