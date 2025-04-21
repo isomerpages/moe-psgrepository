@@ -10,13 +10,14 @@ Institute are in one Support Circle while the rest of the Support Circles
 are based on <a href="https://www.moe.gov.sg/about-us/organisation-structure/sd/school-clusters" rel="noopener nofollow" target="_blank">school clusters</a>.</p>
 <p>Support Circles offer a great opportunity to learn and share ideas with
 other PSGs. More experienced parents can share their experience and advice
-with younger parents too.</p>
+with younger parents too. Check out what Support Circles have done on
+<a href="/be-inspired/" rel="noopener nofollow" target="_blank">'Be Inspired'</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Support_Circles_Final.png">
 </div>
-<p>Check out your Support Circle’s strengths, wishes, goals and progress
-on Padlet.</p>
+<p>Find out your Support Circle’s strengths, wishes, goals and progress on
+Padlet.</p>
 <p><strong>North &amp; JC/MI Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-north-jcmi</a>
 </p>
 <p><strong>South Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-south</a>
@@ -26,7 +27,7 @@ on Padlet.</p>
 <p><strong>West Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-west</a>
 </p>
 <p></p>
-<p>Check out what support circles can do on <a href="/be-inspired/" rel="noopener nofollow" target="_blank">'Be Inspired'</a>.</p>
+<p></p>
 <hr>
 <h3><strong>Frequently Asked Questions</strong></h3>
 <h4><strong>A) Composition of Support Circles</strong></h4>
@@ -45,12 +46,12 @@ rest of your PSG EXCO updated on Support Circle happenings and share your
 learning from meetings with them.</p>
 <p>In this way, you can identify another PSG rep to take-over from you in
 the subsequent year(s), if required.</p>
-<p></p>
 <p><strong>2.&nbsp;Is there any ‘leader/EXCO’ of a Support Circle?</strong>
 </p>
 <p>There is no official leader, everyone has a part to play to keep the Support
 Circle going. The Support Circle functions primarily as a community of
 PSGs.</p>
+<p></p>
 <h4><strong>B) Working Together as a Support Circle</strong></h4>
 <p><strong>3. How do members of a Support Circle contact one another?</strong>
 </p>
@@ -80,7 +81,4 @@ their plans and exploring potential partnerships with other PSGs. Through
 such discussions, PSGs can seek school's support for such initiatives,
 subject to resource availability. For more details on funding, refer to
 <a href="/preparing-for-the-year-ahead/" rel="noopener nofollow" target="_blank">'Preparing for the Year Ahead'</a>.</p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
