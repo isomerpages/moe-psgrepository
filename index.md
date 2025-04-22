@@ -11,7 +11,7 @@ sections:
       title: Parent Support Group Repository
       subtitle: A warm welcome to the PSG community, where we learn with, learn from
         and learn for one another.
-      background: /images/banner_v2.png
+      background: /images/banner_v3.png
       variant: side
       backgroundColor: gray
       size: md
