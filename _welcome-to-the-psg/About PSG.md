@@ -4,11 +4,11 @@ permalink: /welcome-to-the-psg/
 variant: tiptap
 description: ""
 ---
-<p>Parent Support Groups (PSGs) play an important role in fostering strong
-<a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">school-home partnerships</a>. As parent volunteers who work closely with
-schools, they set the tone for respectful communication between the parent
-community and school, and rally parents to raise a happy, kind and confident
-generation of children together.</p>
+<p>As a member of a Parent Support Group (PSG), you play a vital role in
+<a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">strong partnerships between the school and the parent community</a>. By
+working closely with the school, you help foster respectful communication
+and inspire fellow parents to join you in raising a generation of happy,
+kind and confident children.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Roles_of_PSG_Final2.png">
@@ -36,24 +36,25 @@ generation of children together.</p>
 </tr>
 </tbody>
 </table>
-<p>You are a<strong> peer </strong>and <strong>resource</strong> supporter
-to your parent community. As a member of the PSG, you partner and support
-the school by contributing 3 Ts (Time, Talent, Thought):</p>
+<p>You support your school by contributing your&nbsp;<strong>3 Ts</strong>&nbsp;—&nbsp;<strong>Time, Talent, and Thought. </strong>This
+enables you to support and connect fellow parents with valuable resources.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Time - </strong>Volunteer your time to design and conduct activities <u>aligned with the school's priorities</u>.
-Supportive PSG members can help to make the school a safe place for our
-children to learn in, making school life more vibrant and caring.</p>
+<p><strong>Time -&nbsp;</strong>Volunteer your time to design and conduct
+activities&nbsp;<u>aligned with the school's priorities</u>. Your presence
+and involvement help create a safe, vibrant, and caring environment where
+our children can thrive.</p>
 </li>
 <li>
-<p><strong>Talent - </strong>Contribute your expertise, talents, individual
-interests or personal networks. In this way, parents can significantly
-expand the pool of help available to the school and the PSG.</p>
+<p><strong>Talent -&nbsp;</strong>Contribute your expertise, talents, individual
+interests or personal networks. Every parent has something to offer, and
+your contributions can greatly expand the support available to both the
+school and the PSG.</p>
 </li>
 <li>
-<p><strong>Thought - </strong>Brainstorm and provide constructive feedback
-and ideas to improve the school and PSG.</p>
-<p></p>
+<p><strong>Thought -&nbsp;</strong>Brainstorm and provide constructive feedback
+and ideas to improve the school and PSG. Your insights help shape a better
+experience can strengthen the PSG's efforts.</p>
 </li>
 </ul>
 <h3><strong>What to note as a PSG member?</strong></h3>
