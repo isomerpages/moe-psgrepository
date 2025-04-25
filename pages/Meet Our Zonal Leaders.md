@@ -6,7 +6,6 @@ description: ""
 ---
 <p>As Zonal leaders, Tina, Yus, Hani and Joey, work with, coordinate and
 advise the PSG community.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
