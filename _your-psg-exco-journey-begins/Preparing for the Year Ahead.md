@@ -8,22 +8,23 @@ description: ""
 <p>It is good to draw up an <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Annual Work Plan (Template #2)</a> to
 ensure a good spread of activities throughout the year.</p>
 <p>The PSG EXCO should discuss the work plan with the PSG Partnership teacher
-in-charge and school leaders. An effective PSG work plan is aligned with:</p>
+in-charge and school leaders. An effective PSG work plan should be aligned
+with the:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>the school’s strategic thrusts</p>
+<p>School’s strategic thrusts;</p>
 </li>
 <li>
-<p>school's calendar of events</p>
+<p>School's calendar of events;</p>
 </li>
 <li>
-<p>what parents will be paying attention to at a specific time, such as those
-reflected in the <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">PSG Planning Calendar (Template #3)</a>
-</p>
-<p>resource considerations (e.g. parent volunteers required to help out)</p>
+<p>Interests and concerns of parents throughout the year;</p>
 </li>
 <li>
-<p>time required for preparation, including recruiting and briefing the parent
+<p>Resource considerations (e.g. parent volunteers required to help out);</p>
+</li>
+<li>
+<p>Time required for preparation, including recruiting and briefing the parent
 volunteers.</p>
 </li>
 </ul>
