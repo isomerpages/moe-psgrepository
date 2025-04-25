@@ -15,13 +15,11 @@ advise the PSG community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="About Tina" src="/images/Tina.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="About Yus" src="/images/Yus.png">
 </div>
@@ -72,7 +70,6 @@ Confident, and part of a Kinder Generation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="About Hani" src="/images/Hani.png">
 </div>
