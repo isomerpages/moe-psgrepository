@@ -5,43 +5,41 @@ variant: tiptap
 description: ""
 ---
 <p>PSGs have a big part to play in enriching our children’s school life.
-The activities and programmes should aim to:</p>
+The activities and programmes should aim to suppor:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>support the<strong> child</strong> to enrich his/her learning in school;</p>
+<p>The<strong> children</strong> to enrich their learning in school;</p>
 </li>
 <li>
-<p>support the <strong>school</strong> to strengthen school-based activities
-and initiatives;</p>
+<p>The <strong>school</strong> to strengthen school-based activities and initiatives;</p>
 </li>
 <li>
-<p>support the <strong>teachers </strong>to bring out the best in our children;
-and</p>
+<p>The <strong>teachers </strong>to bring out the best in the children; and</p>
 </li>
 <li>
-<p>support other <strong>parents </strong>in their parenting journey.</p>
+<p>Other <strong>parents </strong>in their parenting journey.</p>
 </li>
 </ul>
 <p></p>
 <h3><strong>Things to Note Before the Activity</strong></h3>
-<p>Develop an <a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">action plan</a> for
+<p>Develop an <a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">action plan (</a><strong><a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">Template #x)</a></strong> for
 your activity. Remember to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>consult your school partnership staff and school leaders to ensure alignment
-and maximise the impact of your efforts; and</p>
+<p>Consult your school leaders and PSG partnership teacher-in-charge to ensure
+alignment and maximise the impact of your efforts; and</p>
 </li>
 <li>
-<p>consider the modality of the event (physical, virtual, or hybrid) to best
+<p>Consider the modality of the event (physical, virtual, or hybrid) to best
 suit the needs of the activity and the participants.</p>
 </li>
 <li>
-<p>consider assigning at least 2 volunteers to organise each activity to
+<p>Consider assigning at least 2 volunteers to organise each activity to
 share the workload; and</p>
 </li>
 <li>
-<p>ensuring there is a teacher-in-charge and a key parent coordinator for
-smooth communication between the school and the PSG.</p>
+<p>Ensure there is a teacher-in-charge and a key parent coordinator for smooth
+communication between the school and the PSG.</p>
 </li>
 </ul>
 <p></p>
