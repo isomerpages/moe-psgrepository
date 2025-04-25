@@ -18,13 +18,13 @@ with younger parents too. Check out what Support Circles have done on
 </div>
 <p>Find out your Support Circle’s strengths, wishes, goals and progress on
 Padlet.</p>
-<p><strong>North &amp; JC/MI Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-north-jcmi</a>
+<p><strong><a href="https://go.gov.sg/psgsc-north-jcmi" rel="noopener nofollow" target="_blank">North &amp; JC/MI Zone</a></strong>
 </p>
-<p><strong>South Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-south</a>
+<p><strong><a href="https://go.gov.sg/psgsc-south" rel="noopener nofollow" target="_blank">South Zone</a></strong>
 </p>
-<p><strong>East Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-east</a>
+<p><strong><a href="https://go.gov.sg/psgsc-east" rel="noopener nofollow" target="_blank">East Zone</a></strong>
 </p>
-<p><strong>West Zone:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psgsc-west</a>
+<p><strong><a href="https://go.gov.sg/psgsc-west" rel="noopener nofollow" target="_blank">West Zone</a></strong>
 </p>
 <p></p>
 <p></p>
