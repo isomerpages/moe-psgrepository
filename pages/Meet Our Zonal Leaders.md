@@ -4,7 +4,8 @@ permalink: /zonal-leaders/
 variant: tiptap
 description: ""
 ---
-<h3></h3>
+<p>As Zonal leaders, Tina, Yus, Hani and Joey, work with, coordinate and
+advise the PSG community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zonal Leaders/11.png">
 </div>
