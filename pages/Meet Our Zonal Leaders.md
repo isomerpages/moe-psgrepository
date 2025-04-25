@@ -76,7 +76,7 @@ Confident, and part of a Kinder Generation.</p>
 </details>
 </div>
 <p>If you would like to share ideas or feedback with the Zonal Leaders, drop
-them a <a href="fourzonalpsgchatgroups@gmail.com" rel="noopener nofollow" target="_blank">message</a>.
+them a message at <a href="mailto:fourzonalpsgchatgroups@gmail.com" rel="noopener noreferrer nofollow" target="_blank">fourzonalpsgchatgroups@gmail.com</a>.
 For enquiries regarding the Zonal or Support Circles Whatsapp chat, you
-may send in a <a href="bit.ly/PSGcontactinfo" rel="noopener nofollow" target="_blank">request</a>.</p>
+may send in a request at <a href="https://bit.ly/PSGcontactinfo" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/PSGcontactinfo</a>.</p>
 <p></p>
