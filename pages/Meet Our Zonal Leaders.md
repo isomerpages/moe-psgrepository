@@ -74,7 +74,7 @@ Confident, and part of a Kinder Generation.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&lt;pending quote and story&gt;</p>
 </td>
 </tr>
 <tr>
