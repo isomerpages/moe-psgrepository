@@ -27,7 +27,7 @@ advise the PSG community.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <details class="isomer-details">
-<summary>More about <strong>Mrs <u>Tina</u> Tan</strong>
+<summary>More about: <strong>Mrs <u>Tina</u> Tan</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>I had the opportunity to serve as Chairperson of my boys' Primary school
@@ -48,7 +48,7 @@ best of their abilities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <details class="isomer-details">
-<summary>More about <strong>Ms <u>Yus</u>nizan Bte Mohd Taib</strong>
+<summary>More about:<strong>Ms <u>Yus</u>nizan Bte Mohd Taib</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Initially, I joined PSG to support my first child’s education journey
@@ -80,7 +80,7 @@ Confident, and part of a Kinder Generation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <details class="isomer-details">
-<summary>More about <strong>Mdm Titiek Ro<u>hani</u></strong>
+<summary>More about: <strong>Mdm Titiek Ro<u>hani</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>I believe parenting is a journey where we learn from each other, and ideally
@@ -97,7 +97,7 @@ PSG community that can effectively partner our schools.</p>
 </td>
 <td rowspan="1" colspan="1">
 <details class="isomer-details">
-<summary>More about <strong>Ms <u>Joey</u> Ching</strong>
+<summary>More about: <strong>Ms <u>Joey</u> Ching</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
