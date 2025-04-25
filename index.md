@@ -44,8 +44,9 @@ sections:
   - infopic:
       title: Meet Our Zonal Leaders
       id: infopic
-      description: "From left to right: Tina, Yus, Hani and Joey"
-      button: read more
+      description: As Zonal leaders, Tina, Yus, Hani and Joey, work with, coordinate
+        and advise the PSG community.
+      button: Find out more
       alt: Image alt text
       url: /zonal-leaders/
       image: /images/Zonal_Leaders_Edited.jpg
