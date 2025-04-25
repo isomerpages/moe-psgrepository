@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About PSG.md
-      - Why join PSG?.md
       - Your Support Circle.md
