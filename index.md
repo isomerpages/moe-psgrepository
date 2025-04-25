@@ -52,8 +52,8 @@ sections:
   - infobar:
       title: Resource Library
       id: infobar
-      description: Parenting resources for your reading pleasure. Feel free to share
-        these resources with your parent community.
+      description: Explore a collection of parenting resources curated for your
+        reading pleasure. Feel free to share them with your parent community!
       button: Sharing is caring
       url: /resources/
 ---
