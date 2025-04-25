@@ -20,18 +20,17 @@ The activities and programmes should aim to suppor:</p>
 <p>Other <strong>parents </strong>in their parenting journey.</p>
 </li>
 </ul>
-<p></p>
 <h3><strong>Things to Note Before the Activity</strong></h3>
 <p>Develop an <a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">action plan (</a><strong><a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">Template #x)</a></strong> for
 your activity. Remember to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Consult your school leaders and PSG partnership teacher-in-charge to ensure
-alignment and maximise the impact of your efforts; and</p>
+alignment and maximise the impact of your efforts;</p>
 </li>
 <li>
 <p>Consider the modality of the event (physical, virtual, or hybrid) to best
-suit the needs of the activity and the participants.</p>
+suit the needs of the activity and the participants;</p>
 </li>
 <li>
 <p>Consider assigning at least 2 volunteers to organise each activity to
@@ -52,35 +51,35 @@ have conducted:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><u>Major School Events</u> (e.g. festival celebrations, career talks, sports
-day)</p>
+day);</p>
 </li>
 <li>
 <p><u>Parent-Child Bonding</u> (e.g. community outreach activities, Dads for
-Life Camps, cook-outs)</p>
+Life Camps, cook-outs); and</p>
 </li>
 <li>
 <p><u>PSG Bonding Activities</u> (e.g. parenting talks, inter-school PSG networking
-session, learning journeys for parents)</p>
+session, learning journeys for parents).</p>
 </li>
 </ul>
 <h3><strong>Virtual Activities</strong></h3>
 <p>Here are some considerations for organising virtual events:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Choose the right platform: Ensure it is user-friendly and suits your event's
-needs</p>
+<p><u>Choose the right platform:</u> Ensure it is user-friendly and suits
+your event's needs;</p>
 </li>
 <li>
-<p>Test your tech: Run a rehearsal to iron out potential glitches</p>
+<p><u>Test your tech:</u> Run a rehearsal to iron out potential glitches;</p>
 </li>
 <li>
-<p>Engage your audience: Incorporate interactive elements to maintain interest,
-such as asking parents to participate by asking/replying to questions or
-polls in the chat feature.</p>
+<p><u>Engage your audience:</u> Incorporate interactive elements to maintain
+interest, such as asking parents to participate by asking/replying to questions
+or polls in the chat feature; and</p>
 </li>
 <li>
-<p>Plan for accessibility: Consider participants with different tech skills
-or needs</p>
+<p><u>Plan for accessibility:</u> Consider participants with different tech
+skills or needs.</p>
 </li>
 </ul>
 <h3><strong>Post-Activities Review</strong></h3>
