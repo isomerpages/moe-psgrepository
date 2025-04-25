@@ -6,7 +6,6 @@ description: ""
 ---
 <p>As Zonal leaders, Tina, Yus, Hani and Joey, work with, coordinate and
 advise the PSG community.</p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -99,9 +98,16 @@ PSG community that can effectively partner our schools.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
+<p>If you would like to share ideas or feedback with the Zonal Leaders, drop
+them a message at <a href="mailto:fourzonalpsgchatgroups@gmail.com" rel="noopener noreferrer nofollow" target="_blank">fourzonalpsgchatgroups@gmail.com</a>.
+For enquiries regarding the Zonal or Support Circles Whatsapp chat, you
+may send in a request at <a href="https://bit.ly/PSGcontactinfo" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/PSGcontactinfo</a>.</p>
+<hr>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 x 2 matri</p>
+</li>
+</ul>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -204,10 +210,7 @@ PSG community that can effectively partner our schools.</p>
 </tr>
 </tbody>
 </table>
-<p>If you would like to share ideas or feedback with the Zonal Leaders, drop
-them a message at <a href="mailto:fourzonalpsgchatgroups@gmail.com" rel="noopener noreferrer nofollow" target="_blank">fourzonalpsgchatgroups@gmail.com</a>.
-For enquiries regarding the Zonal or Support Circles Whatsapp chat, you
-may send in a request at <a href="https://bit.ly/PSGcontactinfo" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/PSGcontactinfo</a>.</p>
+<p></p>
 <hr>
 <p>-EARLIER PAGE-</p>
 <p></p>
