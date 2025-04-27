@@ -41,9 +41,8 @@ share the workload; and</p>
 communication between the school and the PSG.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Planning_for_Activities_Final.png">
+<img style="width: 100%" height="auto" width="100%" alt="Areas to consider before the activity" src="/images/Before_activity.png">
 </div>
 <h3><strong>Physical Activities</strong></h3>
 <p>Here are some examples of physical events and/or activities which PSGs
@@ -87,6 +86,6 @@ skills or needs.</p>
 involved. The feedback we gather from such reviews will be very helpful
 for the PSG and the school when we plan our next activity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Review_Post_event_Final.png">
+<img style="width: 100%" height="auto" width="100%" alt="Areas to consider after the activity" src="/images/After_activity.png">
 </div>
 <p></p>
