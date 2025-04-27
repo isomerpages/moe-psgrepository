@@ -99,6 +99,10 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </div>
 <p>19 February 2025: <a href="https://drive.google.com/file/d/1Zs1BCU4fdLnx_8cDJbdhNMoYNkijPTNJ/view?usp=sharing" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: From Foundations to Frontiers: Our Education Journey</a>
 </p>
+<p>Read Minister Chan's <a href="go.gov.sg/oureducationjourney" rel="noopener nofollow" target="_blank">Full Speech</a>
+</p>
+<p>Watch Minister Chan's <a href="go.gov.sg/video-oureducationjourney" rel="noopener nofollow" target="_blank">Full Speech</a>
+</p>
 <p></p>
 </th>
 </tr>
@@ -110,11 +114,12 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </div>
 <p><strong>7 February 2025: <a href="https://drive.google.com/file/d/1oXaLCi6Y8YULp5V6AFHfr6P14baH4UqD/view" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: MOE's stand on bullying</a></strong>
 </p>
-<p><u>View snippets of Minister Chan's reply: </u><a href="go.gov.sg/fbsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Facebook</a><u> / </u><a href="go.gov.sg/igsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Instagram</a>
+<p><strong>View snippets of Minister Chan's reply: </strong><a href="go.gov.sg/fbsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Facebook</a><u> / </u>
+<a href="go.gov.sg/igsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Instagram</a>
 </p>
-<p><u>Read Minister Chan's </u><a href="go.gov.sg/fullparlreply4feb" rel="noopener nofollow" target="_blank">Full Reply</a>
+<p><strong>Read Minister Chan's</strong><u> </u><a href="go.gov.sg/fullparlreply4feb" rel="noopener nofollow" target="_blank">Full Reply</a>
 </p>
-<p><u>Catch the Mothership </u><a href="go.gov.sg/video-podcast-bullying" rel="noopener nofollow" target="_blank">Video Podcast</a>
+<p><strong>Catch the Mothership</strong><u> </u><a href="go.gov.sg/video-podcast-bullying" rel="noopener nofollow" target="_blank">Video Podcast</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
