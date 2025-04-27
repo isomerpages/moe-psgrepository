@@ -21,7 +21,7 @@ which are useful in defining how the PSG works and its purpose.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="typical roles in psg exco" src="/images/PSG EXCO/PSG_EXCO.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSG EXCO roles" src="/images/PSG EXCO/PSG_EXCO_roles.png">
 </div>
 <p></p>
 <p></p>
