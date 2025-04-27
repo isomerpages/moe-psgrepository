@@ -24,10 +24,11 @@ page, and get ideas for bonding activities below.</p>
 <h3><strong>Managing Differences</strong></h3>
 <p>PSGs have to work closely with the school and other parents. At times,
 PSGs may have to manage difficult situations.</p>
-<p>It is important to bear in mind and remind each other that regardless
-of our differences, we all need to work in the best interests of children
-in the school and role model what we wish to see in our parent community
-and children.</p>
+<p>It is important to remember - and to remind one another - that despite
+our differences, we are united in working for the best interests of the
+children. By modelling the values and behaviours we hope to see in our
+parent community and children, we create a stronger, more supportive school
+environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ways to manage differences" src="/images/Building Relationship/9.png">
 </div>
