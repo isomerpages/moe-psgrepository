@@ -53,7 +53,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /zonal-leaders/
-      image: /images/Zonal_Leaders_Edited.jpg
+      image: /images/Zonal_Leaders_Edited2.jpg
   - infobar:
       title: Resource Library
       id: infobar
