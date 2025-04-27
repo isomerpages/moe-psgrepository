@@ -103,8 +103,8 @@ and resilience, and parent effectively in the digital age.</div>
 </p>
 </li>
 <li>
-<p>[to be updated as link to Google Drive word doc] <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Managing Finances Checklist (Template #4) -</a>
-<a href="/files/Template_x__Managing_PSG_Finances_Checklist.pdf" rel="noopener nofollow" target="_blank">PDF finances checklist</a>
+<p>[live doc on MS Teams; to be updated as link to Google Drive word doc]
+<a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared Documents/PSG site/Templates and Checklists/To upload/Template x- Managing PSG Finances Checklist.docx?d=w58f4a37526c0476588875548b59818ed&amp;csf=1&amp;web=1&amp;e=6n3waW" rel="noopener nofollow" target="_blank">Managing Finances Checklist (Template #4)</a>
 </p>
 </li>
 <li>
@@ -112,8 +112,8 @@ and resilience, and parent effectively in the digital age.</div>
 </p>
 </li>
 <li>
-<p>[to be updated as link to Google Drive word doc] <a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">Action Plan Template #6 - </a>
-<a href="/files/Template_x__Action_Plan.pdf" rel="noopener nofollow" target="_blank">PDF action plan</a>
+<p>[live doc on MS Teams; to be updated as link to Google Drive word doc]
+<a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">Action Plan Template #6</a>
 </p>
 </li>
 </ul>
