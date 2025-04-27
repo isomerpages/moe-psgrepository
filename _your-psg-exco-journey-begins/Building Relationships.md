@@ -10,7 +10,7 @@ communication with the school enables strong school-home partnership, by
 strengthening the PSG’s ability to contribute meaningfully and maximising
 PSG's impact on parents and children.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ideas to Connect with School" src="/images/Building Relationship/8.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ideas to connect with your school" src="/images/Building Relationship/Connecting_with_School.png">
 </div>
 <h3><strong>Cultivating Relationships within PSG</strong></h3>
 <p>The PSG, like any volunteer group, is built on relationships. Parents
