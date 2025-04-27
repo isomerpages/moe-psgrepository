@@ -12,13 +12,13 @@ within this page.</p>
 <p><strong>(Internal note: To update with more suitable thumbnails)</strong>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents Gateway logo" src="/images/PG_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway</div><div class="isomer-card-description">Click on the Parenting tab on Parents Gateway's for parenting resources.</div><div class="isomer-card-link">About the app</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents Gateway logo" src="/images/Resource icons/1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway</div><div class="isomer-card-description">Click on the Parenting tab on Parents Gateway's for parenting resources.</div><div class="isomer-card-link">About the app</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/parentkit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parent Kit" src="/images/Parent_Kit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Parent Kit</div><div class="isomer-card-description">Bite-sized resources for parents</div><div class="isomer-card-link">Access the kits</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/parentkit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parent Kit" src="/images/Resource icons/2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Parent Kit</div><div class="isomer-card-description">Bite-sized resources for parents</div><div class="isomer-card-link">Access the kits</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/parentingwith.moesg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parentingwith.MOEsg Instagram Page" src="/images/Parenting_IG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Parentingwith.MOEsg Instagram Page" src="/images/Resource icons/3.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -27,14 +27,14 @@ within this page.</p>
 journey</div>
 <div class="isomer-card-link">Follow us</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.schoolbag.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOE Schoolbag" src="/images/Schoolbag.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Schoolbag</div><div class="isomer-card-description">Find out what's happening in schools</div><div class="isomer-card-link">Explore the page</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.schoolbag.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOE Schoolbag" src="/images/Resource icons/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Schoolbag</div><div class="isomer-card-description">Find out what's happening in schools</div><div class="isomer-card-link">Explore the page</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read more.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resource icons/7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read more.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resource icons/5.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -44,7 +44,7 @@ strong parent-child relationships, strengthen their children's mental well-being
 and resilience, and parent effectively in the digital age.</div>
 <div class="isomer-card-link">Read more.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/growwellsg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grow Well SG</div><div class="isomer-card-description">Grow Well SG is designed to support families in cultivating healthy habits for children and adolescents. It focuses on 4 areas - Exercise Well, Eat Well, Learn Well, and Sleep Well.</div><div class="isomer-card-link">Read more.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/growwellsg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resource icons/6.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grow Well SG</div><div class="isomer-card-description">Grow Well SG is designed to support families in cultivating healthy habits for children and adolescents. It focuses on 4 areas - Exercise Well, Eat Well, Learn Well, and Sleep Well.</div><div class="isomer-card-link">Read more.</div></div></a>
 </div>
 <h3><strong>Resources on Supporting Parents and Children</strong></h3>
 <table style="minWidth: 25px">
