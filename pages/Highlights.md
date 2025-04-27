@@ -91,6 +91,8 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </div>
 <p>19 March 2025: <a href="https://drive.google.com/file/d/1ifWSz3uouoio_zbZhKi69Bb9PkirwDqZ/view" rel="noopener nofollow" target="_blank">PSG Newsletter: Providing Our Children a Good Start to Grow Well</a>
 </p>
+<p>Access the resources <a href="https://drive.google.com/file/d/17S_msdp39gVS5mQCp5FIGvhZwiPB_v2y/view?usp=drivesdk" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -114,12 +116,11 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </div>
 <p><strong>7 February 2025: <a href="https://drive.google.com/file/d/1oXaLCi6Y8YULp5V6AFHfr6P14baH4UqD/view" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: MOE's stand on bullying</a></strong>
 </p>
-<p><strong>View snippets of Minister Chan's reply: </strong><a href="go.gov.sg/fbsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Facebook</a><u> / </u>
-<a href="go.gov.sg/igsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Instagram</a>
+<p><strong>View snippets of Minister Chan's reply: <a href="go.gov.sg/fbsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Facebook</a><u> / </u><a href="go.gov.sg/igsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Instagram</a></strong>
 </p>
-<p><strong>Read Minister Chan's</strong><u> </u><a href="go.gov.sg/fullparlreply4feb" rel="noopener nofollow" target="_blank">Full Reply</a>
+<p><strong>Read Minister Chan's <a href="go.gov.sg/fullparlreply4feb" rel="noopener nofollow" target="_blank">Full Reply</a></strong>
 </p>
-<p><strong>Catch the Mothership</strong><u> </u><a href="go.gov.sg/video-podcast-bullying" rel="noopener nofollow" target="_blank">Video Podcast</a>
+<p><strong>Catch the Mothership <a href="go.gov.sg/video-podcast-bullying" rel="noopener nofollow" target="_blank">Video Podcast</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +140,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>2024: <a href="https://drive.google.com/file/d/1dWa_RektMscMc6SzaAotEAm1GWamzGu8/view?usp=drive_link" rel="noopener nofollow" target="_blank">Raising a Happy, Confident and Kind Generation</a>
+<p>2024: <a href="https://drive.google.com/file/d/1EMnUgHjpJ_JV7eH1nH3PXmOMjhAFgtTN/view?usp=drivesdk" rel="noopener nofollow" target="_blank">Raising a Happy, Confident and Kind Generation</a>
 </p>
 </li>
 </ul>
