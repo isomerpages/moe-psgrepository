@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>PSGs have a big part to play in enriching our children’s school life.
-The activities and programmes should aim to suppor:</p>
+The activities and programmes should aim to support:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The<strong> children</strong> to enrich their learning in school;</p>
