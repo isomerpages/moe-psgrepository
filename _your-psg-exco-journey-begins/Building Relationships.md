@@ -19,7 +19,7 @@ community.</p>
 <p>Check out good practices in managing team chats in the '<a href="/preparing-for-the-year-ahead/" rel="noopener nofollow" target="_blank">Preparing for the Year Ahead</a>'
 page, and get ideas for bonding activities below.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ideas to Connect with PSG Members" src="/images/Building Relationship/10.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ideas to connect with your PSG members" src="/images/Building Relationship/Ideas_to_Connect_Within_PSG.png">
 </div>
 <h3><strong>Managing Differences</strong></h3>
 <p>PSGs have to work closely with the school and other parents. At times,
