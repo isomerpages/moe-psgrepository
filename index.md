@@ -12,7 +12,7 @@ sections:
       subtitle: Welcome to our Parent Support Group (PSG) community! We grow stronger
         as we learn with and from one another, to support our children's
         educational journey.
-      background: /images/banner_v3.png
+      background: /images/Banner_for_PSG_Site.png
       variant: side
       backgroundColor: gray
       size: md
