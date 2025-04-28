@@ -91,8 +91,12 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </div>
 <p>19 March 2025: <a href="https://drive.google.com/file/d/1ifWSz3uouoio_zbZhKi69Bb9PkirwDqZ/view" rel="noopener nofollow" target="_blank">PSG Newsletter: Providing Our Children a Good Start to Grow Well</a>
 </p>
-<p>Access the resources <a href="https://drive.google.com/file/d/17S_msdp39gVS5mQCp5FIGvhZwiPB_v2y/view?usp=drivesdk" rel="noopener nofollow" target="_blank">here</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Access the resources <a href="https://drive.google.com/file/d/17S_msdp39gVS5mQCp5FIGvhZwiPB_v2y/view?usp=drivesdk" rel="noopener nofollow" target="_blank">here</a></strong>
 </p>
+</li>
+</ul>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -101,11 +105,16 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </div>
 <p>19 February 2025: <a href="https://drive.google.com/file/d/1Zs1BCU4fdLnx_8cDJbdhNMoYNkijPTNJ/view?usp=sharing" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: From Foundations to Frontiers: Our Education Journey</a>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Read Minister Chan's <a href="https://go.gov.sg/oureducationjourney" rel="noopener nofollow" target="_blank">Full Speech</a>
 </p>
+</li>
+<li>
 <p>Watch Minister Chan's <a href="https://go.gov.sg/video-oureducationjourney" rel="noopener nofollow" target="_blank">Full Speech</a>
 </p>
-<p></p>
+</li>
+</ul>
 </th>
 </tr>
 <tr>
@@ -116,12 +125,20 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </div>
 <p><strong>7 February 2025: <a href="https://drive.google.com/file/d/1oXaLCi6Y8YULp5V6AFHfr6P14baH4UqD/view" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: MOE's stand on bullying</a></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>View snippets of Minister Chan's reply: <a href="https://go.gov.sg/fbsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Facebook</a><u> / </u><a href="https://go.gov.sg/igsnippetparlreply4feb" rel="noopener nofollow" target="_blank">Instagram</a></strong>
 </p>
+</li>
+<li>
 <p><strong>Read Minister Chan's <a href="https://go.gov.sg/fullparlreply4feb" rel="noopener nofollow" target="_blank">Full Reply</a></strong>
 </p>
+</li>
+<li>
 <p><strong>Catch the Mothership <a href="https://go.gov.sg/video-podcast-bullying" rel="noopener nofollow" target="_blank">Video Podcast</a></strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
