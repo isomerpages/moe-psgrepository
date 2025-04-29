@@ -25,8 +25,8 @@ They tend to:</p>
 </li>
 </ul>
 <p></p>
-<p>Find out how parents connected better with their children and even found
-like-minded friends through their involvement in PSG!</p>
+<p>There are many other reasons why parents join PSGs beyond connecting better
+with their children. Hear from our PSG parents!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.schoolbag.edu.sg/story/how-fathers-groups-are-making-a-difference-in-our-schools/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">How Fathers’ Groups are making a difference in our schools</a>
@@ -34,6 +34,10 @@ like-minded friends through their involvement in PSG!</p>
 </li>
 <li>
 <p><a href="https://www.schoolbag.edu.sg/story/from-parent-support-group-members-to-pals-for-life/" rel="noopener noreferrer nofollow" target="_blank">From Parent Support Group members to pals for life</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.schoolbag.edu.sg/story/their-kids-have-long-left-school-so-why-are-they-still-volunteering/" rel="noopener noreferrer nofollow" target="_blank">Their kids have long left school so why are they still volunteering?</a>
 </p>
 </li>
 </ul>
