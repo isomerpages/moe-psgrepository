@@ -37,13 +37,13 @@ suit the needs of the activity and the participants;</p>
 share the workload; and</p>
 </li>
 <li>
-<p>Ensure there is a teacher-in-charge and a key parent coordinator for smooth
+<p>Ensure there is a teacher in-charge and a key parent coordinator for smooth
 communication between the school and the PSG.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Areas to consider before the activity" src="/images/Considerations_before_the_activity.png">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Areas to consider before the activity" src="/images/Before_activity.png">
-</div>
 <h4><strong>Physical Activities</strong></h4>
 <p>Here are some examples of physical events and/or activities which PSGs
 have conducted:</p>
