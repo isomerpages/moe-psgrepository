@@ -2,8 +2,8 @@ title: MOE Parent Support Group Repository
 url: https://google.com
 favicon: /images/Ministry_of_Education_Singapore__50_x_45_cm_.png
 colors:
-  primary-color: "#1985a1"
-  secondary-color: "#4c5c68"
+  primary-color: "#3d87b3"
+  secondary-color: "#5b9ab1"
   media-colors:
     - title: media-color-one
       color: "#46494c"
@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#dcdcdd"
     - title: media-color-four
-      color: "#00838f"
+      color: "#9ca6c5"
     - title: media-color-five
-      color: "#00838f"
+      color: "#d4b1d8"
 description: A PSG Repository for the PSG community, where we learn with, learn
   from and learn for one another.
 permalink: none
