@@ -9,9 +9,6 @@ and Peer Supporter. Please feel free to plan your efforts according to
 your school's and parents' needs and direct parents to the specific links
 within this page.</p>
 <h3><strong>Parenting Resources from MOE</strong></h3>
-<p><strong>(Internal note: To update with more suitable thumbnails)</strong>
-</p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents Gateway logo" src="/images/Resource icons/1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway</div><div class="isomer-card-description">Click on the Parenting tab on Parents Gateway's for parenting resources.</div><div class="isomer-card-link">About the app</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/parentkit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parent Kit" src="/images/Resource icons/2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Parent Kit</div><div class="isomer-card-description">Bite-sized resources for parents</div><div class="isomer-card-link">Access the kits</div></div></a>
@@ -30,7 +27,7 @@ journey</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.schoolbag.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOE Schoolbag" src="/images/Resource icons/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MOE Schoolbag</div><div class="isomer-card-description">Find out what's happening in schools</div><div class="isomer-card-link">Explore the page</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resource icons/7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read more.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resource icons/7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">The refreshed guidelines focus on respectful communication between parents and teachers, being good role models, and supporting children to develop strong relationships and healthy digital habits.</div><div class="isomer-card-link">Read more.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
