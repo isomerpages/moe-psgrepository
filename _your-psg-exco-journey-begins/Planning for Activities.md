@@ -25,7 +25,7 @@ The activities and programmes should aim to support:</p>
 your activity. Remember to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Consult your school leaders and PSG partnership teacher-in-charge to ensure
+<p>Consult your school leaders and partnership teacher-in-charge to ensure
 alignment and maximise the impact of your efforts;</p>
 </li>
 <li>
