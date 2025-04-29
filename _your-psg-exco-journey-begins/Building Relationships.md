@@ -33,13 +33,4 @@ environment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Ways to manage differences" src="/images/Building Relationship/9.png">
 </div>
 <p></p>
-<blockquote>
-<p>Ultimately, we set aside our personal indifferences, we overcome the challenges
-and run the show for the benefits of our students, teachers and parents.</p>
-<p><em>- Mdm Titiek Rohani, Zonal Leader (East)</em>
-</p>
-</blockquote>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
