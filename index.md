@@ -46,7 +46,7 @@ sections:
   - infopic:
       title: Meet Our Zonal Leaders
       id: infopic
-      description: As Zonal leaders, Joey, Rohani, Tina and Yusnizan, work with,
+      description: As Zonal Leaders, Joey, Rohani, Tina and Yusnizan, work with,
         coordinate and advise the PSG community.
       button: Find out more
       alt: Image alt text
