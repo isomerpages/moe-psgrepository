@@ -9,7 +9,6 @@ description: ""
 an experienced team graduates from the PSG.</p>
 <p>Brewing a strong PSG leadership is like making the perfect cup of tea.
 Just follow the <strong>SIP</strong> method!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="succession planning" src="/images/PSG EXCO/Succession_Planning__SIP_.png">
 </div>
@@ -39,7 +38,7 @@ may be different from their own.</p>
 Customise this <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Handover Checklist (Template #5)</a> for
 your PSG!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Handover can be an opportunity for bonding" src="/images/Handover_and_bonding.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Handover can be an opportunity for bonding" src="/images/Handover_and_bonding.png">
 </div>
 <p></p>
 <p></p>
