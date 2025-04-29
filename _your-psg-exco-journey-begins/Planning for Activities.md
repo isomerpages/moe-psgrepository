@@ -44,7 +44,7 @@ communication between the school and the PSG.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Areas to consider before the activity" src="/images/Before_activity.png">
 </div>
-<h3><strong>Physical Activities</strong></h3>
+<h4><strong>Physical Activities</strong></h4>
 <p>Here are some examples of physical events and/or activities which PSGs
 have conducted:</p>
 <ul data-tight="true" class="tight">
@@ -61,7 +61,7 @@ Life Camps, cook-outs); and</p>
 session, learning journeys for parents).</p>
 </li>
 </ul>
-<h3><strong>Virtual Activities</strong></h3>
+<h4><strong>Virtual Activities</strong></h4>
 <p>Here are some considerations for organising virtual events:</p>
 <ul data-tight="true" class="tight">
 <li>
