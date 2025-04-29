@@ -21,7 +21,7 @@ The activities and programmes should aim to support:</p>
 </li>
 </ul>
 <h3><strong>Things to Note Before the Activity</strong></h3>
-<p>Develop an <a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">action plan (</a><strong><a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">Template #x)</a></strong> for
+<p>Develop an <a href="https://docs.google.com/document/d/1cSjt7s17wOCoiqjzfhI_826t-WrKs1k7/edit?usp=sharing&amp;ouid=106023042640212375039&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Action Plan (Template #4)</a> for
 your activity. Remember to:</p>
 <ul data-tight="true" class="tight">
 <li>
