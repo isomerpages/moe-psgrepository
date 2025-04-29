@@ -99,22 +99,17 @@ and resilience, and parent effectively in the digital age.</div>
 </p>
 </li>
 <li>
-<p>[to be updated] <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">PSG Planning Calendar (Template #3)</a>
+<p><a href="https://docs.google.com/document/d/1qfSoy3VkDlx4IsRIcIXsU99Is7Jn2E6c/edit?usp=sharing&amp;ouid=106023042640212375039&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Managing Finances Checklist (Template #3)</a>
 </p>
 </li>
 <li>
-<p>[live doc on MS Teams; to be updated as link to Google Drive word doc]
-<a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared Documents/PSG site/Templates and Checklists/To upload/Template x- Managing PSG Finances Checklist.docx?d=w58f4a37526c0476588875548b59818ed&amp;csf=1&amp;web=1&amp;e=6n3waW" rel="noopener nofollow" target="_blank">Managing Finances Checklist (Template #4)</a>
+<p><a href="https://docs.google.com/document/d/1cSjt7s17wOCoiqjzfhI_826t-WrKs1k7/edit?usp=sharing&amp;ouid=106023042640212375039&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Action Plan (Template #4)</a>
 </p>
 </li>
 <li>
 <p><a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Handover Checklist (Template #5)</a>
 </p>
-</li>
-<li>
-<p>[live doc on MS Teams; to be updated as link to Google Drive word doc]
-<a href="https://gccprod.sharepoint.com/:w:/r/sites/MOE-PSG-MST/Shared%20Documents/PSG%20site/Templates%20and%20Checklists/To%20upload/Template%20x-%20Action%20Plan.docx?d=wd86de077e81d4cc69cf630e6ac65a82f&amp;csf=1&amp;web=1&amp;e=zmGKte" rel="noopener nofollow" target="_blank">Action Plan Template #6</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
