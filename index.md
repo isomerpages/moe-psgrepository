@@ -24,6 +24,10 @@ sections:
       title: Getting Started!
       id: textcards
       cards:
+        - title: Why Join PSG?
+          description: ""
+          linktext: '"Tell Me Why"'
+          url: /why-join-psg/
         - title: Welcome to the PSG
           description: ""
           linktext: The Essentials
@@ -36,10 +40,6 @@ sections:
           description: ""
           linktext: Positive Stories from PSGs
           url: /be-inspired/
-        - title: Why Join PSG?
-          description: ""
-          linktext: '"Tell Me Why"'
-          url: /why-join-psg/
       description: Find valuable resources to support your PSG journey and help foster
         stronger relationships between parents and our schools. We are excited
         to partner with you on this meaningful journey!
