@@ -10,7 +10,7 @@ notification: Welcome to our Parent Support Group (PSG) repository! We grow
   educational journey.
 sections:
   - hero:
-      background: /images/Slide3.png
+      background: /images/hero_banner_PSG.png
       variant: image
       backgroundColor: gray
       size: md
