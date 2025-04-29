@@ -157,7 +157,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>2024: <a href="https://drive.google.com/file/d/1EMnUgHjpJ_JV7eH1nH3PXmOMjhAFgtTN/view?usp=drivesdk" rel="noopener nofollow" target="_blank">Raising a Happy, Confident and Kind Generation</a>
+<p><strong>24 October 2024: <a href="https://drive.google.com/file/d/1EMnUgHjpJ_JV7eH1nH3PXmOMjhAFgtTN/view?usp=drivesdk" rel="noopener nofollow" target="_blank">Raising a Happy, Confident and Kind Generation</a></strong>
 </p>
 </li>
 </ul>
