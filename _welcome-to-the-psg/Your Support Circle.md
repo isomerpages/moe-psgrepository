@@ -78,14 +78,13 @@ others can chime in with support, encouragement, or even join in.&nbsp;</p>
 <p>Beyond the chat group, we also encourage Support Circle members to meet
 in person at least once or twice a year. After all, there’s no better way
 to strengthen bonds than over <em>kopi</em>, a meal, or activities!</p>
-<p></p>
 <p><strong>5. How do we get funded for Support Circles' activities?</strong>
 </p>
 <p>Since 2017, the PSG Fund has been provided for under the School Operating
 Fund (SOF) Block Grant. PSGs are encouraged to discuss their plans for
-their PSGs and/or Support Circle with the School Partnership Staff, sharing
-their plans and exploring potential partnerships with other PSGs. Through
-such discussions, PSGs can seek school's support for such initiatives,
+their PSGs and/or Support Circle with the partnership teacher in-charge,
+sharing their plans and exploring potential partnerships with other PSGs.
+Through such discussions, PSGs can seek school's support for such initiatives,
 subject to resource availability. For more details on funding, refer to
 <a href="/preparing-for-the-year-ahead/" rel="noopener nofollow" target="_blank">'Preparing for the Year Ahead'</a>.</p>
 <p></p>
