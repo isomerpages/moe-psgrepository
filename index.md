@@ -5,14 +5,13 @@ description: A PSG Repository for the PSG community, where we learn with, learn
   from and learn for one another.
 image: /images/Logo_Ministry_of_Education_Singapore.png
 permalink: /
-notification: Welcome to our Parent Support Group (PSG) community! We grow
+notification: Welcome to our Parent Support Group (PSG) repository! We grow
   stronger as we learn with and from one another, to support our children's
   educational journey.
 sections:
   - hero:
-      title: Parent Support Group Repository
       background: /images/Slide3.png
-      variant: center
+      variant: image
       backgroundColor: gray
       size: md
   - infobar:
