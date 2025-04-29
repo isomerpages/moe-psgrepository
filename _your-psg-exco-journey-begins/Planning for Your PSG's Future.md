@@ -38,9 +38,6 @@ may be different from their own.</p>
 Customise this <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Handover Checklist (Template #5)</a> for
 your PSG!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Handover can be an opportunity for bonding" src="/images/Handover_and_bonding.png">
+<img style="width: 100%" height="auto" width="100%" alt="Tip from David that handover can be a bonding opportunity" src="/images/Tip_from_David_on_handover_as_bonding.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
