@@ -21,7 +21,7 @@ They tend to:</p>
 <p>Be able to bridge the cultural gap between school and home; and</p>
 </li>
 <li>
-<p>Be less anti-social and less prone to behavioural issues</p>
+<p>Be less anti-social and less prone to behavioural issues.</p>
 </li>
 </ul>
 <p></p>
