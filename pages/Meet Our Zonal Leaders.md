@@ -83,6 +83,9 @@ their abilities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="About Yusnizan" src="/images/Yus.png">
+</div>
 <details class="isomer-details">
 <summary>More about: <strong>Ms <u>Yus</u>nizan Bte Mohd Taib</strong>
 </summary>
