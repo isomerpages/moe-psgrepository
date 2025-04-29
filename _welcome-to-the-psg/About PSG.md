@@ -57,8 +57,8 @@ and ideas to improve the school and PSG. Your insights help shape a better
 experience can strengthen the PSG's efforts.</p>
 </li>
 </ul>
-<h3><strong>What to note as a PSG member?</strong></h3>
-<p><u>Respect Everyone</u>
+<h3><strong>What to Note as a PSG Member?</strong></h3>
+<p><strong>Respect Everyone</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -75,7 +75,7 @@ experience can strengthen the PSG's efforts.</p>
 any external platform (e.g. speaking to the media).</p>
 </li>
 </ul>
-<p><u>Participate Actively</u>
+<p><strong>Participate Actively</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
