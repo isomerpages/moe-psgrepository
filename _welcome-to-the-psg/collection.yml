@@ -1,0 +1,6 @@
+collections:
+  welcome-to-the-psg:
+    output: true
+    order:
+      - About PSG.md
+      - Your Support Circle.md

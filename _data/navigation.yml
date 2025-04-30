@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Ministry_of_Education_Singapore__50_x_45_cm_.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Highlights
+    url: /highlights/
+  - title: Meet Our Zonal Leaders
+    url: /zonal-leaders/
+  - title: Why Join PSG
+    url: /why-join-psg/
+  - title: Welcome To The PSG
+    collection: welcome-to-the-psg
+  - title: Your PSG EXCO Journey Begins
+    collection: your-psg-exco-journey-begins
+  - title: Be Inspired
+    url: /be-inspired/
+  - title: Resource Library
+    url: /resources/

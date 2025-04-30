@@ -1,10 +1,5 @@
-contact_us: /contact-us/
-show_reach: true
-feedback: 
-faq: /faq/
+show_reach: false
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: www.facebook.com/moesingapore/
+  instagram: https://www.instagram.com/parentingwith.moesg/
+feedback: https://form.gov.sg/6662cee56d2eed42c1dec95d

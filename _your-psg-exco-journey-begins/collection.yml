@@ -1,0 +1,10 @@
+collections:
+  your-psg-exco-journey-begins:
+    output: true
+    order:
+      - Onboard the PSG Leadership.md
+      - Building Relationships.md
+      - Preparing for the Year Ahead.md
+      - Planning for Activities.md
+      - Grow Your PSG Community.md
+      - Planning for Your PSG's Future.md
