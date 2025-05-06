@@ -1,4 +1,4 @@
-title: MOE Parent Support Group Repository
+title: MOE Parent Support Group Site
 url: https://google.com
 favicon: /images/Ministry_of_Education_Singapore__50_x_45_cm_.png
 colors:
@@ -15,8 +15,8 @@ colors:
       color: "#9ca6c5"
     - title: media-color-five
       color: "#d4b1d8"
-description: A PSG Repository for the PSG community, where we learn with, learn
-  from and learn for one another.
+description: A PSG Site for the PSG community, where we learn with, learn from
+  and learn for one another.
 permalink: none
 baseurl: ""
 exclude:
@@ -55,6 +55,6 @@ prod: https://master.d3bnk4exs40zps.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/Logo_Ministry_of_Education_Singapore.png
 is_government: false
-google_analytics_ga4: ""
+google_analytics_ga4: G-3562YVL2DB
 linkedin-insights: ""
 resources_name: resource-room-title
