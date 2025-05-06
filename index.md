@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: MOE Parent Support Group Repository
-description: A PSG Repository for the PSG community, where we learn with, learn
-  from and learn for one another.
+title: MOE Parent Support Group Site
+description: A PSG Site for the PSG community, where we learn with, learn from
+  and learn for one another.
 image: /images/Logo_Ministry_of_Education_Singapore.png
 permalink: /
 notification: Welcome to our Parent Support Group (PSG) site! We grow stronger
