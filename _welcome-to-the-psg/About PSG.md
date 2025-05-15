@@ -62,13 +62,11 @@ experience can strengthen the PSG's efforts.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Follow the school’s rules and respect the authority of the school.</p>
+<p>Model respect for school rules and policies, setting a positive example
+for students and the wider parent community.</p>
 </li>
 <li>
-<p>Respect the views and comments of fellow members.</p>
-</li>
-<li>
-<p>Dress modestly when volunteering at school events.</p>
+<p>Respect the views and comments of fellow members and school representatives.</p>
 </li>
 <li>
 <p>Unless authorised by the school leaders, do not represent the school at
