@@ -14,7 +14,7 @@ reaching out and recruiting new members.</p>
 </div>
 <p><strong>These are some reasons why parents join the Parent Support Group! Feel free to share with your parent community as part of your recruitment efforts.</strong>
 </p>
-<p>The Parent Support Group (PSG) is a great opportunity for parents to be
+<p>The Parent Support Group (PSG) is a great opportunity for parents to grow
 closer to your children, understand them better, and help them in their
 education journey.</p>
 <p></p>
