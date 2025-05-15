@@ -13,10 +13,8 @@ reaching out and recruiting new members.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Recruitment and Outreach" src="/images/PSG Guide/Recruitment_and_Outreach.png">
 </div>
 <h4><strong>These are some reasons why parents join the Parent Support Group! Feel free to share with your parent community as part of your recruitment efforts.</strong></h4>
-<p>The Parent Support Group (PSG) is a great opportunity for parents to grow
-closer to your children, understand them better, and help them in their
-education journey.</p>
-<p></p>
+<p>The PSG is a great opportunity for parents to grow closer to your children,
+understand them better, and help them in their education journey.</p>
 <p>Children also benefit when parents are more active in their school environment.
 They tend to:</p>
 <ul data-tight="true" class="tight">
@@ -30,12 +28,11 @@ They tend to:</p>
 <p>Be able to bridge the cultural gap between school and home; and</p>
 </li>
 <li>
-<p>Be less anti-social and less prone to behavioural issues.</p>
+<p>Be less anti-social and less prone to behavioural issues</p>
 </li>
 </ul>
-<p></p>
-<p><strong>There are many other reasons why parents join PSGs beyond connecting better with their children. Hear from our PSG parents!</strong>
-</p>
+<p>There are many other reasons why parents join PSGs beyond connecting better
+with their children. Hear from our PSG parents!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.schoolbag.edu.sg/story/how-fathers-groups-are-making-a-difference-in-our-schools/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">How Fathers’ Groups are making a difference in our schools</a>
