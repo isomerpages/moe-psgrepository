@@ -28,7 +28,7 @@ with the:</p>
 volunteers.</p>
 </li>
 </ul>
-<h3><strong>Managing Communications Channel within PSG</strong></h3>
+<h3><strong>Managing Communication Channels within PSG</strong></h3>
 <p>As an EXCO member, you will need to coordinate communication and resources
 within the PSG. Here are some reminders on managing team chats.</p>
 <div class="isomer-image-wrapper">
