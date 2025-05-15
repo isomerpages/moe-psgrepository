@@ -44,13 +44,12 @@ sections:
         stronger relationships between parents and our schools. We are excited
         to partner with you on this meaningful journey!
   - infopic:
-      title: Meet Our Zonal Leaders
+      title: Share Your Thoughts
       id: infopic
-      description: As Zonal Leaders, Joey, Rohani, Tina and Yusnizan, work with,
-        coordinate and advise the PSG community.
-      button: Find out more
+      description: We would love to hear from you!
+      button: Share here
       alt: Image alt text
-      url: /zonal-leaders/
+      url: /share-your-thoughts/
       image: /images/Zonal_Leaders_Edited2.jpg
   - infobar:
       title: Resource Library
