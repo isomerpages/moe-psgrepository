@@ -49,7 +49,7 @@ sections:
       description: Thank you to the PSG community and schools for sharing generously.
         We would like to invite you to further grow the site with us.
       button: We'd love to hear from you!
-      url: https://form.gov.sg/6662cee56d2eed42c1dec95d
+      url: /share-your-thoughts/
   - infobar:
       title: Resource Library
       id: infobar
