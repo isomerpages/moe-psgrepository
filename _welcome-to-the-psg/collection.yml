@@ -2,6 +2,6 @@ collections:
   welcome-to-the-psg:
     output: true
     order:
-      - Meet Our Zonal Leaders.md
       - About PSG.md
+      - Meet Our Zonal Leaders.md
       - Your Support Circle.md
