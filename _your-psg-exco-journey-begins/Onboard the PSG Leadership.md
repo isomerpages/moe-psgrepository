@@ -4,10 +4,9 @@ permalink: /your-psg-exco-journey-begins/
 variant: tiptap
 description: ""
 ---
-<p>Congratulations on your new/ continued appointment as a PSG leader. As
-an Executive Committee (EXCO) member, you are in a unique position to steer
-and contribute to your <a href="/your-support-circle/" rel="noopener nofollow" target="_blank">Support Circle</a>,
-PSG team and the parent community.</p>
+<p>As an Executive Committee (EXCO) member, you are in a unique position
+to steer and contribute to your <a href="/your-support-circle/" rel="noopener nofollow" target="_blank">Support Circle</a>, PSG team and the parent
+community.</p>
 <p>It is useful to review:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,9 +22,4 @@ which are useful in defining how the PSG works and its purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSG EXCO roles" src="/images/PSG EXCO/PSG_EXCO_roles.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
