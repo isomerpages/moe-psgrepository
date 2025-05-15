@@ -17,7 +17,7 @@ The activities and programmes should aim to support:</p>
 <p>The <strong>teachers </strong>to bring out the best in the children; and</p>
 </li>
 <li>
-<p>Other <strong>parents </strong>in their parenting journey.</p>
+<p>Other <strong>parents </strong>on their parenting journey.</p>
 </li>
 </ul>
 <h3><strong>Things to Note Before the Activity</strong></h3>
@@ -58,7 +58,7 @@ Life Camps, cook-outs); and</p>
 </li>
 <li>
 <p><u>PSG Bonding Activities</u> (e.g. parenting talks, inter-school PSG networking
-session, learning journeys for parents).</p>
+sessions, learning journeys for parents).</p>
 </li>
 </ul>
 <h4><strong>Virtual Activities</strong></h4>
@@ -73,8 +73,8 @@ your event's needs;</p>
 </li>
 <li>
 <p><u>Engage your audience:</u> Incorporate interactive elements to maintain
-interest, such as asking parents to participate by asking/replying to questions
-or polls in the chat feature; and</p>
+interest, such as inviting parents to participate by asking/replying to
+questions or polls in the chat feature; and</p>
 </li>
 <li>
 <p><u>Plan for accessibility:</u> Consider participants with different tech
@@ -83,8 +83,8 @@ skills or needs.</p>
 </ul>
 <h3><strong>Post-Activities Review</strong></h3>
 <p>After each event, it is important to hold a review with all stakeholders
-involved. The feedback we gather from such reviews will be very helpful
-for the PSG and the school when we plan our next activity.</p>
+involved. The feedback gathered from such reviews will be very helpful
+for the PSG and the school when you plan your next activity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Areas to consider after the activity" src="/images/After_activity.png">
 </div>
