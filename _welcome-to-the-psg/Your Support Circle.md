@@ -4,14 +4,14 @@ permalink: /your-support-circle/
 variant: tiptap
 description: ""
 ---
-<p>Every PSG belongs to a Support Circle usually with fellow PSGs near them,
+<p>Every PSG belongs to a Support Circle, usually with fellow PSGs near them,
 so you have a community that you can always turn to.​ JCs and Millenia
 Institute are in one Support Circle while the rest of the Support Circles
 are based on <a href="https://www.moe.gov.sg/about-us/organisation-structure/sd/school-clusters" rel="noopener nofollow" target="_blank">school clusters</a>.</p>
 <p>Support Circles offer a great opportunity to learn and share ideas with
-other PSGs. More experienced parents can share their experience and advice
-with younger parents too. Check out what Support Circles have done on
-<a href="/be-inspired/" rel="noopener nofollow" target="_blank">'Be Inspired'</a>.</p>
+other PSGs. They also provide a space for more experienced parents to share
+their experience and advice with younger parents. Check out what Support
+Circles have done on <a href="/be-inspired/" rel="noopener nofollow" target="_blank">'Be Inspired'</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Support_Circles_Final.png">
@@ -47,8 +47,7 @@ the Support Circle. Ideally, these representatives should remain in the
 Support Circle throughout the academic year to serve as the main points
 of contact for Support Circle-related programmes. A typical composition
 may include the PSG Chairperson, Vice-Chairperson, and two EXCO members.</p>
-<p>
-<br>If you are a PSG representative in the Support Circle, remember to keep
+<p>If you are a PSG representative in the Support Circle, remember to keep
 your PSG EXCO informed of key updates and share your learnings from the
 Support Circle.</p>
 <p><strong>2.&nbsp;Is there any ‘leader/EXCO’ of a Support Circle?</strong>
@@ -64,7 +63,7 @@ and mutual support.</p>
 chat group. We encourage the chat group to remain limited to members of
 the Support Circle to ensure focused and effective communication.</p>
 <p>As a gentle reminder, please keep discussions respectful and relevant
-— focusing on topics that support PSGs and benefit parents as well as our
+— focus on topics that support PSGs and benefit parents as well as our
 children.</p>
 <p><strong>4. What should I note for inter-PSG/ inter-school collaborations?</strong>
 </p>
@@ -83,8 +82,8 @@ to strengthen bonds than over <em>kopi</em>, a meal, or activities!</p>
 <p>Since 2017, the PSG Fund has been provided for under the School Operating
 Fund (SOF) Block Grant. PSGs are encouraged to discuss their plans for
 their PSGs and/or Support Circle with the partnership teacher in-charge,
-sharing their plans and exploring potential partnerships with other PSGs.
-Through such discussions, PSGs can seek school's support for such initiatives,
-subject to resource availability. For more details on funding, refer to
-<a href="/preparing-for-the-year-ahead/" rel="noopener nofollow" target="_blank">'Preparing for the Year Ahead'</a>.</p>
+sharing their ideas for the school community and exploring potential partnerships
+with other PSGs. Through such discussions, PSGs can seek school's support
+for such initiatives, subject to resource availability. For more details
+on funding, refer to <a href="/preparing-for-the-year-ahead/" rel="noopener nofollow" target="_blank">'Preparing for the Year Ahead'</a>.</p>
 <p></p>
