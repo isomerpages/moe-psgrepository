@@ -12,8 +12,7 @@ reaching out and recruiting new members.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Recruitment and Outreach" src="/images/PSG Guide/Recruitment_and_Outreach.png">
 </div>
-<p><strong>These are some reasons why parents join the Parent Support Group! Feel free to share with your parent community as part of your recruitment efforts.</strong>
-</p>
+<h4><strong>These are some reasons why parents join the Parent Support Group! Feel free to share with your parent community as part of your recruitment efforts.</strong></h4>
 <p>The Parent Support Group (PSG) is a great opportunity for parents to grow
 closer to your children, understand them better, and help them in their
 education journey.</p>
