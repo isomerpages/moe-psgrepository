@@ -4,7 +4,7 @@ permalink: /building-relationships/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Maintaining Ties with School</strong></h3>
+<h3><strong>Maintaining Ties with Your School</strong></h3>
 <p>PSGs are the bridge between the parent community and the school. Regular
 communication with the school enables strong school-home partnership, by
 strengthening the PSG’s ability to contribute meaningfully and maximising
