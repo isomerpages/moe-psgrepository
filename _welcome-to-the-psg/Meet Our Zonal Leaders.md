@@ -4,6 +4,9 @@ permalink: /zonal-leaders/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zonal_Leaders_Edited2.jpg">
+</div>
 <p>As Zonal leaders, Joey, Rohani, Tina and Yusnizan work with, coordinate
 and advise the PSG community.</p>
 <table style="minWidth: 25px">
@@ -108,8 +111,8 @@ Confident, and part of a Kinder Generation.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>If you would like to share ideas or feedback with the Zonal Leaders, drop
 them a message at <a href="mailto:fourzonalpsgchatgroups@gmail.com" rel="noopener noreferrer nofollow" target="_blank">fourzonalpsgchatgroups@gmail.com</a>.
 For enquiries regarding the Zonal or Support Circles Whatsapp chat, you
 may send in a request at <a href="https://bit.ly/PSGcontactinfo" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/PSGcontactinfo</a>.</p>
+<p></p>

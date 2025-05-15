@@ -53,8 +53,8 @@ school and the PSG.</p>
 </li>
 <li>
 <p><strong>Thought -&nbsp;</strong>Brainstorm and provide constructive feedback
-and ideas to improve the school and PSG. Your insights help shape a better
-experience can strengthen the PSG's efforts.</p>
+and ideas to improve the school and PSG. Your insights shape contribute
+to better experience for the school, parents and children.</p>
 </li>
 </ul>
 <h3><strong>What to Note as a PSG Member?</strong></h3>
@@ -62,13 +62,11 @@ experience can strengthen the PSG's efforts.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Follow the school’s rules and respect the authority of the school.</p>
+<p>Model respect for school rules and policies, setting a positive example
+for students and the wider parent community.</p>
 </li>
 <li>
-<p>Respect the views and comments of fellow members.</p>
-</li>
-<li>
-<p>Dress modestly when volunteering at school events.</p>
+<p>Respect the views and comments of fellow members and school representatives.</p>
 </li>
 <li>
 <p>Unless authorised by the school leaders, do not represent the school at

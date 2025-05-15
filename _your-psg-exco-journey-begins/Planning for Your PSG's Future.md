@@ -23,8 +23,8 @@ more closely with school priorities and goals.</p>
 </li>
 <li>
 <p><strong>Invests his/her time, energy and effort to serve the students and school</strong> -
-When potential leaders ‘make’ time to serve, they show that serving alongside
-the PSG is an important aspect in their lives.</p>
+When potential leaders set aside time to serve, they show that serving
+alongside the PSG is an important aspect in their lives.</p>
 <p></p>
 </li>
 <li>

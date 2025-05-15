@@ -130,8 +130,6 @@ in March 2022). The respective school's efforts are also listed below.</p>
 <p>Bowen Secondary School - <a href="https://docs.google.com/presentation/d/130NlVd21HFfmxLIVYVyeKdCeapmfMcJjRNxIIT9Hj5k/present?slide=id.g11e997a432f_2_59" rel="noopener nofollow" target="_blank">Raising awareness of mental well-being</a>
 </p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Catholic High School (Secondary) - <a href="https://docs.google.com/presentation/d/1vrXa-hVG2eS1oGnJ_6q2jkqTmBXeicwq8CwTLitGQCc/present?slide=id.g11e997a432f_2_59" rel="noopener nofollow" target="_blank">Building a positive kampung</a>
 </p>

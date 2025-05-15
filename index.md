@@ -34,7 +34,7 @@ sections:
           url: /welcome-to-the-psg/
         - title: Your PSG EXCO journey begins
           description: ""
-          linktext: Congrats! What's Next?
+          linktext: What's Next?
           url: /your-psg-exco-journey-begins/
         - title: Be Inspired
           description: ""
@@ -43,15 +43,6 @@ sections:
       description: Find valuable resources to support your PSG journey and help foster
         stronger relationships between parents and our schools. We are excited
         to partner with you on this meaningful journey!
-  - infopic:
-      title: Meet Our Zonal Leaders
-      id: infopic
-      description: As Zonal Leaders, Joey, Rohani, Tina and Yusnizan, work with,
-        coordinate and advise the PSG community.
-      button: Find out more
-      alt: Image alt text
-      url: /zonal-leaders/
-      image: /images/Zonal_Leaders_Edited2.jpg
   - infobar:
       title: Resource Library
       id: infobar
@@ -59,4 +50,11 @@ sections:
         reading pleasure. Feel free to share them with your parent community!
       button: Sharing is caring
       url: /resources/
+  - infobar:
+      title: Share Your Thoughts
+      id: infobar
+      description: Thank you to the PSG community and schools for sharing generously.
+        We would like to invite you to further grow the site with us.
+      button: We'd love to hear from you!
+      url: /share-your-thoughts/
 ---
