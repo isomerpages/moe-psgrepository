@@ -46,10 +46,9 @@ sections:
   - infobar:
       title: Share Your Thoughts
       id: infobar
-      description: We are grateful to the PSG community and schools for sharing
-        generously. We would like to invite you to further grow the site with
-        us.
-      button: Share with us
+      description: Thank you to the PSG community and schools for sharing generously.
+        We would like to invite you to further grow the site with us.
+      button: We'd love to hear from you!
       url: /share-your-thoughts/
   - infobar:
       title: Resource Library
