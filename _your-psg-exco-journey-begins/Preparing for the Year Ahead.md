@@ -4,7 +4,7 @@ permalink: /preparing-for-the-year-ahead/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Developing Annual Work Plan</strong></h3>
+<h3><strong>Developing Your Annual Work Plan</strong></h3>
 <p>It is good to draw up an <a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Annual Work Plan (Template #2)</a> to
 ensure a good spread of activities throughout the year.</p>
 <p>The PSG EXCO should discuss the work plan with the PSG Partnership teacher
