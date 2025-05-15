@@ -19,13 +19,13 @@ understand them better, and help them in their education journey.</p>
 They tend to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Show more positive attitudes;</p>
+<p>Developbb more positive attitudes;</p>
 </li>
 <li>
 <p>Have better school attendance and complete homework more consistently;</p>
 </li>
 <li>
-<p>Be able to bridge the cultural gap between school and home; and</p>
+<p>Be better at bridging the cultural gap between school and home; and</p>
 </li>
 <li>
 <p>Be less anti-social and less prone to behavioural issues</p>
