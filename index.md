@@ -43,14 +43,12 @@ sections:
       description: Find valuable resources to support your PSG journey and help foster
         stronger relationships between parents and our schools. We are excited
         to partner with you on this meaningful journey!
-  - infopic:
+  - infobar:
       title: Share Your Thoughts
-      id: infopic
+      id: infobar
       description: We would love to hear from you!
-      button: Share here
-      alt: Image alt text
+      button: Share Here
       url: /share-your-thoughts/
-      image: /images/Zonal_Leaders_Edited2.jpg
   - infobar:
       title: Resource Library
       id: infobar
