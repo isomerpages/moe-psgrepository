@@ -40,7 +40,7 @@ with the school. Beyond understanding the school’s priorities for the year
 to develop the PSG work plan, do check with the school on the financial
 processes as <strong>all PSG expenditure should come from the school’s PSG Fund.</strong>&nbsp;</p>
 <p>PSGs may wish to refer to the <a href="https://docs.google.com/document/d/1qfSoy3VkDlx4IsRIcIXsU99Is7Jn2E6c/edit?usp=sharing&amp;ouid=106023042640212375039&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Managing Finances Checklist (Template #3)</a> which
-outlines key steps when tapping on PSG Funds.</p>
+outlines key steps to take when tapping on PSG Funds.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSG Fund Facts" src="/images/Finances/PSG_Fund_Facts.png">
