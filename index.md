@@ -44,17 +44,17 @@ sections:
         stronger relationships between parents and our schools. We are excited
         to partner with you on this meaningful journey!
   - infobar:
-      title: Share Your Thoughts
-      id: infobar
-      description: Thank you to the PSG community and schools for sharing generously.
-        We would like to invite you to further grow the site with us.
-      button: We'd love to hear from you!
-      url: /share-your-thoughts/
-  - infobar:
       title: Resource Library
       id: infobar
       description: Explore a collection of parenting resources curated for your
         reading pleasure. Feel free to share them with your parent community!
       button: Sharing is caring
       url: /resources/
+  - infobar:
+      title: Share Your Thoughts
+      id: infobar
+      description: Thank you to the PSG community and schools for sharing generously.
+        We would like to invite you to further grow the site with us.
+      button: We'd love to hear from you!
+      url: /share-your-thoughts/
 ---
