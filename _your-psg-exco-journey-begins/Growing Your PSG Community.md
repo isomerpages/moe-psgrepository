@@ -19,7 +19,7 @@ understand them better, and help them in their education journey.</p>
 They tend to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Developbb more positive attitudes;</p>
+<p>Develop more positive attitudes;</p>
 </li>
 <li>
 <p>Have better school attendance and complete homework more consistently;</p>
