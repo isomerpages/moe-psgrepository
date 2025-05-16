@@ -24,10 +24,6 @@ sections:
       title: Getting Started!
       id: textcards
       cards:
-        - title: Why Join PSG?
-          description: ""
-          linktext: '"Tell Me Why"'
-          url: /why-join-psg/
         - title: Welcome to the PSG
           description: ""
           linktext: The Essentials
