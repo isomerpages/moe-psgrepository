@@ -9,8 +9,9 @@ description: ""
 an experienced team graduates from the PSG.</p>
 <p>Brewing a strong PSG leadership is like making the perfect cup of tea.
 Just follow the <strong>SIP</strong> method!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="succession planning" src="/images/PSG EXCO/Succession_Planning__SIP_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/updated__SIP_method_for_succession_planning.png">
 </div>
 <h3><strong>Attributes of Potential Leaders</strong></h3>
 <ul data-tight="true" class="tight">
