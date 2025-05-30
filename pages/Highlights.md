@@ -87,8 +87,18 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 78%;" height="auto" width="100%" alt="PSG newsletter May 2025" src="/images/PSG_newsletter_thumbnail___May_2025.png">
+</div>
+<p></p>
+<p>27 May 2025: <a href="https://go.gov.sg/moe-psgnewsletter" rel="noopener nofollow" target="_blank">PSG Newsletter: Parenting Our Children in a Digital Age</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_March_2025.jpg">
 </div>
+<p></p>
 <p>19 March 2025: <a href="https://drive.google.com/file/d/1ifWSz3uouoio_zbZhKi69Bb9PkirwDqZ/view" rel="noopener nofollow" target="_blank">PSG Newsletter: Providing Our Children a Good Start to Grow Well</a>
 </p>
 <ul data-tight="true" class="tight">
@@ -98,31 +108,33 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </li>
 </ul>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Feb_2025.jpg">
-</div>
-<p>19 February 2025: <a href="https://drive.google.com/file/d/1Zs1BCU4fdLnx_8cDJbdhNMoYNkijPTNJ/view?usp=sharing" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: From Foundations to Frontiers: Our Education Journey</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Read Minister Chan's <a href="https://go.gov.sg/oureducationjourney" rel="noopener nofollow" target="_blank">Full Speech</a>
-</p>
-</li>
-<li>
-<p>Watch Minister Chan's <a href="https://go.gov.sg/video-oureducationjourney" rel="noopener nofollow" target="_blank">Full Speech</a>
-</p>
-</li>
-</ul>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/19_Feb_2025.jpg">
+</div>
+<p></p>
+<p><strong>19 February 2025: <a href="https://drive.google.com/file/d/1Zs1BCU4fdLnx_8cDJbdhNMoYNkijPTNJ/view?usp=sharing" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: From Foundations to Frontiers: Our Education Journey</a></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Read Minister Chan's <a href="https://go.gov.sg/oureducationjourney" rel="noopener nofollow" target="_blank">Full Speech</a></strong>
+</p>
+</li>
+<li>
+<p><strong>Watch Minister Chan's <a href="https://go.gov.sg/video-oureducationjourney" rel="noopener nofollow" target="_blank">Full Speech</a></strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Feb_2025.jpg">
 </div>
+<p></p>
 <p><strong>7 February 2025: <a href="https://drive.google.com/file/d/1oXaLCi6Y8YULp5V6AFHfr6P14baH4UqD/view" rel="noopener nofollow" target="_blank">A Note to PSG Leaders: MOE's stand on bullying</a></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -139,10 +151,6 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
