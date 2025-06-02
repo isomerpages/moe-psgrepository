@@ -27,11 +27,11 @@ journey</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.schoolbag.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Schoolbag.edu.sg" src="/images/Resource icons/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Schoolbag.edu.sg</div><div class="isomer-card-description">Get insights, views and tips on parent-school partnerships, school life and more.</div><div class="isomer-card-link">Schoolbag, your education content site</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resource icons/7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">The refreshed guidelines focus on respectful communication between parents and teachers, being good role models, and supporting children to develop strong relationships and healthy digital habits.</div><div class="isomer-card-link">Read more.</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refreshed GSHP" src="/images/Resource icons/7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">The refreshed guidelines focus on respectful communication between parents and teachers, being good role models, and supporting children to develop strong relationships and healthy digital habits.</div><div class="isomer-card-link">Read more.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pfw" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resource icons/5.png">
+<img style="width: 100%" height="auto" width="100%" alt="PfW" src="/images/Resource icons/5.png">
 </div>
 </div>
 <div class="isomer-card-body">
