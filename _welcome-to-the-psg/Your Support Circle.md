@@ -16,26 +16,7 @@ Circles have done on <a href="/be-inspired/" rel="noopener nofollow" target="_bl
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG Guide/Support_Circles_Final.png">
 </div>
-<p>Find out your Support Circle’s strengths, wishes, goals and progress on
-Padlet.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://go.gov.sg/psgsc-north-jcmi" rel="noopener nofollow" target="_blank">North &amp; JC/MI Zone</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://go.gov.sg/psgsc-south" rel="noopener nofollow" target="_blank">South Zone</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://go.gov.sg/psgsc-east" rel="noopener nofollow" target="_blank">East Zone</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://go.gov.sg/psgsc-west" rel="noopener nofollow" target="_blank">West Zone</a></strong>
-</p>
-</li>
-</ul>
+<p></p>
 <p></p>
 <hr>
 <h3><strong>Frequently Asked Questions</strong></h3>
