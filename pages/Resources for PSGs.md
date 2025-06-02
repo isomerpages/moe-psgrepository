@@ -85,7 +85,7 @@ and resilience, and parent effectively in the digital age.</div>
 </table>
 <hr>
 <h3><strong>Useful Templates for PSG EXCO</strong></h3>
-<p>Feel free to edit the templates based on your PSG’s needs.</p>
+<p>Feel free to download and edit the templates based on your PSG’s needs.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/drive/folders/1glPfP9btv96djL82FcddoUjJtsCE7oVR?usp=sharing" rel="noopener nofollow" target="_blank">Terms of Reference (Template #1)</a>
