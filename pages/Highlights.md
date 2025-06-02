@@ -90,7 +90,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <img style="width: 78%;" height="auto" width="100%" alt="PSG newsletter May 2025" src="/images/PSG_newsletter_thumbnail___May_2025.png">
 </div>
 <p></p>
-<p>27 May 2025: <a href="https://go.gov.sg/moe-psgnewsletter" rel="noopener nofollow" target="_blank">PSG Newsletter: Parenting Our Children in a Digital Age</a>
+<p>27 May 2025: <a href="https://drive.google.com/file/d/1bgQQQoRIFE3Y3S1uBLKr3H68TOKOlhaZ/view?usp=sharing" rel="noopener nofollow" target="_blank">PSG Newsletter: Parenting Our Children in a Digital Age</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
