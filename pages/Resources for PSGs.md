@@ -26,7 +26,7 @@ journey</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.schoolbag.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Schoolbag.edu.sg" src="/images/Resource icons/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Schoolbag.edu.sg</div><div class="isomer-card-description">Get insights, views and tips on parent-school partnerships, school life and more.</div><div class="isomer-card-link">Schoolbag, your education content site</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refreshed GSHP" src="/images/Resource icons/7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">The refreshed guidelines focus on respectful communication between parents and teachers, being good role models, and supporting children to develop strong relationships and healthy digital habits.</div><div class="isomer-card-link">Read more.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/gshp-wps2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refreshed GSHP" src="/images/Resource icons/7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refreshed Guidelines for School-Home Partnership</div><div class="isomer-card-description">The refreshed guidelines focus on respectful communication between parents and teachers, being good role models, and supporting children to develop strong relationships and healthy digital habits.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pfw" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -38,9 +38,9 @@ journey</div>
 <div class="isomer-card-description">An initiative to empower parents with key knowledge and skills to build
 strong parent-child relationships, strengthen their children's mental well-being
 and resilience, and parent effectively in the digital age.</div>
-<div class="isomer-card-link">Read more.</div>
+<div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/growwellsg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resource icons/6.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grow Well SG</div><div class="isomer-card-description">Grow Well SG is designed to support families in cultivating healthy habits for children and adolescents. It focuses on 4 areas - Exercise Well, Eat Well, Learn Well, and Sleep Well.</div><div class="isomer-card-link">Read more.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/growwellsg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resource icons/6.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grow Well SG</div><div class="isomer-card-description">Grow Well SG is designed to support families in cultivating healthy habits for children and adolescents. It focuses on 4 areas - Exercise Well, Eat Well, Learn Well, and Sleep Well.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <h3><strong>Resources on Supporting Parents and Children</strong></h3>
 <table style="minWidth: 25px">
@@ -108,5 +108,6 @@ and resilience, and parent effectively in the digital age.</div>
 <p></p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <p></p>

@@ -5,7 +5,18 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>What's up this year?</strong></h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1dizw7ovI9QH9tu0mYssooz_800rzRPxZ/view" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="thumbnail" src="/images/18_Jan_SOTY.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">18 January: Start of the Year PSG Engagement Session</div><div class="isomer-card-description">Together as One Community</div><div class="isomer-card-link">Information Deck</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1P4TeGveIB2fJyyKTd0KNzDX456XMW9n4/view?usp=drivesdk" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of presentation deck" src="/images/PSG_onboarding_workshop_2025_presentation_deck_image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">31 May: PSG Onboarding Workshop</div><div class="isomer-card-link">Presentation Deck</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1dizw7ovI9QH9tu0mYssooz_800rzRPxZ/view" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="thumbnail" src="/images/18_Jan_SOTY.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">18 January: Start of the Year PSG Engagement Session</div>
+<div class="isomer-card-link">Information Deck</div>
+</div>
+</a>
 </div>
 <h2><strong>Past Years' Events</strong></h2>
 <details class="isomer-details">

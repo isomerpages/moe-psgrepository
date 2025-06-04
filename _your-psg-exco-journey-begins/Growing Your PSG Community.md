@@ -47,4 +47,7 @@ with their children. Hear from our PSG parents!</p>
 </p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG onboarding workshop 2025's participants shared the most persuasive reason they heard to join PSG" src="/images/Why_join_PSG_by_2025_onboarding_participants.png">
+</div>
 <p></p>
