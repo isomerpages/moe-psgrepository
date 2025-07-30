@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>What's up this year?</strong></h2>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WnEQAcr7kvlSbQnw6obepPK4sf0aEPfe/view?usp=drivesdk" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image to Presentation Deck" src="/images/Support_Circles_Zonal_Session.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">12 &amp; 19 July: Support Circles Zonal Sessions - Byte-Size: Parenting in a Digital Ag</div><div class="isomer-card-link">Presentation Deck</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1P4TeGveIB2fJyyKTd0KNzDX456XMW9n4/view?usp=drivesdk" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of presentation deck" src="/images/PSG_onboarding_workshop_2025_presentation_deck_image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">31 May: PSG Onboarding Workshop</div><div class="isomer-card-link">Presentation Deck</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1dizw7ovI9QH9tu0mYssooz_800rzRPxZ/view" class="isomer-card">
 <div class="isomer-card-image">
