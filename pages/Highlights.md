@@ -98,6 +98,32 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newsletter_screenshot.png">
+</div>
+<p><strong>24 October 2025</strong>: <a href="https://drive.google.com/file/d/1aL_FzU_vzTqRZY_J33yqQQ60aHo6i6BS/view?usp=drivesdk" rel="noopener nofollow" target="_blank">PSG Newsletter: Supporting Parents on Vaping and Bullying</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://familiesforlife.sg/pages/parents-guide-on-vaping" rel="noopener nofollow" target="_blank">Families for Life: Parents Guide on Vaping</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/news/edtalks/how-do-moe-and-schools-manage-bullying-and-hurtful-behaviours" rel="noopener nofollow" target="_blank">EDTalk: How do MOE and schools manage hurtful behaviours and bullying?</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">Guidelines on School-Home Partnership</a>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
