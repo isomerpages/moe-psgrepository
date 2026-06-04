@@ -99,13 +99,15 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newsletter_screenshot.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/psg_newsletter_thumbnail_01_2026.png">
 </div>
 <p><strong>20 February 2026</strong>: <a href="https://go.gov.sg/psgnewsletter-012026" rel="noopener nofollow" target="_blank">PSG Newsletter: Familiar Roles, Fresh Resolve</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/newsletter_screenshot.png">
 </div>
