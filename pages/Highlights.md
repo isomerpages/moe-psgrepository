@@ -101,7 +101,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/psg_newsletter_thumbnail_01_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_06_04_121308.png">
 </div>
 <p><strong>20 February 2026</strong>: <a href="https://go.gov.sg/psgnewsletter-012026" rel="noopener nofollow" target="_blank">PSG Newsletter: Familiar Roles, Fresh Resolve</a>
 </p>
