@@ -6,7 +6,19 @@ description: ""
 ---
 <h2><strong>What's up this year?</strong></h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WnEQAcr7kvlSbQnw6obepPK4sf0aEPfe/view?usp=drivesdk" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image to Presentation Deck" src="/images/Support_Circles_Zonal_Session.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">12 &amp; 19 July: Support Circles Zonal Sessions - Byte-Size: Parenting in a Digital Age</div><div class="isomer-card-link">Presentation Deck</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1I8NSbIragZaKznXi9EZXcf1t3D4J3Z-2?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="May 2026 PSG Workshop Cover" src="/images/psg_file.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">May 2026: Building Safe, Caring Spaces for Children and Parents</div><div class="isomer-card-link">Presentation Deck and Sharing by Singapore Children's Society</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WnEQAcr7kvlSbQnw6obepPK4sf0aEPfe/view?usp=drivesdk" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image to Presentation Deck" src="/images/Support_Circles_Zonal_Session.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">12 &amp; 19 July: Support Circles Zonal Sessions - Byte-Size: Parenting
+in a Digital Age</div>
+<div class="isomer-card-link">Presentation Deck</div>
+</div>
+</a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1P4TeGveIB2fJyyKTd0KNzDX456XMW9n4/view?usp=drivesdk" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of presentation deck" src="/images/PSG_onboarding_workshop_2025_presentation_deck_image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">31 May: PSG Onboarding Workshop</div><div class="isomer-card-link">Presentation Deck</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1dizw7ovI9QH9tu0mYssooz_800rzRPxZ/view" class="isomer-card">
@@ -127,22 +139,7 @@ Relationships (<a href="https://drive.google.com/file/d/1363kZnctUpkbEyOyRlBjSNH
 </p>
 </li>
 </ul>
-<p><strong>24 October 2025</strong>: <a href="https://drive.google.com/file/d/1aL_FzU_vzTqRZY_J33yqQQ60aHo6i6BS/view?usp=drivesdk" rel="noopener nofollow" target="_blank">PSG Newsletter: Supporting Parents on Vaping and Bullying</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://familiesforlife.sg/pages/parents-guide-on-vaping" rel="noopener nofollow" target="_blank">Families for Life: Parents Guide on Vaping</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/news/edtalks/how-do-moe-and-schools-manage-bullying-and-hurtful-behaviours" rel="noopener nofollow" target="_blank">EDTalk: How do MOE and schools manage hurtful behaviours and bullying?</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">Guidelines on School-Home Partnership</a>
-</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
